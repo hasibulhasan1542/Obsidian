@@ -7,3 +7,6 @@
 7. **Have to avoid extreme opinion:** My own judgement shouldn't be passed. In some cases my thought can be delivered, but my judgement mustn't.
 8. Using graph and charts
 9. Handwriting must be clean
+10. **Underlining:** Using caps as point name and putting keywords in the beginning of the points.
+11. Diagrams are equal important as content for extra mark
+12. 
