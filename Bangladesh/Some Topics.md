@@ -1,0 +1,1 @@
+https://www.thedailystar.net/opinion/views/news/pathways-the-downfall-regime-3877616
