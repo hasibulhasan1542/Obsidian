@@ -23,4 +23,4 @@ Prerequisites
 17) Go to 'Git' plugin settings and put `sync time` here 'Auto commit-and-sync interval (minutes)'
 18) Now edit your files in local repo and wait till `sync time`
 19) After `sync time` go to GitHub and reload to check if it's updating automatically
-20) 
+20) Change
