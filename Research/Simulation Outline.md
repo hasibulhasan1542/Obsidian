@@ -95,3 +95,60 @@ You can model:
 ---
 
 Let me know if you want a sample case structure or species dictionary example.
+
+## rhoReactingBuoyantFoam
+
+Description
+
+rhoReactingBuoyantFoam is a solver designed for the transient simulations of compressible, reacting flows with an enhanced treatment of buoyancy forces. This solver is specifically tailored for simulating combustion processes and chemical reactions within compressible flow regimes. It can handle both laminar and turbulent, multicomponent (mixture) flows, accounting for variations in temperature and density by solving the energy equation. The solver is particularly well-suited for the simulation of combustion processes and chemical reactions in fluids, accommodating various reaction kinetics and species transport mechanisms.
+
+This solver is analogous to rhoReactingFoam, with the addition of a buoyancy force term in the equations of motion. Both solvers base their calculations of thermophysical properties on density. The thermodynamic models within the solver describe how to manage the relationship between pressure, density, and temperature in the context of reacting flows.
+
+`rhoReactingBuoyantFoam` uses density for its calculations, making it suitable for situations where density changes are primarily due to temperature variations. However, it is also capable of handling compressible flows, including those in transonic conditions.
+
+The solver employs the PIMPLE algorithm, a merged PISO-SIMPLE approach, for pressure-momentum coupling. This method combines the strengths of both the PISO and SIMPLE methods for pressure-velocity coupling, ensuring robustness in handling transient flows with large time steps. It features adaptive time step size adjustment within different regions through Local Time Stepping (LTS) functionality. Moreover, it supports Multiple Reference Frames (MRF), porosity modeling, and allows for the easy integration of passive scalar transport equations and source terms.
+
+The enhanced buoyancy treatment makes the solver particularly suitable for analyzing combustion processes and reacting flows where buoyancy plays a crucial role. It is applicable for the analysis of burners or engines, furnaces, and enclosed spaces, where buoyancy effects due to temperature gradients significantly influence flow and reaction patterns.
+
+## Why `rhoReactingFoam`?
+
+Here's a clear comparison of the three OpenFOAM solvers: `rhoSimpleFoam`, `rhoReactingFoam`, and `rhoPimpleFoam` — focusing on **application**, **physics handled**, and **solver characteristics**.
+
+| Feature / Solver     | `rhoSimpleFoam`                                 | `rhoReactingFoam`                                   | `rhoPimpleFoam`                                                     |
+| -------------------- | ----------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------- |
+| **Flow Type**        | Steady-state                                    | Transient (time-dependent)                          | Transient (time-dependent)                                          |
+| *Compressibility*    | Yes                                             | Yes                                                 | Yes                                                                 |
+| *Turbulence*         | Yes                                             | Yes                                                 | Yes                                                                 |
+| *Chemistry*          | ❌ No                                            | ✅ Yes (combustion/reactions supported)              | ❌ No                                                                |
+| *Multicomponent Gas* | ❌ Typically single fluid                        | ✅ Yes (e.g., H₂ + O₂ + N₂ mixture)                  | ✅ Possible (if modified)                                            |
+| *Thermal Effects*    | ✅ Yes (includes energy equation)                | ✅ Yes (with heat release from reactions)            | ✅ Yes                                                               |
+| *Buoyancy Effects*   | ✅ Yes (via gravity and density in momentum eqn) | ✅ Yes (density gradients due to reaction + heat)    | ✅ Yes                                                               |
+| *Solver Algorithm*   | SIMPLE (for steady compressible flows)          | PISO-based for transient reactive flows             | PIMPLE = PISO + SIMPLE (for stability & speed)                      |
+| *Typical Use*        | Steady compressible flow (e.g., nozzle, duct)   | Combustion, gas leakage with reactions, fire spread | Transient compressible flows with moving meshes or large time steps |
+
+---
+
+### ✅ Which one for **Hydrogen Leakage**?
+
+- 🔥 **Use `rhoReactingFoam`** if:
+    
+    - You want to simulate realistic gas behavior (multi-species).
+        
+    - You want to simulate **chemical reactions** (like hydrogen combustion).
+        
+    - You need **density-driven buoyancy effects** from gas mixture differences.
+        
+- 🌀 **Use `rhoPimpleFoam` or `rhoCentralFoam`** if:
+    
+    - You want fast, transient compressible flow (without reactions).
+        
+    - You model only hydrogen mixing (no combustion).
+        
+- 🧊 **Avoid `rhoSimpleFoam`** for gas leakage, because:
+    
+    - It's **steady-state only** — not suitable for leakage or spreading over time.
+        
+
+---
+
+Would you like a comparison that includes solvers like `XiFoam`, `reactingFoam`, or `buoyantBoussinesqPimpleFoam` too?
