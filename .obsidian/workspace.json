@@ -36,35 +36,21 @@
             }
           },
           {
-            "id": "11ca7e97107ec5e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Test run.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test run"
-            }
-          },
-          {
             "id": "f178981b2bcd4ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Test run.md",
+                "file": "English/Essay/Romanticism in Bangla Literature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test run"
+              "title": "Romanticism in Bangla Literature"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,14 +200,14 @@
   "active": "f178981b2bcd4ce5",
   "lastOpenFiles": [
     "Research/Random Notes.md",
-    "Research/Test run.md",
     "English/Essay/Romanticism in Bangla Literature.md",
+    "Research/Test run.md",
+    "English/Essay/Nationalism, Literature and Cultural Identity.md",
+    "English/Essay/List.md",
     "Research/Simulation Outline.md",
     "English/Essay/Romanticism.md",
-    "English/Essay/List.md",
     "English/Essay/Literature and the Individual.md",
     "Research/Multi-phase solver list.md",
-    "English/Essay/Nationalism, Literature and Cultural Identity.md",
     "Research/Which for Which.md",
     "rhoReactingBuoyantFoam.md",
     "Research/createPatch.md",

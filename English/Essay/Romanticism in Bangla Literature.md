@@ -9,7 +9,7 @@ This context of cultural cross-pollination produced a generation of Bengali thin
 
 #### Michael Madhusudan Dutt: The Founding Romantic Voice
 
-Michael Madhusudan Dutt (1824–1873) stands at the threshold of Romanticism in Bangla literature. Educated in Western classics and influenced by English and French Romantic poets, Dutt sought to modernize Bengali poetry by fusing indigenous themes with European forms. His Meghnad Badh Kavya (1861), a retelling of the Ramayana from the perspective of Meghnad, epitomizes this cultural and poetic fusion. The poem’s tragic hero, emotional grandeur, and introspective conflict embody Romantic ideals of individual struggle, sublime beauty, and imaginative re-visioning of tradition.
+Michael Madhusudan Dutt (1824–1873) stands at the threshold of Romanticism in Bangla literature. Educated in Western classics and influenced by English and French Romantic poets, Dutt sought to modernize Bengali poetry by fusing indigenous themes with European forms. His Meghnad Badh Kabya (1861), a retelling of the Ramayana from the perspective of Meghnad, epitomizes this cultural and poetic fusion. The poem’s tragic hero, emotional grandeur, and introspective conflict embody Romantic ideals of individual struggle, sublime beauty, and imaginative re-visioning of tradition.
 
 Dutt also introduced amitrakshar chhanda (blank verse) to Bengali poetry, liberating it from rigid classical meters and enabling more fluid emotional expression. His deep engagement with both Western and Indian traditions marked the beginning of a hybrid Romanticism—one that would flourish in later decades.
 
@@ -38,11 +38,13 @@ At the same time, Nazrul remained profoundly Romantic in his vision of love, bea
 Lesser-known but vital voices of Bangla Romanticism include Biharilal Chakraborty and Nabinchandra Sen. Biharilal, often dubbed the “Morning Star” of lyrical Bangla poetry, emphasized nature and emotional sensitivity, prefiguring Tagore’s lyricism. Nabinchandra, meanwhile, blended patriotic fervor with mythological reimaginings, contributing to a cultural Romanticism that emphasized pride in India’s past.
 
 Both poets bridged earlier classicism and emerging Romanticism, helping to expand poetic subjectivity and thematic range.
-Jibanananda Das: The Introspective and Modern Romantic
+
+#### Jibanananda Das: The Introspective and Modern Romantic
 
 With Jibanananda Das (1899–1954), Bangla Romanticism matured into a modernist introspection. His works, especially Ruposhi Bangla and Banalata Sen, exemplify a melancholic, reflective Romanticism. Time, memory, death, and solitude pervade his poetry, often set against haunting natural imagery. Das’s Bengal is both familiar and surreal—a landscape of nostalgia, desire, and existential unease.
 
 While his style diverged from the lyricism of Tagore or the fire of Nazrul, Das preserved the Romantic commitment to individual emotion, the metaphysical allure of nature, and the poetic gaze turned inward. He represents the Romantic soul in a modernist world—dislocated, meditative, and yearning.
+
 Romanticism’s Enduring Themes in Bangla Literature
 
 Several recurring themes unify Romanticism in Bangla literature:

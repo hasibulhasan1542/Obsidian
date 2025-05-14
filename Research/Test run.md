@@ -31,3 +31,7 @@ for base tutorial, `chockednozzle` was selected.
 # Need to check `0` , `system`and `constant` folders
 
 - [ ] /mnt/primary/Thesis/tutorials/compressible/sonicFoam/laminar/forwardStep
+
+# We'll use 
+
+- [ ] counterflowflame tutorial because there are two inlet conditions, ideal for H2 and air mixture.
