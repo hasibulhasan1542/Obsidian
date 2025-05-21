@@ -27,30 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Essay/List.md",
+                "file": "English/Essay/Modern World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Modern World"
             }
           },
           {
-            "id": "f178981b2bcd4ce5",
+            "id": "2cf999231bd9c833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Essay/Romanticism in Bangla Literature.md",
+                "file": "Modern World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Romanticism in Bangla Literature"
+              "title": "Modern World"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -197,16 +197,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f178981b2bcd4ce5",
+  "active": "d2662dd2276ef3b4",
   "lastOpenFiles": [
-    "Research/Random Notes.md",
-    "English/Essay/Romanticism in Bangla Literature.md",
-    "Research/Test run.md",
+    "English/Essay/Literature and the Individual.md",
+    "Untitled.md",
+    "English/Essay/Communal Harmony- Global and Home Perspective.md",
     "English/Essay/Nationalism, Literature and Cultural Identity.md",
+    "English/Essay/Romanticism in Bangla Literature.md",
+    "English/Essay/Modern World.md",
+    "English/Essay/Literature.md",
+    "English/Essay/Politics.md",
+    "Research/Random Notes.md",
     "English/Essay/List.md",
+    "Research/Test run.md",
     "Research/Simulation Outline.md",
     "English/Essay/Romanticism.md",
-    "English/Essay/Literature and the Individual.md",
     "Research/Multi-phase solver list.md",
     "Research/Which for Which.md",
     "rhoReactingBuoyantFoam.md",
@@ -221,11 +226,6 @@
     "Essay Writing/Right is Duty Well Performed.md",
     "Essay Writing/The More You Know, The More You Realize You Know Nothing.md",
     "For Publication/CFD + GNN.md",
-    "Essay Writing/The Evolution of Trust in the Digital Age.md",
-    "Essay Writing/The Illusion of Freedom.md",
-    "Essay Writing/The Pursuit of Happiness.md",
-    "Essay Writing/The Paradox of Choice.md",
-    "Essay Writing/Quotes.md",
     "Unconfirmed 121114.crdownload",
     "For Publication"
   ]
