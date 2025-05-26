@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Essay/Modern World.md",
+                "file": "Obsidian Git Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modern World"
+              "title": "Obsidian Git Sync"
             }
           },
           {
@@ -197,14 +197,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2662dd2276ef3b4",
+  "active": "52762d023e118f93",
   "lastOpenFiles": [
+    "Obsidian Git Sync.md",
+    "Senior Scale Exam/BA/বাংলাদেশের ভূ-প্রকৃতি ও ভূ-রাজনীতি.md",
+    "Senior Scale Exam/CA",
+    "Senior Scale Exam/BA",
+    "Senior Scale Exam",
+    "Obsidian-VScode Git Sync Guide.md",
+    "English/Essay/Modern World.md",
     "English/Essay/Literature and the Individual.md",
-    "Untitled.md",
     "English/Essay/Communal Harmony- Global and Home Perspective.md",
     "English/Essay/Nationalism, Literature and Cultural Identity.md",
     "English/Essay/Romanticism in Bangla Literature.md",
-    "English/Essay/Modern World.md",
     "English/Essay/Literature.md",
     "English/Essay/Politics.md",
     "Research/Random Notes.md",
@@ -217,15 +222,12 @@
     "rhoReactingBuoyantFoam.md",
     "Research/createPatch.md",
     "Research/topoSet and createPatch.md",
-    "Obsidian Git Sync.md",
     "Research/Deepseek.md",
     "Research/ChatGPT.md",
     "[topoSet.md",
     "English/Essay",
     "Essay Writing/The Doubter is a True Man of Science.md",
     "Essay Writing/Right is Duty Well Performed.md",
-    "Essay Writing/The More You Know, The More You Realize You Know Nothing.md",
-    "For Publication/CFD + GNN.md",
     "Unconfirmed 121114.crdownload",
     "For Publication"
   ]
