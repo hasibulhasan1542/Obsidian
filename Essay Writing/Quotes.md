@@ -2,10 +2,10 @@
 1. “Education is the most powerful weapon you can use to change the world.” Nelson Mandela
 2. “Live as if you were to die tomorrow. Learn as if you were to live forever.” Mahatma Gandhi
 3. “Children must be taught how to think, not what to think.” Margaret Mead
-“Education is what remains after one has forgotten what one has learnt in school.”
+>[!Quote] 
+>“Education is what remains after one has forgotten what one has learnt in school.”
 Einstein
-“It is the mark of an educated mind to be able to entertain a thought without
-accepting it.” Aristotle
+“It is the mark of an educated mind to be able to entertain a thought without accepting it.” Aristotle
 Intelligence plus character - that is the goal of true education.
 Education is a bridge from misery to hope
 “Education is the manifestation of perfection already in man.” Swami Vivekananda
