@@ -6,6 +6,13 @@ pip freeze
 >```Bash
 pip freeze | xargs pip uninstall -y
 
+
+>[!Important] remove unnecessary packages
+>```bash
+>pip freeze | grep -vE '^(pip|setuptools|wheel)' | xargs pip uninstall -y
+
+```
+
 >[!Important] clear pip caache
 >```Bash
 >	pip cache purge
@@ -27,3 +34,5 @@ B --> C[Testing]
 
 ```
 
+### Our Steps
+After removing all packages of pip, we installed dgl with torch 2.4 and cu124 (by default).

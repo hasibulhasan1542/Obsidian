@@ -413,3 +413,11 @@ for full license text. Enterprise SLA, support and preview access are available
 under NVAIE.
 
 
+```mermaid
+timeline
+    title Estimated Training Timeline
+    section Encoder-Decoder
+     Phase 1 : 301 epochs : 1-2 days (GPU)
+    section Temporal Model
+     Phase 2 : 200k epochs : 3-5 days (GPU)
+```
