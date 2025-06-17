@@ -1,4 +1,4 @@
-Prerequisites
+	Prerequisites
 - Install Obsidian
 - Install Git
 - Create GitHub Account

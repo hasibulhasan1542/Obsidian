@@ -1,0 +1,1 @@
+Nvidia Physicsnemo's vortex_shedding with mgn work on my pc after so many tweaking. Now I have use other data and modify the code.
