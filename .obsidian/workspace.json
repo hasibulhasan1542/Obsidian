@@ -8,91 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eed3e928825b29d4",
+            "id": "6f673d8c776776af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Essay/Romanticism in Bangla Literature.md",
+                "file": "Operating System/MacOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Romanticism in Bangla Literature"
+              "title": "MacOS"
             }
           },
           {
-            "id": "d2662dd2276ef3b4",
+            "id": "a587c26b6de0ef43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Git Sync.md",
+                "file": "Operating System/Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Git Sync"
-            }
-          },
-          {
-            "id": "9314e56ab6197c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/New Ideas by GPT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Ideas by GPT"
-            }
-          },
-          {
-            "id": "3ae9b8c1a552bd78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Pip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pip"
-            }
-          },
-          {
-            "id": "3468bd6513c5ede8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Google's GNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google's GNN"
-            }
-          },
-          {
-            "id": "b054c3d27cc94c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Learning Mesh-Based Flow Simulations on Graph Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning Mesh-Based Flow Simulations on Graph Networks"
+              "title": "Windows"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,17 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b054c3d27cc94c4c",
+  "active": "a587c26b6de0ef43",
   "lastOpenFiles": [
-    "Research/GNN.md",
+    "Research/Our Working.md",
     "Research/Pip.md",
+    "Operating System/MacOS.md",
+    "Operating System/Windows.md",
+    "Operating System/Arch Linux.md",
     "Research/Learning Mesh-Based Flow Simulations on Graph Networks.md",
+    "Operating System",
     "Research/Google's GNN.md",
+    "Research/GNN.md",
     "Research/Which for Which.md",
     "Research/Multi-phase solver list.md",
     "Research/Simulation Outline.md",
     "Research/Random Notes.md",
-    "Research/Our Working.md",
     "Research/New Ideas by GPT.md",
     "Obsidian.md",
     "Obsidian-VScode Git Sync Guide.md",
@@ -267,9 +215,6 @@
     "English/Essay/Literature and the Individual.md",
     "English/Essay/Communal Harmony- Global and Home Perspective.md",
     "English/Essay/Nationalism, Literature and Cultural Identity.md",
-    "English/Essay/Romanticism in Bangla Literature.md",
-    "English/Essay/Literature.md",
-    "English/Essay/Politics.md",
     "English/Essay",
     "Unconfirmed 121114.crdownload",
     "For Publication"
