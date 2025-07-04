@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f673d8c776776af",
+            "id": "3c6e8c92544995f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/MacOS.md",
+                "file": "Research/Which for Which.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacOS"
+              "title": "Which for Which"
+            }
+          },
+          {
+            "id": "cd3106764bf45c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Gas Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gas Detection"
             }
           },
           {
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Windows.md",
+                "file": "Research/Our Working.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows"
+              "title": "Our Working"
             }
           }
         ],
@@ -183,23 +197,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a587c26b6de0ef43",
+  "active": "52762d023e118f93",
   "lastOpenFiles": [
-    "Research/Our Working.md",
-    "Research/Pip.md",
-    "Operating System/MacOS.md",
-    "Operating System/Windows.md",
-    "Operating System/Arch Linux.md",
-    "Research/Learning Mesh-Based Flow Simulations on Graph Networks.md",
-    "Operating System",
-    "Research/Google's GNN.md",
-    "Research/GNN.md",
     "Research/Which for Which.md",
-    "Research/Multi-phase solver list.md",
+    "Research/Gas Detection.md",
     "Research/Simulation Outline.md",
     "Research/Random Notes.md",
+    "Research/Pip.md",
+    "Research/Our Working.md",
     "Research/New Ideas by GPT.md",
+    "Research/Multi-phase solver list.md",
+    "For Publication/CFD + GNN.md",
+    "Research/Learning Mesh-Based Flow Simulations on Graph Networks.md",
+    "Research/Google's GNN.md",
+    "Research/GNN.md",
+    "For Publication/Turbulence Modeling with GNN.md",
+    "Bangladesh/Some Topics.md",
+    "Operating System/MacOS.md",
+    "Operating System/MacOS.md",
     "Obsidian.md",
+    "Operating System/Windows.md",
+    "Operating System/Arch Linux.md",
+    "Operating System",
     "Obsidian-VScode Git Sync Guide.md",
     "Research/createPatch.md",
     "Research/Test run.md",
@@ -207,14 +226,9 @@
     "Essay Writing/Quotes.md",
     "New.md",
     "Essay Writing/The Paradox of Choice.md",
-    "Senior Scale Exam/BA/বাংলাদেশের ভূ-প্রকৃতি ও ভূ-রাজনীতি.md",
     "Senior Scale Exam/CA",
     "Senior Scale Exam/BA",
     "Senior Scale Exam",
-    "English/Essay/Modern World.md",
-    "English/Essay/Literature and the Individual.md",
-    "English/Essay/Communal Harmony- Global and Home Perspective.md",
-    "English/Essay/Nationalism, Literature and Cultural Identity.md",
     "English/Essay",
     "Unconfirmed 121114.crdownload",
     "For Publication"

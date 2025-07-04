@@ -27,6 +27,11 @@ pip install  dgl -f https://data.dgl.ai/wheels/torch-2.4/cu124/repo.html
 pip install torch-scatter -f https://data.pyg.org/whl/torch-2.4.0+cu124.html
 ```
 
+For Mac
+```zsh
+pip install torch-scatter -f https://data.pyg.org/whl/torch-2.2.2+cpu.html
+```
+
 ```bash
 pip install torch_geometric
 ```
