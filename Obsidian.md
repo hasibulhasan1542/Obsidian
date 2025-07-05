@@ -24,3 +24,21 @@
 18) Now edit your files in local repo and wait till `sync time`
 19) After `sync time` go to GitHub and reload to check if it's updating automatically
 20) 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
+
+<center><h1>In Mac</h1></center>
+
+```zsh
+cd /Volumes/HDD/Notes
+```
+
+```zsh
+git add .
+```
+
+```zsh
+git commit -m "Initial commit"
+```
+
+```zsh
+git push
+```

@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Gas Detection.md",
+                "file": "Bangladesh/Some Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gas Detection"
+              "title": "Some Topics"
+            }
+          },
+          {
+            "id": "a54445c57f80265c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,12 +211,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52762d023e118f93",
+  "active": "a54445c57f80265c",
   "lastOpenFiles": [
-    "Research/Which for Which.md",
     "Research/Gas Detection.md",
-    "Research/Simulation Outline.md",
+    "Bangladesh/45th BCS.md",
     "Research/Random Notes.md",
+    "Bangladesh/Some Topics.md",
+    "Obsidian.md",
+    "Obsidian-VScode Git Sync Guide.md",
+    "Research/Which for Which.md",
+    "Research/Simulation Outline.md",
     "Research/Pip.md",
     "Research/Our Working.md",
     "Research/New Ideas by GPT.md",
@@ -212,20 +230,16 @@
     "Research/Google's GNN.md",
     "Research/GNN.md",
     "For Publication/Turbulence Modeling with GNN.md",
-    "Bangladesh/Some Topics.md",
     "Operating System/MacOS.md",
     "Operating System/MacOS.md",
-    "Obsidian.md",
     "Operating System/Windows.md",
     "Operating System/Arch Linux.md",
     "Operating System",
-    "Obsidian-VScode Git Sync Guide.md",
     "Research/createPatch.md",
     "Research/Test run.md",
     "Research/Workplan.md",
     "Essay Writing/Quotes.md",
     "New.md",
-    "Essay Writing/The Paradox of Choice.md",
     "Senior Scale Exam/CA",
     "Senior Scale Exam/BA",
     "Senior Scale Exam",
