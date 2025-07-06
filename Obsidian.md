@@ -25,6 +25,14 @@
 19) After `sync time` go to GitHub and reload to check if it's updating automatically
 20) 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
 
+<center><h3>Turn off apple gatekeeper security</h3></center>
+```zsh
+sudo spctl --master-disable
+```
+**System Settings > Privacy & Security > Allow apps downloaded from:**  
+And set it to **“Anywhere”** (this option only shows up after you run the command above).
+
+
 <center><h1>In Mac</h1></center>
 
 ```zsh
