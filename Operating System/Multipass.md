@@ -41,20 +41,27 @@ sudo nano /etc/samba/smb.conf
 paste this into that
 
 ```
-[Share]
-comment = Public Share from Multipass VM
-path = /home/ubuntu/share
-browseable = yes
-guest ok = yes
-read only = no
-create mask = 0664
-directory mask = 0775
+[share]
+   comment = share from Multipass VM
+   path = /home/ubuntu/share
+   browseable = yes
+   guest ok = yes
+   read only = no
+   create mask = 0777
+   directory mask = 0777
+
 ```
 
 Then restart samba
 
 ```bash
 sudo systemctl restart smbd
+```
+
+Ensure permissions match (Inside VM)
+```bash
+sudo chmod -R 777 /home/ubuntu/public-share
+sudo chown -R nobody:nogroup /home/ubuntu/public-share
 ```
 
 Then, we have to collect Ipv4 from Host
