@@ -49,7 +49,6 @@ paste this into that
    read only = no
    create mask = 0777
    directory mask = 0777
-
 ```
 
 Then restart samba
@@ -63,6 +62,7 @@ Ensure permissions match (Inside VM)
 sudo chmod -R 777 /home/ubuntu/public-share
 sudo chown -R nobody:nogroup /home/ubuntu/public-share
 ```
+(As this is frequently needed thing, it is better to put it in a shell script and run it when the VM is turned on)
 
 Then, we have to collect Ipv4 from Host
 
@@ -75,6 +75,6 @@ After collecting Ipv4, we need to connect it from
 **Finder > Go > Connect to a server 
 
 >[!Note] Issue
->You can't copy a folder. (Only files are allowed to copy from host to VM)
+>No Issue, flawless
 
 
