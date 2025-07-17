@@ -278,12 +278,12 @@ Bangladesh, with only **0.05 hectares of arable land per capita**, faces a sever
 
 
 #### **C. Crisis Analysis**  
-| **Domain**       | **Impact**                                                                 | **Quantitative Evidence**                          |  
-|------------------|----------------------------------------------------------------------------|---------------------------------------------------|  
-| **Food Security** | Rice production loss: **1.5M tons/year** by 2030 (FAO).                    | Arable land shrunk from **9.44M ha (2000)** to **8.6M ha (2023)**. |  
-| **Economic**      | Rising food imports (cost: **$8B/year**); displacement of 15% small farmers. | Agriculture’s GDP share fell from **30% (1990)** to **11.5% (2024)**. |  
-| **Environmental** | Waterlogging, biodiversity loss; groundwater depletion from concrete cover. | Dhaka’s green space: **<5%** (WHO recommends 15%). |  
-| **Social**        | Rural-urban migration → slum growth (60% Dhaka slum dwellers are displaced farmers). | 500,000 farmers lose livelihoods annually. |  
+| **Domain**        | **Impact**                                                                           | **Quantitative Evidence**                                             |
+| ----------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| **Food Security** | Rice production loss: **1.5M tons/year** by 2030 (FAO).                              | Arable land shrunk from **9.44M ha (2000)** to **8.6M ha (2023)**.    |
+| **Economic**      | Rising food imports (cost: **$8B/year**); displacement of 15% small farmers.         | Agriculture’s GDP share fell from **30% (1990)** to **11.5% (2024)**. |
+| **Environmental** | Waterlogging, biodiversity loss; groundwater depletion from concrete cover.          | Dhaka’s green space: **<5%** (WHO recommends 15%).                    |
+| **Social**        | Rural-urban migration → slum growth (60% Dhaka slum dwellers are displaced farmers). | 500,000 farmers lose livelihoods annually.                            |
 
 
 #### **D. Solutions to Resolve the Crisis**  
@@ -534,11 +534,12 @@ The **Teesta River** (length: 414 km; 90% flows from India to Bangladesh) is cri
 
 
 #### **C. Impact of the Deadlock**  
-| **Bangladesh**                  | **India**                          |  
-|---------------------------------|------------------------------------|  
-| - **Agricultural Loss**: 1M+ farmers affected; rice yield down 30% in Rangpur. | - **Diplomatic Trust Deficit**: Harms "Neighborhood First" policy. |  
-| - **Ecological Damage**: 60 rivers dried up in Teesta basin; groundwater depletion. | - **Chinese Inroads**: Bangladesh signed $1B Teesta management deal with China (2016), alarming India. |  
-| - **Humanitarian Crisis**: 100,000+ climate migrants from drought-hit areas. | - **Security Risks**: Radicalization in impoverished border zones. |  
+| **Bangladesh**                                                                      | **India**                                                                                              |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| - **Agricultural Loss**: 1M+ farmers affected; rice yield down 30% in Rangpur.      | - **Diplomatic Trust Deficit**: Harms "Neighborhood First" policy.                                     |
+| - **Ecological Damage**: 60 rivers dried up in Teesta basin; groundwater depletion. | - **Chinese Inroads**: Bangladesh signed $1B Teesta management deal with China (2016), alarming India. |
+| - **Humanitarian Crisis**: 100,000+ climate migrants from drought-hit areas.        | - **Security Risks**: Radicalization in impoverished border zones.                                     |
+| - **Humanitarian Crisis**: 100,000+ climate migrants from drought-hit areas.        | - **Security Risks**: Radicalization in impoverished border zones.                                     |
 
 
 #### **D. Recent Developments & Future Pathways**  
@@ -620,12 +621,12 @@ The Teesta dispute epitomizes **asymmetric hydro-politics**, where domestic cons
 
 
 #### **D. Government Initiatives Driving E-Governance**  
-| **Initiative**          | **Impact**                              |  
-|-------------------------|-----------------------------------------|  
-| **a2i Programme**       | Digitized 1,500+ services; saved **11.4B citizen days** since 2010. |  
-| **Digital Bangladesh Vision (2021)** | Achieved 95% digital public service coverage. |  
-| **National ID (NID) System** | Biometric IDs for 110M citizens; integrated with all services. |  
-| **e-Cabinet System**    | Paperless cabinet meetings; faster decision-making. |  
+| **Initiative**                       | **Impact**                                                          |
+| ------------------------------------ | ------------------------------------------------------------------- |
+| **a2i Programme**                    | Digitized 1,500+ services; saved **11.4B citizen days** since 2010. |
+| **Digital Bangladesh Vision (2021)** | Achieved 95% digital public service coverage.                       |
+| **National ID (NID) System**         | Biometric IDs for 110M citizens; integrated with all services.      |
+| **e-Cabinet System**                 | Paperless cabinet meetings; faster decision-making.                 |
 
 
 #### **E. Future Pathways**  
