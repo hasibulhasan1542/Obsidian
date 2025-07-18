@@ -2,28 +2,28 @@ Of course. Here are the elaborated, data-rich answers for the "Bangladesh Affair
 
 ***
 
-### **Question 01**
+### ~~**Question 01**~~
 
-#### **(a) Introduce the 'Mujibnagar Government' formed during the Liberation War of Bangladesh.** (Marks: 5)
+#### ~~**(a) Introduce the 'Mujibnagar Government' formed during the Liberation War of Bangladesh.** (Marks: 5)~~
 
-**Answer:**
+~~**Answer:**~~
 
-The Mujibnagar Government, formally known as the **Provisional Government of the People's Republic of Bangladesh**, was the first government of Bangladesh, formed during the Liberation War in 1971. It served as the legitimate, supreme authority representing the Bengali nation's struggle for independence.
+~~The Mujibnagar Government, formally known as the **Provisional Government of the People's Republic of Bangladesh**, was the first government of Bangladesh, formed during the Liberation War in 1971. It served as the legitimate, supreme authority representing the Bengali nation's struggle for independence.~~
 
-**Formation and Proclamation:**
-Following the brutal crackdown by the Pakistani military on March 25, 1971, and Bangabandhu Sheikh Mujibur Rahman's declaration of independence, the need for a formal government to lead the war became imperative. On **April 10, 1971**, this provisional government was officially formed. It was formally proclaimed and took its oath of office on **April 17, 1971**, at Baidyanathtala, a mango grove in Meherpur, Kushtia district. This location was subsequently renamed **Mujibnagar** in honor of Bangabandhu Sheikh Mujibur Rahman.
+~~**Formation and Proclamation:**~~
+~~Following the brutal crackdown by the Pakistani military on March 25, 1971, and Bangabandhu Sheikh Mujibur Rahman's declaration of independence, the need for a formal government to lead the war became imperative. On **April 10, 1971**, this provisional government was officially formed. It was formally proclaimed and took its oath of office on **April 17, 1971**, at Baidyanathtala, a mango grove in Meherpur, Kushtia district. This location was subsequently renamed **Mujibnagar** in honor of Bangabandhu Sheikh Mujibur Rahman.~~
 
-**Structure of the Government:**
-The government was structured to provide political leadership and coordinate the war effort:
-*   **President:** **Bangabandhu Sheikh Mujibur Rahman** (who was imprisoned in Pakistan).
-*   **Vice-President (and Acting President):** **Syed Nazrul Islam**.
-*   **Prime Minister:** **Tajuddin Ahmad**.
-*   **Minister of Finance, Commerce, and Industries:** **M. Mansur Ali**.
-*   **Minister of Home Affairs, Relief, and Rehabilitation:** **A. H. M. Quamruzzaman**.
-*   **Minister of Foreign Affairs and Law:** **Khondaker Mostaq Ahmad**.
-*   **Commander-in-Chief, Mukti Bahini:** **Colonel (later General) M. A. G. Osmani**.
+~~**Structure of the Government:**~~
+~~The government was structured to provide political leadership and coordinate the war effort:~~
+*   ~~**President:** **Bangabandhu Sheikh Mujibur Rahman** (who was imprisoned in Pakistan).~~
+*   ~~**Vice-President (and Acting President):** **Syed Nazrul Islam**.~~
+*   ~~**Prime Minister:** **Tajuddin Ahmad**.~~
+*   ~~**Minister of Finance, Commerce, and Industries:** **M. Mansur Ali**.~~
+*   ~~**Minister of Home Affairs, Relief, and Rehabilitation:** **A. H. M. Quamruzzaman**.~~
+*   ~~**Minister of Foreign Affairs and Law:** **Khondaker Mostaq Ahmad**.~~
+*   ~~**Commander-in-Chief, Mukti Bahini:** **Colonel (later General) M. A. G. Osmani**.~~
 
-This government established its headquarters in exile in Calcutta (now Kolkata), India, from where it directed the war, managed diplomatic relations, and organized support for the millions of refugees. It was the political embodiment of Bangladesh's sovereignty long before the final victory.
+~~This government established its headquarters in exile in Calcutta (now Kolkata), India, from where it directed the war, managed diplomatic relations, and organized support for the millions of refugees. It was the political embodiment of Bangladesh's sovereignty long before the final victory.~~
 
 ---
 #### **(b) Analyze the contribution of the wartime Bangladesh Government in conducting the Liberation War.** (Marks: 10)
@@ -89,17 +89,17 @@ In summary, the Constitution is not merely a law but the supreme law that create
 
 ### **Question 10: Write short notes (any four): (5x4 = 20)**
 
-#### **(a) The 7th March Speech**
+#### ~~**(a) The 7th March Speech**~~
 
-**Answer:**
+~~**Answer:**~~
 
-The 7th March Speech was a historic address delivered by Bangabandhu Sheikh Mujibur Rahman on **March 7, 1971**, at the Ramna Race Course (now Suhrawardy Udyan) in Dhaka. Delivered to a gathering of over two million people, this speech is widely regarded as the de facto declaration of Bangladesh's independence.
+~~The 7th March Speech was a historic address delivered by Bangabandhu Sheikh Mujibur Rahman on **March 7, 1971**, at the Ramna Race Course (now Suhrawardy Udyan) in Dhaka. Delivered to a gathering of over two million people, this speech is widely regarded as the de facto declaration of Bangladesh's independence.~~
 
-In the 19-minute extempore speech, Bangabandhu masterfully articulated the Bengali nation's demand for self-determination amidst the political crisis following the 1970 election. He outlined a program of non-cooperation and civil disobedience against the Pakistani regime but stopped short of a unilateral declaration of independence to avoid being branded a secessionist and inviting immediate, large-scale military violence.
+~~In the 19-minute extempore speech, Bangabandhu masterfully articulated the Bengali nation's demand for self-determination amidst the political crisis following the 1970 election. He outlined a program of non-cooperation and civil disobedience against the Pakistani regime but stopped short of a unilateral declaration of independence to avoid being branded a secessionist and inviting immediate, large-scale military violence.~~
 
-The most iconic lines of the speech encapsulated its dual message of a final warning and a call to arms: *"Ebarer shongram amader muktir shongram, ebarer shongram shadhinotar shongram"* ("The struggle this time is for our emancipation, the struggle this time is for our independence").
+~~The most iconic lines of the speech encapsulated its dual message of a final warning and a call to arms: *"Ebarer shongram amader muktir shongram, ebarer shongram shadhinotar shongram"* ("The struggle this time is for our emancipation, the struggle this time is for our independence").~~
 
-The speech was a political masterpiece that simultaneously provided a clear roadmap for the struggle ahead, united the entire Bengali nation, and served as the ultimate inspiration for the Liberation War that commenced 18 days later. In **2017**, **UNESCO** recognized the speech as a part of the **Memory of the World Register**, acknowledging its immense historical significance as a key documentary heritage.
+~~The speech was a political masterpiece that simultaneously provided a clear roadmap for the struggle ahead, united the entire Bengali nation, and served as the ultimate inspiration for the Liberation War that commenced 18 days later. In **2017**, **UNESCO** recognized the speech as a part of the **Memory of the World Register**, acknowledging its immense historical significance as a key documentary heritage.~~
 
 ---
 #### **(c) Liberation War Museum**
@@ -131,22 +131,22 @@ Key features of the procession include:
 In **2016**, **UNESCO** inscribed Mangal Shobhajatra on its **Representative List of the Intangible Cultural Heritage of Humanity**. It was recognized as a cultural heritage that "symbolises the pride of the people of Bangladesh in their living heritage as well as their strength and courage to fight against sinister forces, and their vindication of truth and justice."
 
 ---
-#### **(f) Vision 2041**
+#### ~~**(f) Vision 2041**~~
 
-**Answer:**
+~~**Answer:**~~
 
-**Vision 2041** is the Government of Bangladesh's long-term perspective plan aimed at transforming Bangladesh into a prosperous, developed, and high-income country by the year 2041, which marks the 70th anniversary of its independence. It is the successor to the "Vision 2021" plan, which focused on achieving middle-income status.
+~~**Vision 2041** is the Government of Bangladesh's long-term perspective plan aimed at transforming Bangladesh into a prosperous, developed, and high-income country by the year 2041, which marks the 70th anniversary of its independence. It is the successor to the "Vision 2021" plan, which focused on achieving middle-income status.~~
 
-The core objectives of Vision 2041 are comprehensive and ambitious, centering on two major goals:
-1.  **Becoming a Developed Country:** The primary economic goal is to eliminate extreme poverty by 2031 and achieve the status of a high-income country with a **per capita income of over USD 12,696** by 2041. This involves achieving an average GDP growth rate of over 9% per annum.
-2.  **Building a "Sonar Bangla" (Golden Bengal):** Beyond economic indicators, the vision aims to build a prosperous and inclusive society based on the ideals of the Liberation War. This includes:
-    *   **Good Governance:** Ensuring transparency, accountability, and the rule of law.
-    *   **Sustainable Development:** Focusing on urbanization, green growth, and climate change resilience.
-    *   **Human Capital Development:** Investing in education, health, and skills to create a knowledge-based society ready for the Fourth Industrial Revolution.
-    *   **Infrastructure and Connectivity:** Implementing mega-projects in energy, transport, and digital infrastructure to support rapid economic growth.
+~~The core objectives of Vision 2041 are comprehensive and ambitious, centering on two major goals:~~
+1.  ~~**Becoming a Developed Country:** The primary economic goal is to eliminate extreme poverty by 2031 and achieve the status of a high-income country with a **per capita income of over USD 12,696** by 2041. This involves achieving an average GDP growth rate of over 9% per annum.~~
+2.  ~~**Building a "Sonar Bangla" (Golden Bengal):** Beyond economic indicators, the vision aims to build a prosperous and inclusive society based on the ideals of the Liberation War. This includes:~~
+    *   ~~**Good Governance:** Ensuring transparency, accountability, and the rule of law.~~
+    *   ~~**Sustainable Development:** Focusing on urbanization, green growth, and climate change resilience.~~
+    *   ~~**Human Capital Development:** Investing in education, health, and skills to create a knowledge-based society ready for the Fourth Industrial Revolution.~~
+    *   ~~**Infrastructure and Connectivity:** Implementing mega-projects in energy, transport, and digital infrastructure to support rapid economic growth.~~
 
-The government is implementing this vision through a series of five-year plans, with the **8th Five-Year Plan (2021-2025)** being the first to be aligned with the goals of Vision 2041. It represents the nation's roadmap for its next phase of development.
-Of course. Here are the elaborated, data-rich answers for the remaining questions from the "Bangladesh Affairs" paper.
+~~The government is implementing this vision through a series of five-year plans, with the **8th Five-Year Plan (2021-2025)** being the first to be aligned with the goals of Vision 2041. It represents the nation's roadmap for its next phase of development.~~
+~~Of course. Here are the elaborated, data-rich answers for the remaining questions from the "Bangladesh Affairs" paper.~~
 
 ***
 

@@ -18,7 +18,7 @@ Key features of its location are:
 #### **(b) Which districts comprise the Barind Tract?** (Marks: 5)
 
 **Answer:**
-The Barind Tract (Barendra Bhumi) is one of the major physiographic units of Bangladesh, representing an elevated Pleistocene-era terrace. This region is characterized by its reddish and greyish old alluvial soil, which is relatively less fertile compared to the surrounding floodplains.
+The Barind Tract (Barendra Bhumi) is one of the major physiographic units of Bangladesh, representing an elevated **Pleistocene-era terrace**. This region is characterized by its reddish and greyish old alluvial soil, which is relatively less fertile compared to the surrounding floodplains.
 
 The Barind Tract is primarily composed of districts in the northwestern part of Bangladesh, spanning across the Rajshahi and Rangpur divisions. The main districts are:
 *   **Rajshahi Division:** The majority of **Naogaon**, **Rajshahi**, and **Chapainawabganj** districts, along with parts of **Natore**.

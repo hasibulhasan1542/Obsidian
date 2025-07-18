@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bangladesh/45th BCS.md",
+                "file": "Bangladesh/43 BCS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "45th BCS"
+              "title": "43 BCS"
             }
           }
         ]
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7aebcb6d8f02063",
+  "active": "52762d023e118f93",
   "lastOpenFiles": [
+    "Bangladesh/44 BCS.md",
+    "Bangladesh/45th BCS.md",
     "Bangladesh/38 BCS.md",
     "International/38 BCS.md",
     "Bangladesh/40 BCS.md",
@@ -180,13 +182,11 @@
     "Bangladesh/43 BCS.md",
     "International/43 BCS.md",
     "Mathematics/44 BCS.md",
-    "Bangladesh/44 BCS.md",
     "International/44 BCS.md",
     "International/45 BCS.md",
     "International/conceptual.md",
     "Mathematics/45 BCS.md",
     "Science/45 -Google.md",
-    "Bangladesh/45th BCS.md",
     "Science/45 BCS.md",
     "Computer/45 BCS.md",
     "Research/OpenFOAM Core/G.stl generation.md",
