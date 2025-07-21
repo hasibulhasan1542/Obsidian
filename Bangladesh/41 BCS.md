@@ -12,11 +12,11 @@ The 1952 Language Movement was the foundational event that sowed the seeds of Be
 *   **Creation of a Political Consciousness:** The sacrifice of the language martyrs on **February 21, 1952**, created a powerful political consciousness and a sense of collective identity among the Bengalis. It demonstrated that the central government was willing to use brutal force to suppress their legitimate demands, fostering deep-seated mistrust and alienation.
 *   **Inspiration for Future Movements:** The success of the Language Movement served as a powerful inspiration for all subsequent political movements for autonomy and rights, from the 1954 election to the 1969 mass uprising. It proved that organized popular struggle could challenge the authority of the state.
 
-**(2) The historic 7th March Speech:**
-Bangabandhu Sheikh Mujibur Rahman's speech on March 7, 1971, was the direct political and psychological catalyst for the Liberation War. Its influence was transformative:
-*   **De Facto Declaration of Independence:** While carefully avoiding a unilateral declaration that could have invited immediate military crackdown, Bangabandhu's concluding cry, *"Ebarer shongram amader muktir shongram, ebarer shongram shadhinotar shongram"* ("The struggle this time is for our emancipation, the struggle this time is for our independence"), was universally understood as the call for independence.
-*   **Providing a Clear Roadmap:** The speech provided a clear set of directives for a civil disobedience and non-cooperation movement, effectively establishing a parallel civilian government and paralyzing the Pakistani administration in East Pakistan.
-*   **Uniting the Entire Nation:** It galvanized the entire Bengali nation—students, peasants, workers, and government officials—under a single leader and a single goal. The speech provided the moral authority and psychological preparation needed for the armed struggle that was to follow, turning a political movement into a national liberation struggle.
+~~**(2) The historic 7th March Speech:**~~
+~~Bangabandhu Sheikh Mujibur Rahman's speech on March 7, 1971, was the direct political and psychological catalyst for the Liberation War. Its influence was transformative:~~
+*   ~~**De Facto Declaration of Independence:** While carefully avoiding a unilateral declaration that could have invited immediate military crackdown, Bangabandhu's concluding cry, *"Ebarer shongram amader muktir shongram, ebarer shongram shadhinotar shongram"* ("The struggle this time is for our emancipation, the struggle this time is for our independence"), was universally understood as the call for independence.~~
+*   ~~**Providing a Clear Roadmap:** The speech provided a clear set of directives for a civil disobedience and non-cooperation movement, effectively establishing a parallel civilian government and paralyzing the Pakistani administration in East Pakistan.~~
+*   ~~**Uniting the Entire Nation:** It galvanized the entire Bengali nation—students, peasants, workers, and government officials—under a single leader and a single goal. The speech provided the moral authority and psychological preparation needed for the armed struggle that was to follow, turning a political movement into a national liberation struggle.~~
 
 **(3) The Mass Uprising of '69:**
 The 1969 Mass Uprising was a watershed moment that demonstrated the political maturity and unwavering resolve of the Bengali people, directly paving the way for the events leading to the war.
@@ -102,7 +102,7 @@ NGOs have played a crucial role in raising awareness about women's rights and co
 By organizing women into social groups and federations at the grassroots level, NGOs have fostered leadership skills and political consciousness. These platforms have encouraged women to participate in local government elections and advocate for their rights within their communities.
 
 In summary, NGOs have been a powerful catalyst for women's empowerment in Bangladesh by creating economic opportunities, improving access to health and education, and raising social and political consciousness.
-Of course. Here are the detailed, data-rich answers for the final set of questions from the "Bangladesh Affairs" paper (`./17.jpg`).
+
 
 ***
 
@@ -134,7 +134,7 @@ These principles are intended to guide the state in its governance and legislati
 #### **(a) What is the fundamental basis of Bangladesh's foreign policy? Discuss.** (Marks: 5)
 
 **Answer:**
-The fundamental basis of Bangladesh's foreign policy is succinctly captured in the constitutional principle articulated by the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman: **"Friendship to all, malice toward none."** This principle is enshrined in **Article 25** of the Constitution.
+The fundamental basis of Bangladesh's foreign policy is succinctly captured in the **Article 25** of the Constitution.
 
 **Discussion:**
 This guiding principle has been translated into a pragmatic, non-aligned, and peace-centric foreign policy. It means that Bangladesh seeks to maintain friendly and cooperative relations with all countries of the world, irrespective of their political systems or ideologies, based on mutual respect for sovereignty, equality, and non-interference in internal affairs.

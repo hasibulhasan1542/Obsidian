@@ -70,20 +70,20 @@ In Bangladesh, the national statistical agency responsible for conducting the ce
 ---
 ### **Question 03**
 
-#### **(a) What is 'Vision 2041'?** (Marks: 5)
+#### ~~**(a) What is 'Vision 2041'?** (Marks: 5)~~
 
-**Answer:**
-**'Vision 2041'** is the Government of Bangladesh's long-term strategic plan designed to transform the nation into a high-income, developed, and prosperous country by the year 2041, which will mark the 70th anniversary of its independence. It is the ambitious successor to the "Vision 2021" plan.
+~~**Answer:**~~
+~~**'Vision 2041'** is the Government of Bangladesh's long-term strategic plan designed to transform the nation into a high-income, developed, and prosperous country by the year 2041, which will mark the 70th anniversary of its independence. It is the ambitious successor to the "Vision 2021" plan.~~
 
-The core goals of Vision 2041 are twofold:
-1.  **Achieving Developed Country Status:** The primary economic objective is to elevate Bangladesh to the status of a high-income country. This involves increasing the **per capita income to over USD 12,696** (in 2022 prices), sustaining an average annual GDP growth rate of **9.02%**, and drastically reducing poverty.
-2.  **Building an Inclusive and Prosperous "Sonar Bangla" (Golden Bengal):** Beyond economic metrics, the vision aims to create a just, equitable, and sustainable society. Key pillars include:
-    *   **Good Governance:** Ensuring institutional transparency, accountability, and rule of law.
-    *   **Human Capital Development:** Investing heavily in education, health, and skills for the Fourth Industrial Revolution.
-    *   **Sustainable Infrastructure:** Developing world-class energy, transport, and digital infrastructure.
-    *   **Climate Resilience:** Building a development model that is resilient to the impacts of climate change.
+~~The core goals of Vision 2041 are twofold:~~
+1.  ~~**Achieving Developed Country Status:** The primary economic objective is to elevate Bangladesh to the status of a high-income country. This involves increasing the **per capita income to over USD 12,696** (in 2022 prices), sustaining an average annual GDP growth rate of **9.02%**, and drastically reducing poverty.~~
+2.  ~~**Building an Inclusive and Prosperous "Sonar Bangla" (Golden Bengal):** Beyond economic metrics, the vision aims to create a just, equitable, and sustainable society. Key pillars include:~~
+    *   ~~**Good Governance:** Ensuring institutional transparency, accountability, and rule of law.~~
+    *   ~~**Human Capital Development:** Investing heavily in education, health, and skills for the Fourth Industrial Revolution.~~
+    *   ~~**Sustainable Infrastructure:** Developing world-class energy, transport, and digital infrastructure.~~
+    *   ~~**Climate Resilience:** Building a development model that is resilient to the impacts of climate change.~~
 
-The government is implementing this through its **Perspective Plan of Bangladesh 2021-2041**, which guides the formulation of subsequent five-year plans.
+~~The government is implementing this through its **Perspective Plan of Bangladesh 2021-2041**, which guides the formulation of subsequent five-year plans.~~
 
 ---
 ### **Question 10: Write short notes (any four): (5x4 = 20)**
@@ -103,16 +103,16 @@ The key sectors of the Blue Economy for Bangladesh include:
 Harnessing the Blue Economy is a key priority for the Bangladesh government to diversify its economy and ensure long-term sustainable growth.
 
 ---
-#### **(c) Bangabandhu Satellite**
+#### ~~**(c) Bangabandhu Satellite**~~
 
-**Answer:**
-**Bangabandhu Satellite-1** is the first geostationary communications satellite of Bangladesh, marking the country's entry into the space age. It was launched on **May 12, 2018**, from the Kennedy Space Center in Florida, USA, aboard a **SpaceX Falcon 9** rocket.
+~~**Answer:**~~
+~~**Bangabandhu Satellite-1** is the first geostationary communications satellite of Bangladesh, marking the country's entry into the space age. It was launched on **May 12, 2018**, from the Kennedy Space Center in Florida, USA, aboard a **SpaceX Falcon 9** rocket.~~
 
-Key facts are:
-*   **Orbital Position:** It is located at the **119.1° East** longitude orbital slot.
-*   **Manufacturer and Lifespan:** The satellite was built by the French company **Thales Alenia Space** and has a projected lifespan of 15 years.
-*   **Capacity:** It is equipped with **40 transponders** (26 Ku-band and 14 C-band), with a coverage area spanning Bangladesh and its surrounding regions, including the Bay of Bengal, India, Nepal, Bhutan, and other Southeast Asian countries.
-*   **Significance:** Its launch has provided Bangladesh with self-reliance in telecommunications and broadcasting services, saving the nation approximately **$14 million annually** in foreign currency that was previously spent on renting foreign satellite transponders. It ensures uninterrupted telecommunication services, especially during natural disasters, and supports DTH (Direct-to-Home) TV services, VSAT, and other digital connectivity.
+~~Key facts are:~~
+*   ~~**Orbital Position:** It is located at the **119.1° East** longitude orbital slot.~~
+*   ~~**Manufacturer and Lifespan:** The satellite was built by the French company **Thales Alenia Space** and has a projected lifespan of 15 years.~~
+*   ~~**Capacity:** It is equipped with **40 transponders** (26 Ku-band and 14 C-band), with a coverage area spanning Bangladesh and its surrounding regions, including the Bay of Bengal, India, Nepal, Bhutan, and other Southeast Asian countries.~~
+*   ~~**Significance:** Its launch has provided Bangladesh with self-reliance in telecommunications and broadcasting services, saving the nation approximately **$14 million annually** in foreign currency that was previously spent on renting foreign satellite transponders. It ensures uninterrupted telecommunication services, especially during natural disasters, and supports DTH (Direct-to-Home) TV services, VSAT, and other digital connectivity.~~
 
 ---
 #### **(d) Food Security**
@@ -297,28 +297,28 @@ To ensure it can carry out these responsibilities impartially, **Article 118(4)*
 ---
 ### **Question 09**
 
-#### **Describe the various movements, struggles, and events from the Language Movement to the Liberation War.** (Marks: 20)
+#### ~~**Describe the various movements, struggles, and events from the Language Movement to the Liberation War.** (Marks: 20)~~
 
-**Answer:**
+~~**Answer:**~~
 
-The period from the Language Movement in 1952 to the Liberation War in 1971 was a continuous and escalating struggle by the Bengali people for self-determination, cultural identity, and economic justice against the dominance of West Pakistan. This journey can be traced through a series of key movements and events.
+~~The period from the Language Movement in 1952 to the Liberation War in 1971 was a continuous and escalating struggle by the Bengali people for self-determination, cultural identity, and economic justice against the dominance of West Pakistan. This journey can be traced through a series of key movements and events.~~
 
-1.  **The Language Movement (1948-1952):** This was the genesis of Bengali nationalism. The Pakistani government's declaration of Urdu as the sole state language sparked widespread protests. The movement reached its peak on **February 21, 1952**, when police opened fire on protesting students in Dhaka, killing several, including Salam, Barkat, Rafiq, and Jabbar. This bloodshed cemented the demand for Bengali as a state language (which was granted in 1956) and sowed the first seeds of secession.
+1.  ~~**The Language Movement (1948-1952):** This was the genesis of Bengali nationalism. The Pakistani government's declaration of Urdu as the sole state language sparked widespread protests. The movement reached its peak on **February 21, 1952**, when police opened fire on protesting students in Dhaka, killing several, including Salam, Barkat, Rafiq, and Jabbar. This bloodshed cemented the demand for Bengali as a state language (which was granted in 1956) and sowed the first seeds of secession.~~
 
-2.  **The Formation of the United Front and the 1954 Election:** The Awami Muslim League, along with other parties, formed the **Jukto Front (United Front)**. Running on a platform of provincial autonomy outlined in their **21-Point Programme**, the United Front achieved a landslide victory in the 1954 East Bengal Legislative Assembly election, routing the Muslim League. However, the central government unjustly dismissed the United Front ministry after only 56 days, further alienating the Bengali populace.
+2.  ~~**The Formation of the United Front and the 1954 Election:** The Awami Muslim League, along with other parties, formed the **Jukto Front (United Front)**. Running on a platform of provincial autonomy outlined in their **21-Point Programme**, the United Front achieved a landslide victory in the 1954 East Bengal Legislative Assembly election, routing the Muslim League. However, the central government unjustly dismissed the United Front ministry after only 56 days, further alienating the Bengali populace.~~
 
-3.  **The 1958 Martial Law and Ayub Khan's Regime:** General Ayub Khan imposed martial law in 1958, banning political activities and introducing a system of "Basic Democracy" that denied direct suffrage. This decade of military rule intensified the feeling of political and economic deprivation in East Pakistan.
+3.  ~~**The 1958 Martial Law and Ayub Khan's Regime:** General Ayub Khan imposed martial law in 1958, banning political activities and introducing a system of "Basic Democracy" that denied direct suffrage. This decade of military rule intensified the feeling of political and economic deprivation in East Pakistan.~~
 
-4.  **The 1962 Education Movement:** A major student-led movement erupted against the recommendations of the Sharif Commission on Education, which was seen as discriminatory and aimed at curtailing access to education for Bengalis.
+4.  ~~**The 1962 Education Movement:** A major student-led movement erupted against the recommendations of the Sharif Commission on Education, which was seen as discriminatory and aimed at curtailing access to education for Bengalis.~~
 
-5.  **The Six-Point Movement (1966):** This was the pivotal moment in the journey towards autonomy. **Bangabandhu Sheikh Mujibur Rahman** presented his **Six-Point Programme**, which was hailed as the **"Magna Carta" of the Bengalis**. It called for a federal system, provincial autonomy, separate currencies, and the right for the province to maintain its own paramilitary force. It essentially laid out a blueprint for a nearly independent East Pakistan.
+5.  ~~**The Six-Point Movement (1966):** This was the pivotal moment in the journey towards autonomy.  It called for a federal system, provincial autonomy, separate currencies, and the right for the province to maintain its own paramilitary force. It essentially laid out a blueprint for a nearly independent East Pakistan.~~
 
-6.  **The Agartala Conspiracy Case (1968):** To suppress the growing nationalist movement, the Ayub regime filed the Agartala Conspiracy Case, falsely implicating Sheikh Mujibur Rahman and 34 others in a plot to secede East Pakistan with Indian help. This backfired spectacularly, turning Bangabandhu into an undisputed national hero.
+6.  ~~**The Agartala Conspiracy Case (1968):** To suppress the growing nationalist movement, the Ayub regime filed the Agartala Conspiracy Case, falsely implicating Sheikh Mujibur Rahman and 34 others in a plot to secede East Pakistan with Indian help. This backfired spectacularly, turning Bangabandhu into an undisputed national hero.~~
 
-7.  **The Mass Uprising of 1969:** A massive popular uprising, spearheaded by students and their **11-Point Programme**, swept across East Pakistan. The movement demanded the withdrawal of the Agartala case and the resignation of Ayub Khan. The pressure was immense, leading to the release of Bangabandhu and the fall of the Ayub regime.
+7.  ~~**The Mass Uprising of 1969:** A massive popular uprising, spearheaded by students and their **11-Point Programme**, swept across East Pakistan. The movement demanded the withdrawal of the Agartala case and the resignation of Ayub Khan. The pressure was immense, leading to the release of Bangabandhu and the fall of the Ayub regime.~~
 
-8.  **The 1970 General Election:** The new military ruler, General Yahya Khan, held the first-ever general election based on universal adult franchise. The Awami League, under Bangabandhu's leadership, won an absolute majority, securing **167 out of 169** seats in East Pakistan and a majority in the National Assembly of Pakistan.
+8.  ~~**The 1970 General Election:** The new military ruler, General Yahya Khan, held the first-ever general election based on universal adult franchise. The Awami League, under Bangabandhu's leadership, won an absolute majority, securing **167 out of 169** seats in East Pakistan and a majority in the National Assembly of Pakistan.~~
 
-9.  **The Non-Cooperation Movement (March 1971):** Despite the clear electoral verdict, the Pakistani military junta and West Pakistani politicians refused to transfer power. In response, Bangabandhu launched a nationwide non-cooperation movement. His historic **7th March Speech** served as the de facto declaration of independence.
+9.  ~~**The Non-Cooperation Movement (March 1971):** Despite the clear electoral verdict, the Pakistani military junta and West Pakistani politicians refused to transfer power. In response, Bangabandhu launched a nationwide non-cooperation movement. His historic **7th March Speech** served as the de facto declaration of independence.~~
 
-This two-decade-long struggle, marked by continuous political, cultural, and economic resistance, culminated in the genocidal crackdown by the Pakistani army on **March 25, 1971**, which finally triggered the nine-month-long Liberation War and the birth of an independent Bangladesh.
+~~This two-decade-long struggle, marked by continuous political, cultural, and economic resistance, culminated in the genocidal crackdown by the Pakistani army on **March 25, 1971**, which finally triggered the nine-month-long Liberation War and the birth of an independent Bangladesh.~~
