@@ -23,7 +23,7 @@
 17) Go to 'Git' plugin settings and put `sync time` here 'Auto commit-and-sync interval (minutes)'
 18) Now edit your files in local repo and wait till `sync time`
 19) After `sync time` go to GitHub and reload to check if it's updating automatically
-20) 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
+20) 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
 
 <center><h3>Turn off apple gatekeeper security</h3></center>
 ```zsh
