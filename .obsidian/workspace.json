@@ -8,105 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90a562916ed1e478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "International/45 BCS.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "45 BCS"
-            }
-          },
-          {
-            "id": "7f521a5df74498e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bangladesh/Local Governance Reform Commission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Governance Reform Commission"
-            }
-          },
-          {
-            "id": "14b9687c1b92c2e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bangladesh/Local Governance Reform Commission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Governance Reform Commission"
-            }
-          },
-          {
-            "id": "c475442959a15b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bangladesh/Local Governance Reform Commission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Governance Reform Commission"
-            }
-          },
-          {
-            "id": "f5fa808c47782730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bangladesh/Local Governance Reform Commission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Governance Reform Commission"
-            }
-          },
-          {
-            "id": "534e643951da0f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bangladesh/Local Governance Reform Commission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Governance Reform Commission"
-            }
-          },
-          {
             "id": "0e7659470c04be0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bangladesh/Local Governance Reform Commission.md",
+                "file": "Bangladesh/Whitepaper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local Governance Reform Commission"
+              "title": "Whitepaper"
+            }
+          },
+          {
+            "id": "3032c0401e4544d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bangla Gra/35 bcs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "35 bcs"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -253,37 +183,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52762d023e118f93",
+  "active": "3032c0401e4544d2",
   "lastOpenFiles": [
+    "Bangla Gra/36 bcs.md",
+    "Bangla Gra/37 bcs.md",
+    "Bangla Gra/38 bcs.md",
+    "Bangla Gra/40 bcs.md",
+    "Bangla Gra/41 bcs.md",
+    "Bangla Gra/43 bcs.md",
+    "Bangla Gra/44 bcs.md",
+    "Bangla Gra/35 bcs.md",
+    "Bangla Gra/45 bcs.md",
+    "Bangla Lit/45 BCS.md",
+    "Bangla Lit/Additional.md",
     "Bangladesh/Whitepaper.md",
-    "Bangladesh/Local Governance Reform Commission.md",
+    "Bangla Gra",
+    "Bangla Lit/35.md",
+    "Bangla Lit/36.md",
+    "Bangla Lit/37.md",
+    "Bangla Lit/38.md",
+    "Bangla Lit/40.md",
+    "Bangla Lit/41.md",
+    "Bangla Lit",
+    "Bangla Lit/43.md",
+    "Bangla Lit/44 BCS.md",
+    "temp.md",
+    "Bangladesh/Police.md",
     "Bangladesh/Public Administration.md",
     "Bangladesh/Constitutional.md",
-    "Bangladesh/Police.md",
     "Bangladesh/Judiciary.md",
-    "International/45 BCS.md",
-    "International/conceptual.md",
-    "International/conceptual-topic based.md",
-    "International/Theory.md",
-    "International/Sources.md",
-    "International/Empirical Issues.md",
-    "International/Diplomatic Terms.md",
-    "International/Conceptual-Key.md",
-    "Mathematics/45 BCS.md",
+    "Bangladesh/Local Governance Reform Commission.md",
     "Mathematics/Pasted image 20250424234108.png",
     "Mathematics/Pasted image 20250424193345.png",
-    "Mathematics/43 BCS.md",
     "Mathematics/Pasted image 20250424173823.png",
-    "Mathematics/Problem.md",
-    "Mathematics/44 BCS.md",
-    "Bangladesh/35 BCS.md",
-    "International/35 BCS.md",
-    "Bangladesh/36 BCS.md",
-    "Bangladesh/37 BCS.md",
-    "International/37 BCS.md",
-    "Bangladesh/38 BCS.md",
-    "Bangladesh/41 BCS.md",
-    "Bangladesh/43 BCS.md",
     "Computer",
     "Research/OpenFOAM Core",
     "g.sh.sb-42eb8c61-Mfzm57",
@@ -291,8 +223,6 @@
     "Operating System",
     "Senior Scale Exam/CA",
     "Senior Scale Exam/BA",
-    "Senior Scale Exam",
-    "English/Essay",
-    "Unconfirmed 121114.crdownload"
+    "Senior Scale Exam"
   ]
 }
