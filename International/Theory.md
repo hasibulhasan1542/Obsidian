@@ -181,13 +181,6 @@
 - **Example**: The widespread influence of American pop culture worldwide, from movies to fast food, often overshadowing local cultures.
     
 
-### 49. **Global Health Diplomacy**
-
-- **Explanation**: This field emphasizes how global health issues, like pandemics and disease outbreaks, require diplomatic engagement and international cooperation to address.
-    
-- **Example**: The global response to the Ebola outbreak in West Africa (2014-2016), which saw international health organizations collaborate to curb the spread.
-    
-
 ### 53. **Neoclassical Realism**
 
 - **Explanation**: Neoclassical realism incorporates domestic political factors into traditional realism, suggesting that state behavior is influenced not only by international power dynamics but also by internal issues such as regime type, elite interests, and national identity.
@@ -200,14 +193,6 @@
     
 - **Example**: The role of the United States in maintaining global capitalist order through institutions like the IMF and World Bank, which promote neoliberal economic policies.
     
-
-### 68. **Revolutionary Theory of International Relations**
-
-- **Explanation**: This theory argues that international relations are often shaped by revolutions and the overthrow of established regimes, which bring about new power structures.
-    
-- **Example**: The Cuban Revolution of 1959, which had significant geopolitical consequences, influencing U.S. foreign policy in Latin America during the Cold War.
-    
-
 ### 69. **Transnationalism**
 
 - **Explanation**: Transnationalism highlights the role of non-state actors, such as multinational corporations, NGOs, and diasporas, in shaping international relations and global governance.
@@ -215,220 +200,18 @@
 - **Example**: The role of multinational corporations like Apple and Google, which influence global trade, data privacy laws, and international regulations through their global presence.
     
 
-### 70. **Theory of Global Economic Governance**
-
-- **Explanation**: This theory explores the role of international financial institutions, such as the IMF, World Bank, and WTO, in shaping global economic policies and managing international economic crises.
-    
-- **Example**: The IMF’s involvement in managing Greece's debt crisis, which included imposing austerity measures in exchange for bailout packages.
-    
-
-### 71. **Theory of Conflict Resolution**
-
-- **Explanation**: This theory focuses on strategies and processes aimed at resolving international conflicts peacefully, including negotiation, mediation, and peacekeeping.
-    
-- **Example**: The Camp David Accords (1978), where U.S. President Jimmy Carter mediated a peace agreement between Egypt and Israel, leading to the first peace treaty between Israel and an Arab state.
-    
-
-### 72. **Theory of Regionalism**
-
-- **Explanation**: Regionalism focuses on the formation of regional organizations and alliances that aim to promote political, economic, and security cooperation among neighboring states.
-    
-- **Example**: The African Union (AU), which promotes regional integration and collective security, as demonstrated by its peacekeeping missions in conflict zones like Darfur.
-    
-
 ### 73. **Political Economy of War**
 
-- **Explanation**: This theory examines how economic interests, resources, and inequalities contribute to the outbreak of war and how war itself impacts the global economy.
+- **Explanation**: This theory examines <font color="#ffff00">how economic interests, resources, and inequalities contribute to the outbreak of war and how war itself impacts the global economy.</font>
     
 - **Example**: The Iraq War (2003), where access to oil resources and geopolitical control over the Middle East played a significant role in the U.S. decision to invade.
     
-
-### 74. **Theory of International Trade and Development**
-
-- **Explanation**: This theory explores the relationships between international trade policies and economic development, highlighting how trade can affect the economic growth and development of nations.
-    
-- **Example**: The role of China in global trade and development, particularly through the Belt and Road Initiative, which seeks to build infrastructure and trade links between China and other developing countries.
-    
-
-### 75. **International Environmental Law Theory**
-
-- **Explanation**: This theory examines the role of international legal frameworks in managing global environmental challenges, such as climate change, biodiversity, and pollution.
-    
-- **Example**: The Kyoto Protocol (1997), which was an international treaty that committed industrialized nations to reduce greenhouse gas emissions.
-    
-
-### 76. **Ethical Internationalism**
-
-- **Explanation**: Ethical internationalism argues that moral values should guide state behavior in international relations, particularly when addressing issues like human rights and global justice.
-    
-- **Example**: The international condemnation of apartheid in South Africa, which led to global sanctions and the eventual end of the regime.
-    
-
-### 77. **Nationalism in International Relations**
-
-- **Explanation**: Nationalism emphasizes the importance of national identity, sovereignty, and the right of a nation to govern itself, often influencing foreign policies and global interactions.
-    
-- **Example**: Brexit (2016), where the United Kingdom decided to leave the European Union in a move driven by nationalist sentiment and concerns over sovereignty.
-    
-
-### 78. **Post-Colonial Theory**
-
-- **Explanation**: Post-colonial theory examines how colonial legacies, power structures, and cultural dominance continue to influence international relations and global inequality.
-    
-- **Example**: The economic and political challenges faced by former colonial states in Africa and Asia, where colonial borders and exploitation have shaped contemporary conflicts and economic struggles.
-    
-
-### 79. **Theory of Global Labor Movements**
-
-- **Explanation**: This theory focuses on the role of labor movements, trade unions, and workers' rights in shaping global economic policies and promoting social justice.
-    
-- **Example**: The International Labour Organization (ILO), which works to set international labor standards and protect workers’ rights worldwide.
-    
-
 ### 80. **Resource Diplomacy**
 
 - **Explanation**: Resource diplomacy focuses on how the control, access, and management of natural resources influence international relations and global power structures.
     
 - **Example**: The strategic importance of the Arctic, where countries like Russia, Canada, and the U.S. have competing interests in the region’s natural resources, including oil and gas.
 
-### 81. **Hegemonic Stability Theory**
-
-- **Explanation**: This theory suggests that international stability is more likely when a single nation, the hegemon, dominates global politics and provides public goods like security, trade, and economic stability.
-    
-- **Example**: The United States post-World War II is often cited as a hegemon, maintaining stability in the global order through institutions like the IMF, World Bank, and NATO.
-    
-
-### 82. **Intergovernmentalism**
-
-- **Explanation**: This theory in international relations posits that decisions in international organizations are primarily made by sovereign states rather than international institutions or actors.
-    
-- **Example**: The European Union’s decision-making process, particularly in areas like foreign policy, where the European Council, composed of member-state leaders, plays a key role.
-    
-
-### 83. **Social Constructivism**
-
-- **Explanation**: Social constructivism emphasizes the role of ideas, beliefs, and social norms in shaping international relations. It argues that the international system is constructed by social interactions, not just material factors.
-    
-- **Example**: The shift in international attitudes toward climate change over the last few decades, with growing recognition of it as a global issue requiring cooperative action.
-    
-
-### 84. **Transnational Advocacy Networks (TANs) Theory**
-
-- **Explanation**: This theory explores how international advocacy networks, consisting of NGOs, social movements, and other non-state actors, influence global policy by advocating for human rights, environmental protection, or social justice.
-    
-- **Example**: The role of organizations like Amnesty International and Greenpeace in pressuring governments and corporations to adopt stricter human rights and environmental standards.
-    
-
-### 85. **Theories of International Law**
-
-- **Explanation**: These theories analyze the role of international law in shaping state behavior, governance, and conflict resolution. They debate whether international law is genuinely binding or merely a reflection of state power.
-    
-- **Example**: The International Court of Justice (ICJ), which settles disputes between states in accordance with international law, such as its decision in the case between Nicaragua and Costa Rica regarding territorial disputes.
-    
-
-### 86. **Critical Globalization Theory**
-
-- **Explanation**: This theory critiques the process of globalization, focusing on how it exacerbates inequalities, exploits developing nations, and undermines state sovereignty. It challenges the notion that globalization benefits all countries equally.
-    
-- **Example**: The exploitation of labor in sweatshops in countries like Bangladesh, where multinational corporations profit from low-cost production at the expense of workers’ rights.
-    
-
-### 87. **Constructivist Feminism**
-
-- **Explanation**: Constructivist feminism examines how gender norms and constructions influence international relations, including diplomacy, war, and peace processes. It emphasizes the role of women and marginalized groups in shaping global politics.
-    
-- **Example**: The increasing participation of women in peace negotiations, such as the role of women in the 2016 Colombian peace agreement with FARC.
-    
-
-### 88. **Theories of Global Health Governance**
-
-- **Explanation**: This theory explores how international cooperation in health governance shapes global responses to pandemics, diseases, and health inequalities.
-    
-- **Example**: The World Health Organization (WHO) and its role in responding to the COVID-19 pandemic, coordinating efforts for vaccine distribution and public health measures.
-    
-
-### 89. **Cultural Imperialism**
-
-- **Explanation**: Cultural imperialism refers to the dominance of one culture over others, particularly in global media, where the spread of Western values, ideas, and products can undermine local cultures.
-    
-- **Example**: The global reach of Hollywood films and Western consumer brands, which have spread Western cultural values and norms worldwide, sometimes to the detriment of local traditions.
-    
-
-### 90. **Biopolitics in International Relations**
-
-- **Explanation**: Biopolitics examines how the governance of populations, particularly in the context of health, demographics, and security, shapes international relations.
-    
-- **Example**: China's one-child policy, which had significant international implications, particularly in terms of human rights and demographic shifts.
-    
-
-### 91. **International Political Economy (IPE) Theory**
-
-- **Explanation**: IPE theory studies the interaction between politics and economics on the global stage, analyzing how economic forces, state policies, and international organizations shape global trade, finance, and development.
-    
-- **Example**: The role of the World Trade Organization (WTO) in regulating international trade disputes and its influence on trade policies between developed and developing countries.
-    
-
-### 92. **Resource Curse Theory**
-
-- **Explanation**: The resource curse theory suggests that countries rich in natural resources often experience less economic growth, weaker democracy, and more conflict due to overreliance on these resources and foreign intervention.
-    
-- **Example**: Countries like Venezuela and Nigeria, where vast oil wealth has contributed to political instability and corruption rather than broad-based economic development.
-    
-
-### 93. **International Political Ecology**
-
-- **Explanation**: This theory focuses on the relationship between politics and environmental issues, analyzing how global ecological challenges like climate change are framed and addressed by international actors.
-    
-- **Example**: The global response to deforestation in the Amazon, where environmental groups, multinational corporations, and governments have had conflicting views on how to balance economic development with environmental protection.
-    
-
-### 94. **Securitization Theory**
-
-- **Explanation**: Securitization theory examines how issues are framed as security threats through discourse, making them subject to extraordinary political measures and justifying the use of force.
-    
-- **Example**: The U.S. government's framing of terrorism as a major national security threat post-9/11, leading to the War on Terror and the establishment of new security measures like the Department of Homeland Security.
-    
-
-### 95. **Moral Diplomacy**
-
-- **Explanation**: Moral diplomacy emphasizes the role of ethics and moral values in shaping a country’s foreign policy, often prioritizing human rights and democratic principles over strategic or economic interests.
-    
-- **Example**: U.S. foreign policy under President Woodrow Wilson, which sought to promote democracy and self-determination, particularly in Latin America during the early 20th century.
-    
-
-### 96. **Global Governance Theory**
-
-- **Explanation**: Global governance theory examines how international cooperation and institutions manage global issues like climate change, trade, security, and public health, often involving both state and non-state actors.
-    
-- **Example**: The United Nations, particularly the United Nations Security Council, which plays a central role in maintaining international peace and security.
-    
-
-### 97. **Economic Nationalism**
-
-- **Explanation**: Economic nationalism emphasizes the protection of domestic industries, the prioritization of national economic interests, and skepticism toward global trade agreements and international economic organizations.
-    
-- **Example**: The "America First" trade policy under U.S. President Donald Trump, which sought to renegotiate trade deals like NAFTA and impose tariffs on imports to protect U.S. industries.
-    
-
-### 98. **War of Ideas**
-
-- **Explanation**: This theory focuses on the ideological struggle between competing global belief systems, where ideas, ideologies, and cultures are central to international conflicts.
-    
-- **Example**: The Cold War, where the ideological battle between democracy (led by the United States) and communism (led by the Soviet Union) defined much of global politics.
-    
-
-### 99. **Peacebuilding Theory**
-
-- **Explanation**: Peacebuilding theory focuses on the processes and strategies used to establish lasting peace in post-conflict societies, emphasizing reconciliation, economic recovery, and the establishment of democratic governance.
-    
-- **Example**: The post-apartheid transition in South Africa, where a combination of truth and reconciliation, political restructuring, and economic reforms helped establish peace after decades of racial conflict.
-    
-
-### 100. **Environmental Security Theory**
-
-- **Explanation**: Environmental security theory examines how environmental issues, such as resource scarcity, climate change, and ecological degradation, can lead to conflict and affect national and global security.
-    
-- **Example**: The water scarcity issue in the Nile Basin, where competition for water resources between Egypt, Sudan, and Ethiopia has the potential to escalate into conflict.
 
 ### 101. **Zero-Sum Game Theory**
 
@@ -439,7 +222,7 @@
 
 ### 102. **Prisoner’s Dilemma**
 
-- **Explanation**: The Prisoner’s Dilemma is a classic example from game theory where two individuals acting in their own self-interest may not produce the optimal outcome for both. It shows how rational behavior can lead to a worse result when both sides fail to cooperate.
+- **Explanation**: The Prisoner’s Dilemma is a classic example from game theory where <font color="#ffff00">two individuals acting in their own self-interest may not produce the optimal outcome for both. It shows how rational behavior can lead to a worse result when both sides fail to cooperate</font>.
     
 - **Example**: **Nuclear arms race**—During the Cold War, both the United States and the Soviet Union faced a dilemma: while both countries would be safer if they agreed to limit nuclear weapons, both feared that the other would cheat, leading them to continue building arsenals, thus escalating the arms race.
     
@@ -453,152 +236,28 @@
 
 ### 104. **Chicken Game (or Game of Chicken)**
 
-- **Explanation**: The Chicken Game is a game theory model of conflict where two players head toward each other and must choose whether to swerve or continue. If neither swerves, both will "crash." The goal is to force the other side to back down to avoid mutual destruction, but both sides must calculate the other’s potential response.
+- **Explanation**: The Chicken Game is a game theory model of conflict where <font color="#ffff00">two players head toward each other and must choose whether to swerve or continue. If neither swerves, both will "crash." The goal is to force the other side to back down to avoid mutual destruction, but both sides must calculate the other’s potential response</font>.
     
 - **Example**: **Cold War brinkmanship**—During the Cuban Missile Crisis, both the United States and the Soviet Union engaged in a Chicken Game, each pushing the other to the brink of nuclear war while avoiding direct conflict.
     
 
 ### 105. **Tit-for-Tat Strategy**
 
-- **Explanation**: This strategy involves cooperating initially, and then replicating the opponent’s previous move in subsequent rounds. It’s a strategy often used in repeated games where participants learn from one another’s behavior over time, rewarding cooperation and punishing betrayal.
+- **Explanation**: This strategy involves <font color="#ffff00">cooperating initially, and then replicating the opponent’s previous move in subsequent rounds</font>. It’s a strategy often used in repeated games where participants learn from one another’s behavior over time, rewarding cooperation and punishing betrayal.
     
 - **Example**: **Diplomatic negotiations**, like trade talks, where if one country shows cooperation by reducing tariffs, the other reciprocates in kind. The World Trade Organization (WTO) often uses this kind of approach in trade negotiations to encourage reciprocal benefits.
-    
-
-### 106. **Coase Theorem**
-
-- **Explanation**: The Coase Theorem suggests that under conditions of no transaction costs and well-defined property rights, parties will negotiate to correct externalities, achieving an efficient outcome, regardless of initial allocations.
-    
-- **Example**: **Environmental regulation**—If two neighboring countries are polluting shared resources, the Coase theorem would suggest they could negotiate a solution, such as a mutual agreement to reduce emissions, without government intervention, provided they have clear rights to the resources.
+- Trumps current reciprocal tariff is a kind of Tit-for-Tat Strategy
     
 
 ### 107. **Nash Equilibrium**
 
-- **Explanation**: The Nash Equilibrium occurs when no player in a game can improve their situation by unilaterally changing their strategy, given the strategies of the others. In other words, it’s a state where every participant’s strategy is optimal given the choices of others.
+- **Explanation**: The Nash Equilibrium occurs when <font color="#ffff00">no player in a game can improve their situation by unilaterally changing their strategy, given the strategies of the others</font>. In other words, it’s a state where every participant’s strategy is optimal given the choices of others.
     
 - **Example**: **Arms control treaties**, where countries reach a stable state of arms reduction where no one wants to increase their arsenal due to the assurance that other countries have also reduced theirs, as seen in the Strategic Arms Reduction Treaty (START).
     
-
-### 108. **Collective Action Problem**
-
-- **Explanation**: This theory addresses situations where individual actors' rational pursuit of self-interest leads to suboptimal outcomes for all parties involved. It often requires coordination to achieve a desirable collective outcome.
-    
-- **Example**: **Global climate change**—Each country may prefer to free-ride on the efforts of others to reduce emissions, but unless all contribute, no one will achieve a sustainable outcome. International frameworks like the Paris Climate Accord are efforts to overcome this challenge.
-    
-
-### 109. **Hegemonic Stability Theory**
-
-- **Explanation**: Hegemonic Stability Theory posits that international order and stability are more likely when one dominant power, or hegemon, enforces rules and provides global public goods. The hegemon plays a stabilizing role in global politics.
-    
-- **Example**: **Post-World War II international order**—The United States acted as a hegemon, helping create international institutions like the United Nations, IMF, and World Bank, stabilizing global politics.
-    
-
-### 110. **Path Dependency Theory**
-
-- **Explanation**: Path dependency suggests that historical decisions influence present and future policies, making some policies more likely to continue than others due to past institutional decisions or established practices.
-    
-- **Example**: **European integration**—The initial steps taken toward European unity after World War II, such as the European Coal and Steel Community, led to the European Union, with policies of cooperation becoming increasingly difficult to change due to their historical development.
-
-### 111. **The Tragedy of the Commons**
-
-- **Explanation**: This theory explains how individuals, acting in their own self-interest, can overuse and deplete a shared resource, even when it is clear that this is detrimental to the group as a whole.
-    
-- **Example**: **Overfishing**—Countries exploiting international fishing waters for their own benefit may deplete fish stocks, harming future generations and the global ecosystem. International agreements, like the United Nations Fish Stocks Agreement, attempt to address this.
-    
-
-### 112. **Security Dilemma**
-
-- **Explanation**: The security dilemma occurs when one state’s efforts to increase its security (such as building up its military) cause other states to feel less secure, prompting them to also increase their military power. This can lead to an arms race and increased tension.
-    
-- **Example**: **U.S. and China**—China’s military buildup has caused concern in the United States and its allies, leading to a security dilemma where the U.S. has increased its military presence in the Indo-Pacific region, further escalating tensions.
-    
-
-### 113. **Soft Power**
-
-- **Explanation**: Soft power refers to the ability to shape global outcomes through non-coercive means, such as cultural influence, diplomacy, or ideological appeal, as opposed to military or economic power (hard power).
-    
-- **Example**: **U.S. cultural diplomacy**—Hollywood movies, Silicon Valley innovations, and academic institutions like Harvard help the United States shape global perceptions, making it a soft power player in world politics.
-    
-
-### 114. **Hard Power**
-
-- **Explanation**: Hard power is the use of force or economic influence to achieve international objectives. It typically involves military or economic coercion, rather than persuasion or cultural influence.
-    
-- **Example**: **U.S. military interventions**—The U.S. use of military force in Iraq in 2003 or its sanctions on Iran are examples of hard power strategies, attempting to influence global outcomes through force or coercion.
-    
-
-### 115. **Balance of Power**
-
-- **Explanation**: The balance of power theory suggests that national security is enhanced when military capabilities are distributed so that no one nation is strong enough to dominate all others. States may form alliances to prevent any single state from becoming too powerful.
-    
-- **Example**: **NATO and the Soviet Union**—During the Cold War, the balance of power between the U.S. and the Soviet Union kept the global peace. NATO was formed as a counterbalance to the Warsaw Pact, ensuring neither side could dominate Europe.
-    
-
-### 116. **Peaceful Coexistence**
-
-- **Explanation**: Peaceful coexistence is the theory that countries with fundamentally different ideologies (like capitalism and socialism) can exist peacefully without direct military confrontation, as long as both sides respect each other’s sovereignty and avoid interference.
-    
-- **Example**: **U.S. and Soviet Union during the Cold War**—Despite ideological differences, the concept of peaceful coexistence was a key feature of detente, where both superpowers worked to avoid direct military conflict while competing in other areas like space exploration.
-    
-
 ### 117. **Realpolitik**
 
-- **Explanation**: Realpolitik focuses on practical and pragmatic policies rather than ideological or ethical considerations. It emphasizes power, national interests, and the use of diplomacy or force to achieve those goals, often at the expense of idealism.
+- **Explanation**: Realpolitik <font color="#ffff00">focuses on practical and pragmatic policies rather than ideological or ethical considerations</font>. It emphasizes power, national interests, and the use of diplomacy or force to achieve those goals, often at the expense of idealism.
     
 - **Example**: **Germany’s foreign policy under Otto von Bismarck**—Bismarck’s approach was grounded in realpolitik, prioritizing the interests of the German state over ideological concerns and shaping Europe’s power balance.
     
-
-### 118. **Democratic Peace Theory**
-
-- **Explanation**: Democratic peace theory suggests that democracies are less likely to go to war with one another because they share similar norms and institutional checks on the use of military force.
-    
-- **Example**: **EU member states**—European Union members are all democracies and have not gone to war with each other since the formation of the EU. The EU’s promotion of democracy and economic interdependence is seen as a key factor in this stability.
-    
-
-### 119. **World-System Theory**
-
-- **Explanation**: Developed by sociologist Immanuel Wallerstein, this theory suggests that the global economy is a complex system with a core of wealthy, industrialized nations, a semi-periphery of developing nations, and a periphery of impoverished, resource-exporting countries.
-    
-- **Example**: **Global North-South Divide**—The disparity in wealth and development between wealthy countries (like the U.S. and Western Europe) and poorer nations (like many African countries) is a practical application of world-system theory.
-    
-
-### 120. **World Order Theory**
-
-- **Explanation**: World order theory concerns the global distribution of power and how it affects international stability. The theory suggests that world order is often shaped by the distribution of power, and new power dynamics can create shifts in how the world functions.
-    
-- **Example**: **Rise of China**—As China rises as a global power, it is challenging the existing world order dominated by the U.S. The shifting balance of power has led to new international relationships and institutions, such as the Belt and Road Initiative (BRI).
-    
-
-### 121. **Constructivism in International Relations**
-
-- **Explanation**: Constructivism posits that international relations are shaped by social structures, ideas, norms, and identities, rather than solely material forces like military and economic power. State behavior is influenced by these norms, which evolve over time.
-    
-- **Example**: **Post-Cold War norms**—The shift in global norms after the end of the Cold War led to greater acceptance of human rights and democracy, seen in the expansion of the EU and NATO.
-    
-
-### 122. **Dependency Theory**
-
-- **Explanation**: Dependency theory argues that the economic conditions of the Global South (developing countries) are shaped by their dependence on developed countries, which exploit their resources and perpetuate inequality.
-    
-- **Example**: **Latin American countries**—Historically, Latin American nations have been economically dependent on exports of raw materials to developed countries, leaving them vulnerable to global market shifts and perpetuating cycles of poverty.
-    
-
-### 123. **Liberation Theory**
-
-- **Explanation**: Liberation theory advocates for the political and economic freedom of oppressed groups, often in the context of post-colonial struggles. It emphasizes self-determination and the redistribution of power to marginalized communities.
-    
-- **Example**: **South Africa’s struggle for independence**—Under apartheid, liberation movements like the African National Congress (ANC) fought for the freedom of Black South Africans, eventually leading to democratic elections in 1994.
-    
-
-### 124. **Economic Imperialism**
-
-- **Explanation**: Economic imperialism refers to the domination of a less-developed country by a more-developed country through economic means rather than direct military control, often by controlling trade, resources, or investment.
-    
-- **Example**: **British colonialism in India**—The British Empire exerted control over India’s resources, using its economic leverage to shape the country’s economic and political structures, benefiting Britain at India’s expense.
-    
-
-### 125. **Cultural Imperialism**
-
-- **Explanation**: Cultural imperialism refers to the imposition of a dominant culture over others, often by powerful nations exerting influence through media, entertainment, language, and education.
-    
-- **Example**: **Hollywood and global media**—The export of American films, television shows, and music has been seen as a form of cultural imperialism, influencing values and cultural norms worldwide, especially in post-colonial countries.
