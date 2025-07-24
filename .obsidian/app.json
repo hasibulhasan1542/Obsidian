@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "readableLineLength": true
 }

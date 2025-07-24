@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "International/Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "Theory"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay Writing/Answer Writing.md",
+                "file": "International/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Answer Writing"
+              "title": "Backlinks for Theory"
             }
           },
           {
@@ -185,8 +185,13 @@
   },
   "active": "3032c0401e4544d2",
   "lastOpenFiles": [
+    "Bangla Lit/41.md",
+    "Bangla Lit/43.md",
+    "Bangla Lit/44 BCS.md",
+    "Bangla Lit/45 BCS.md",
     "Bangla Gra/35 bcs.md",
     "Bangla Gra/36 bcs.md",
+    "Obsidian.md",
     "Bangla Gra/37 bcs.md",
     "Bangla Gra/38 bcs.md",
     "Bangla Gra/40 bcs.md",
@@ -194,7 +199,6 @@
     "Bangla Gra/43 bcs.md",
     "Bangla Gra/44 bcs.md",
     "Bangla Gra/45 bcs.md",
-    "Bangla Lit/45 BCS.md",
     "Bangla Lit/Additional.md",
     "Bangladesh/Whitepaper.md",
     "Bangla Gra",
@@ -203,16 +207,12 @@
     "Bangla Lit/37.md",
     "Bangla Lit/38.md",
     "Bangla Lit/40.md",
-    "Bangla Lit/41.md",
     "Bangla Lit",
-    "Bangla Lit/43.md",
-    "Bangla Lit/44 BCS.md",
     "temp.md",
     "Bangladesh/Police.md",
     "Bangladesh/Public Administration.md",
     "Bangladesh/Constitutional.md",
     "Bangladesh/Judiciary.md",
-    "Bangladesh/Local Governance Reform Commission.md",
     "Mathematics/Pasted image 20250424234108.png",
     "Mathematics/Pasted image 20250424193345.png",
     "Mathematics/Pasted image 20250424173823.png",
