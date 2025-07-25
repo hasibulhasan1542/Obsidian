@@ -3,5 +3,6 @@
   "enabledCssSnippets": [],
   "baseFontSizeAction": true,
   "theme": "system",
-  "translucency": true
+  "translucency": true,
+  "accentColor": "#f5bf4d"
 }
