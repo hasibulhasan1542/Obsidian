@@ -27,7 +27,7 @@ The Geneva Conventions are critically important for several reasons:
 
 **Answer:**
 
-The **Five Eyes (FVEY)** is a signals intelligence (SIGINT) alliance comprising five English-speaking countries: the **United States, United Kingdom, Canada, Australia, and New Zealand**. Its role in international politics is multifaceted and highly influential:
+The **Five Eyes (FVEY)** is a signals intelligence (SIGINT) alliance comprising five English-speaking countries: the<font color="#ffff00"> **United States, United Kingdom, Canada, Australia, and New Zealand**</font>. Its role in international politics is multifaceted and highly influential:
 
 1.  **Intelligence Sharing and Collection:** Its core function is the large-scale collection and sharing of intelligence, particularly intercepted communications. This creates a powerful, integrated intelligence network that gives member states a significant strategic advantage over adversaries.
 2.  **Counter-Terrorism and Security:** Post-9/11, the alliance became a crucial tool for global counter-terrorism efforts, sharing information to track terrorist networks, thwart plots, and enhance domestic security.
@@ -63,18 +63,18 @@ The "Arab Spring" was a series of anti-government protests, uprisings, and armed
 6.  **The Trigger:** The self-immolation of Mohamed Bouazizi, a Tunisian street vendor, in December 2010 served as the powerful catalyst that ignited the protests, first in Tunisia and then across the region.
 
 ---
-#### **(e) What is the difference between G-20 and BRICS?**
+#### **(e) <font color="#ffff00">What is the difference between G-20 and BRICS</font>?**
 
 **Answer:**
 
 While both are major non-Western-centric groupings of states, the G-20 and BRICS differ significantly in their composition, scope, and primary purpose.
 
-| Basis of Difference | G-20 (Group of Twenty) | BRICS |
-| :--- | :--- | :--- |
-| **Composition & Nature** | A broad forum comprising 19 of the world's largest economies plus the European Union and the African Union. It includes both developed and emerging economies. | A more exclusive bloc comprising five major emerging economies: **B**razil, **R**ussia, **I**ndia, **C**hina, and **S**outh Africa. (It has since expanded to include others.) |
-| **Primary Focus** | **International economic and financial governance.** Its main goal is to address major global economic issues, promote financial stability, and coordinate policy among its members. | **Promoting cooperation and challenging the Western-dominated global order.** It seeks to increase the influence of its member states and has established its own institutions like the New Development Bank (NDB). |
-| **Scope** | Its agenda is broad, covering financial regulation, climate change, sustainable development, and global health, but with a strong economic core. It is primarily a forum for policy coordination. | Its scope is both political and economic. It aims to reform global financial institutions (like the IMF and World Bank) and enhance political and security cooperation among its members. |
-| **Origin** | Created in 1999 at the finance minister level and elevated to the leaders' summit level in 2008 in response to the global financial crisis. | The term was coined in 2001 by an economist, and the group held its first formal summit in 2009 to formalize its political cooperation. |
+| Basis of Difference      | G-20 (Group of Twenty)                                                                                                                                                                            | BRICS                                                                                                                                                                                                               |
+| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Composition & Nature** | A broad forum comprising 19 of the world's largest economies plus the European Union and the African Union. It includes both developed and emerging economies.                                    | A more exclusive bloc comprising five major emerging economies: **B**razil, **R**ussia, **I**ndia, **C**hina, and **S**outh Africa. (It has since expanded to include others.)                                      |
+| **Primary Focus**        | **International economic and financial governance.** Its main goal is to address major global economic issues, promote financial stability, and coordinate policy among its members.              | **Promoting cooperation and challenging the Western-dominated global order.** It seeks to increase the influence of its member states and has established its own institutions like the New Development Bank (NDB). |
+| **Scope**                | Its agenda is broad, covering financial regulation, climate change, sustainable development, and global health, but with a strong economic core. It is primarily a forum for policy coordination. | Its scope is both political and economic. It aims to reform global financial institutions (like the IMF and World Bank) and enhance political and security cooperation among its members.                           |
+| **Origin**               | Created in 1999 at the finance minister level and elevated to the leaders' summit level in 2008 in response to the global financial crisis.                                                       | The term was coined in 2001 by an economist, and the group held its first formal summit in 2009 to formalize its political cooperation.                                                                             |
 
 ---
 #### **(f) Analyze the challenges and prospects for peace and security in the Indo-Pacific region.**
