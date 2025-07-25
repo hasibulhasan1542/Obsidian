@@ -33,23 +33,6 @@ The terms "Independence Struggle" and "Liberation War" are related but distinct 
 
 #### **Difference between Independence Struggle and Liberation War**
 
-The primary differences can be understood through the following aspects:
-
-1.  **Time Span:**
-    *   **Independence Struggle (স্বাধীনতা সংগ্রাম):** This was a long-term process spanning 24 years, from the creation of Pakistan in 1947 until the start of the war in 1971.
-    *   **Liberation War (মুক্তিযুদ্ধ):** This was a specific, short-term armed conflict that lasted for nine months, from March 26, 1971, to December 16, 1971.
-
-2.  **Nature of the Movement:**
-    *   **Independence Struggle:** It was primarily a political, cultural, and economic movement. Its methods included protests, strikes, political negotiations, electoral participation, and civil disobedience. The goal evolved from seeking cultural recognition and economic justice to demanding regional autonomy and, ultimately, complete independence.
-    *   **Liberation War:** It was a full-scale armed conflict characterized by conventional warfare, guerrilla tactics by the Mukti Bahini (Freedom Fighters), and genocide by the Pakistani Army. Its sole objective was to achieve the sovereign state of Bangladesh through military victory.
-
-3.  **Objective:**
-    *   **Independence Struggle:** The initial objectives were to establish Bengali as a state language, secure fair economic distribution, and achieve political autonomy within the framework of Pakistan. The ultimate goal of sovereignty became clear only in the final stages.
-    *   **Liberation War:** The objective was singular and unambiguous from the outset: to liberate the territory of East Pakistan and establish an independent and sovereign People's Republic of Bangladesh.
-
-In essence, the Independence Struggle was the foundation that created the ideological, political, and nationalistic consciousness necessary for the Liberation War. The war was the final, decisive act to realize the aspirations built over two decades of struggle.
-
----
 
 #### **Phases of the Independence Struggle (1947-1971)**
 
@@ -144,50 +127,6 @@ The 15th Amendment has had a profound and controversial impact on Bangladesh's p
     *   **The abolition of the caretaker government system created a deep political crisis.** The main opposition party, the Bangladesh Nationalist Party (BNP), and its allies have since refused to participate in general elections, arguing that free and fair polls are impossible under a partisan government.
     *   This has led to severe political polarization, electoral boycotts (most notably in the 2014 general election), and a weakening of democratic institutions and accountability. The lack of a credible opposition in parliament has raised concerns about the health of Bangladesh's democracy.
     *   The change has entrenched a "winner-takes-all" political culture, where the ruling party has complete control over the election-time administration, creating a significant trust deficit among political actors and the electorate.
-***
-Of course. Here are the detailed answers to questions 3, 4, and 5, each formatted with an introduction and conclusion suitable for a 20-mark question.
-
-***
-
-### **Answer to Question 3**
-
-**Question:** What do you know about the preamble of the constitution and its importance? Discuss the changes brought by the 15th Amendment to the Constitution of Bangladesh, including their impact. (Marks: 20)
-
-**Introduction**
-
-The Constitution of the People's Republic of Bangladesh is the supreme law of the land, embodying the collective will of its people. Its Preamble serves as the ideological compass, outlining the nation's founding aspirations. Over the years, the constitution has undergone several changes, with the 15th Amendment of 2011 being one of the most significant. This amendment aimed to restore the original spirit of the 1972 constitution while also introducing changes that have profoundly reshaped Bangladesh's political landscape.
-
-#### **The Preamble and its Importance**
-
-The Preamble is the introductory statement of the constitution that reflects the philosophy, spirit, and guiding principles of the entire document. It is considered the "mirror" of the constitution.
-
-*   **Key Contents:** The Preamble begins with "Bismillah-Ar-Rahman-Ar-Rahim" and declares that the people of Bangladesh established a sovereign republic through a "historic struggle for national liberation." It affirms that all power belongs to the people and pledges to uphold the fundamental principles of Nationalism, Socialism, Democracy, and Secularism. It further aims to create an exploitation-free society and secure for all citizens the rule of law, fundamental human rights, and political, economic, and social justice.
-*   **Importance of the Preamble:**
-    1.  **Interpretive Guide:** While not directly enforceable in court, the Preamble is a crucial tool for interpreting ambiguous provisions of the constitution. The judiciary refers to it to understand the original intent of the framers.
-    2.  **Ideological Foundation:** It encapsulates the core values and aspirations that fueled the Liberation War. It provides the moral and political compass for the nation.
-    3.  **Source of Legitimacy:** It grounds the constitution in the democratic will and historic struggle of the people, giving it ultimate legitimacy.
-
-#### **The 15th Amendment (2011) and its Changes**
-
-The 15th Amendment, passed in 2011, was a landmark legislative act. It was primarily based on a Supreme Court verdict that declared previous amendments made under military rule unconstitutional.
-
-**Major Changes:**
-1.  **Restoration of the 1972 Principles:** It restored the four original fundamental state principles: **Nationalism, Socialism, Democracy, and Secularism**.
-2.  **Abolition of the Caretaker Government:** It abolished the non-partisan Caretaker Government system, which was designed to oversee general elections. The amendment stipulated that elections would be held under the incumbent government.
-3.  **Prevention of Extra-Constitutional Takeovers:** A new Article 7A was inserted, making any unconstitutional seizure of power an act of sedition and a capital offense, thereby aiming to safeguard democracy from military coups.
-4.  **Constitutional Recognition:** It formally recognized Sheikh Mujibur Rahman as the Father of the Nation and incorporated his historic 7th March Speech and the Proclamation of Independence into the constitution as schedules.
-5.  **Increased Reserved Seats for Women:** The number of reserved seats for women in Parliament was increased from 45 to 50.
-
-#### **Impact of the 15th Amendment**
-
-The impact of the 15th Amendment has been deeply divisive and has had both positive and negative consequences for Bangladesh.
-
-*   **Positive Impact:** The restoration of the original secular and democratic principles was celebrated as a return to the nation's founding ideals. The insertion of Article 7A was seen as a strong deterrent against future anti-democratic interventions.
-*   **Negative Impact:** The abolition of the caretaker government system created a severe political crisis. The opposition alliance, led by the BNP, has since boycotted general elections (notably in 2014 and 2018), arguing that fair elections are impossible under a partisan government. This has resulted in a significant democratic deficit, with a lack of a functional opposition in Parliament, leading to concerns about governance, accountability, and the erosion of democratic norms.
-
-**Conclusion**
-
-The Preamble of the Constitution of Bangladesh remains the guiding star, reflecting the noble aspirations of the Liberation War. The 15th Amendment represents a duality: on one hand, it was a laudable effort to restore the constitution's original secular and democratic character and protect it from future subversion. On the other hand, its abolition of the caretaker government system has plunged the country into a protracted political crisis, undermined electoral integrity, and deepened political polarization. Thus, while it successfully fortified the constitution's historical and ideological foundations, it simultaneously dismantled the mechanism that had, for a time, ensured credible elections, leaving a lasting and challenging legacy for the nation's democratic journey.
 
 ***
 
