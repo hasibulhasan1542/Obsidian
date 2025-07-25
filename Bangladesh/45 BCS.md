@@ -94,39 +94,39 @@ The Preamble begins with "Bismillah-Ar-Rahman-Ar-Rahim" (In the name of Allah, t
 
 ---
 
-#### **The 15th Amendment (2011) and its Impact**
+#### ~~**The 15th Amendment (2011) and its Impact**~~
 
-The 15th Amendment, passed in 2011, is one of the most significant and transformative amendments to the Constitution of Bangladesh. It was enacted primarily to align the constitution with a Supreme Court verdict that declared the 5th and 7th amendments (which had incorporated military proclamations) illegal.
+~~The 15th Amendment, passed in 2011, is one of the most significant and transformative amendments to the Constitution of Bangladesh. It was enacted primarily to align the constitution with a Supreme Court verdict that declared the 5th and 7th amendments (which had incorporated military proclamations) illegal.~~
 
-**Major Changes brought by the 15th Amendment:**
+~~**Major Changes brought by the 15th Amendment:**~~
 
-1.  **Restoration of the Four Fundamental State Principles:** The amendment restored the original four principles of the 1972 Constitution: **Nationalism, Socialism, Democracy, and Secularism**. This reversed the changes made by previous military regimes, which had replaced Secularism with "absolute trust and faith in Almighty Allah."
+1.  ~~**Restoration of the Four Fundamental State Principles:** The amendment restored the original four principles of the 1972 Constitution: **Nationalism, Socialism, Democracy, and Secularism**. This reversed the changes made by previous military regimes, which had replaced Secularism with "absolute trust and faith in Almighty Allah."~~
 
-2.  **Abolition of the Non-Partisan Caretaker Government System:** This is arguably the most impactful change. The system of a neutral, non-partisan caretaker government to oversee national elections (introduced by the 13th Amendment) was abolished. The amendment stipulated that elections would now be held under the incumbent government.
+2.  ~~**Abolition of the Non-Partisan Caretaker Government System:** This is arguably the most impactful change. The system of a neutral, non-partisan caretaker government to oversee national elections (introduced by the 13th Amendment) was abolished. The amendment stipulated that elections would now be held under the incumbent government.~~
 
-3.  **Strengthening Constitutional Supremacy:** A new Article 7A was inserted, which declares any unconstitutional takeover of power (such as a military coup) to be an act of sedition and a capital offense. This was done to prevent extra-constitutional forces from subverting democracy in the future.
+3.  ~~**Strengthening Constitutional Supremacy:** A new Article 7A was inserted, which declares any unconstitutional takeover of power (such as a military coup) to be an act of sedition and a capital offense. This was done to prevent extra-constitutional forces from subverting democracy in the future.~~
 
-4.  **Recognition of the Father of the Nation:** Sheikh Mujibur Rahman was formally recognized in the constitution as the Father of the Nation.
+4.  ~~**Recognition of the Father of the Nation:** Sheikh Mujibur Rahman was formally recognized in the constitution as the Father of the Nation.~~
 
-5.  **Incorporation of Historical Documents:** The Proclamation of Independence and Sheikh Mujibur Rahman's historic 7th March Speech were incorporated as schedules into the constitution.
+5.  ~~**Incorporation of Historical Documents:** The Proclamation of Independence and Sheikh Mujibur Rahman's historic 7th March Speech were incorporated as schedules into the constitution.~~
 
-6.  **Recognition of Ethnic Minorities:** The constitution now recognizes the culture and heritage of "tribes, minor races, ethnic sects and communities" and calls for their preservation and development.
+6.  ~~**Recognition of Ethnic Minorities:** The constitution now recognizes the culture and heritage of "tribes, minor races, ethnic sects and communities" and calls for their preservation and development.~~
 
-7.  **Increased Reserved Seats for Women:** The number of reserved seats for women in the Parliament was increased to 50, and the provision was extended for 25 years.
+7.  ~~**Increased Reserved Seats for Women:** The number of reserved seats for women in the Parliament was increased to 50, and the provision was extended for 25 years.~~
 
-**Impact of the 15th Amendment:**
+~~**Impact of the 15th Amendment:**~~
 
-The 15th Amendment has had a profound and controversial impact on Bangladesh's political landscape.
+~~The 15th Amendment has had a profound and controversial impact on Bangladesh's political landscape.~~
 
-*   **Positive Impact:**
-    *   The restoration of secularism and other original principles was widely praised as a return to the foundational spirit of the Liberation War.
-    *   The inclusion of Article 7A was seen as a bold step to safeguard constitutional continuity and deter future military interventions.
-    *   The formal recognition of historical documents and the Father of the Nation provided constitutional sanctity to the nation's history.
+*   ~~**Positive Impact:**~~
+    *   ~~The restoration of secularism and other original principles was widely praised as a return to the foundational spirit of the Liberation War.~~
+    *   ~~The inclusion of Article 7A was seen as a bold step to safeguard constitutional continuity and deter future military interventions.~~
+    *   ~~The formal recognition of historical documents and the Father of the Nation provided constitutional sanctity to the nation's history.~~
 
-*   **Negative and Controversial Impact:**
-    *   **The abolition of the caretaker government system created a deep political crisis.** The main opposition party, the Bangladesh Nationalist Party (BNP), and its allies have since refused to participate in general elections, arguing that free and fair polls are impossible under a partisan government.
-    *   This has led to severe political polarization, electoral boycotts (most notably in the 2014 general election), and a weakening of democratic institutions and accountability. The lack of a credible opposition in parliament has raised concerns about the health of Bangladesh's democracy.
-    *   The change has entrenched a "winner-takes-all" political culture, where the ruling party has complete control over the election-time administration, creating a significant trust deficit among political actors and the electorate.
+*   ~~**Negative and Controversial Impact:**~~
+    *   ~~**The abolition of the caretaker government system created a deep political crisis.** The main opposition party, the Bangladesh Nationalist Party (BNP), and its allies have since refused to participate in general elections, arguing that free and fair polls are impossible under a partisan government.~~
+    *   ~~This has led to severe political polarization, electoral boycotts (most notably in the 2014 general election), and a weakening of democratic institutions and accountability. The lack of a credible opposition in parliament has raised concerns about the health of Bangladesh's democracy.~~
+    *   ~~The change has entrenched a "winner-takes-all" political culture, where the ruling party has complete control over the election-time administration, creating a significant trust deficit among political actors and the electorate.~~
 
 ***
 
@@ -208,7 +208,30 @@ The rise of social unrest in Bangladesh can be attributed to several interconnec
     *   **Erosion of Social Values:** Rapid urbanization and modernization have led to the erosion of traditional social support systems, increasing individual anxiety and alienation.
     *   **The Role of Social Media:** While social media can be a tool for positive change, it also facilitates the rapid spread of misinformation and disinformation, which can quickly mobilize and radicalize groups, escalating tensions.
 
-#### **Remedies for Social Unrest (প্রতিকার)**
+```mermaid
+flowchart LR
+    U[Social Unrest in Bangladesh] --> E[Economic Factors]
+    U --> P[Political Factors]
+    U --> S[Social Factors]
+    
+    E --> E1["Income Inequality(Widening rich-poor gap)"]
+    E --> E2["Youth Unemployment(Frustrated educated youth)"]
+    E --> E3["Price Hikes(Inflated essential goods)"]
+    E --> E4["Systemic Corruption\n(Rigged systems)"]
+    
+    P --> P1["Democratic Space(Shrinking dissent channels)"]
+    P --> P2["Rule of Law(Weak justice system)"]
+    P --> P3["Perceived Injustice(Catalytic events)"]
+    
+    S --> S1["Social Values(Eroding traditions)"]
+    S --> S2["Social Media(Misinformation spread)"]
+    
+    style U fill:#c0392b,color:white
+    style E fill:#e67e22,color:white
+    style P fill:#3498db,color:white
+    style S fill:#2ecc71,color:white
+```
+#### **Remedies for Social Unrest 
 
 Addressing social unrest requires a multi-pronged strategy that targets its root causes:
 
@@ -223,10 +246,6 @@ Addressing social unrest requires a multi-pronged strategy that targets its root
 Social unrest in Bangladesh is a critical warning sign of underlying systemic problems, not merely a law-and-order issue. It stems from a potent mix of economic disparity, political frustration, and a perceived lack of justice. A sustainable solution does not lie in suppression but in a sincere and comprehensive effort to build a more inclusive, just, and democratic society. By addressing the root causes through good governance, economic equity, and the strengthening of the rule of law, Bangladesh can transform the energy of dissent into a constructive force for positive national development and ensure long-term stability.
 
 ***
-Of course. Here are detailed answers for questions 6, 7, and 8, each structured with an introduction and conclusion for a 20-mark assessment.
-
-***
-
 ### **Answer to Question 6**
 
 **Question:** Analyze the nature and crisis of the conversion of agricultural land in Bangladesh to non-agricultural uses. Discuss the ways to overcome this crisis. (Marks: 20)
@@ -239,7 +258,7 @@ In a densely populated and agro-based nation like Bangladesh, agricultural land 
 
 The conversion of agricultural land is a complex process driven by developmental pressures and economic incentives. Its nature and the resulting crisis can be analyzed as follows:
 
-**Nature of Conversion (স্বরূপ):**
+**Nature of Conversion:**
 The shift from agricultural to non-agricultural use is happening primarily through:
 1.  **Unplanned Urbanization and Housing:** The expansion of cities and towns, along with unplanned rural housing projects, encroaches directly onto surrounding farmlands.
 2.  **Industrialization:** The establishment of factories, Export Processing Zones (EPZs), and Special Economic Zones (SEZs) often takes place on what was previously agricultural land.
@@ -291,6 +310,25 @@ Poverty alleviation, or poverty reduction, is the set of measures, both economic
 *   **Enhance Access to Basic Services:** Improve access to essential services such as quality education, healthcare, clean drinking water, and sanitation.
 *   **Empowerment:** Provide people, especially women and marginalized groups, with the skills, resources, and opportunities to participate in economic and social life and make their own choices.
 *   **Reduce Vulnerability:** Build resilience among the poor against shocks like natural disasters, economic downturns, and health crises through social protection mechanisms.
+
+```mermaid
+flowchart TD
+    PA[Poverty Alleviation] --> IC[Income & Consumption]
+    PA --> BS[Basic Services]
+    PA --> EM[Empowerment]
+    PA --> RV[Reduced Vulnerability]
+
+    IC --> IC1["Sufficient income for basic needs, Food security, Shelter stability"]
+    BS --> BS1["Quality education, Healthcare access, Clean water/sanitation"]
+    EM --> EM1["Skills development, Gender equality, Social inclusion"]
+    RV --> RV1["• Social safety nets, Disaster resilience, Health insurance"]
+
+    style PA fill:#2ecc71,stroke:#333,color:white
+    style IC fill:#3498db,stroke:#333,color:white
+    style BS fill:#9b59b6,stroke:#333,color:white
+    style EM fill:#e67e22,stroke:#333,color:white
+    style RV fill:#e74c3c,stroke:#333,color:white
+```
 
 In essence, poverty alleviation is about creating an enabling environment where every individual has the opportunity to realize their full potential.
 
@@ -361,11 +399,8 @@ The Rooppur Nuclear Power Plant marks Bangladesh's entry into the age of nuclear
 The Padma Bridge, the Dhaka Metro Rail, and the Rooppur Nuclear Power Plant are more than just infrastructure projects; they are the pillars of a new Bangladesh. The bridge conquers geography to unite the nation, the metro rail streamlines the pulse of its economic heart, and the power plant will fuel its future aspirations. Together, these transformative initiatives fully substantiate the claim that Bangladesh is no longer just on a path to development, but is firmly traveling on its highway, accelerating towards its vision of becoming a prosperous, modern, and developed nation by 2041.
 
 ***
-Of course. Here are the detailed answers to questions 9 and 10, each structured with an introduction and conclusion for a 20-mark evaluation.
 
-***
-
-### **Answer to Question 9**
+### **<font color="#ffff00">Answer to Question 9</font>**
 
 **Question:** Why is the Teesta water sharing treaty necessary? Discuss the initiatives undertaken by the governments of Bangladesh and India on this matter. (Marks: 20)
 
@@ -425,7 +460,7 @@ E-governance, the application of Information and Communication Technology (ICT) 
 The impact of e-governance can be seen across various sectors, bringing tangible benefits to millions of Bangladeshis. The key impacts are:
 
 1.  **Increased Accessibility and Reduced Digital Divide:**
-    *   **Union Digital Centres (UDCs):** The establishment of over 8,000 UDCs across the country is perhaps the most significant achievement. These one-stop shops bring government services to the doorsteps of the rural population. Citizens can now apply for birth certificates, passports, land records, and access various other services without traveling to distant district headquarters.
+    *   **Union Digital Centres (UDCs):** The establishment of <font color="#ffff00">over 8,000 UDCs </font>across the country is perhaps the most significant achievement. These one-stop shops bring government services to the doorsteps of the rural population. Citizens can now apply for birth certificates, passports, land records, and access various other services without traveling to distant district headquarters.
     *   **Online and Mobile Services:** Critical services like utility bill payments (electricity, gas, water), train ticket purchases, and university admissions can now be done online or via Mobile Financial Services (MFS) like bKash and Nagad, saving immense time and effort.
 
 2.  **Enhanced Transparency and Reduced Corruption:**
@@ -444,6 +479,15 @@ The impact of e-governance can be seen across various sectors, bringing tangible
 
 5.  **Cost and Time Savings:**
     The cumulative effect of these initiatives is a massive saving in cost, time, and travel (TCT) for citizens. The a2i (Aspire to Innovate) programme estimates that these digital services save citizens billions of dollars and workdays annually, directly contributing to national productivity.
+
+```mermaid
+flowchart TD
+    E[E-Governance Impacts] --> A[Accessibility]
+    E --> T[Transparency]
+    E --> EFF[Efficiency]
+    E --> C[Citizen Empowerment]
+    E --> S[Savings]
+```
 
 **Conclusion**
 
