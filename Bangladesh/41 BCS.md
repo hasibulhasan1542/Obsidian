@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers for questions 1 and 2 from the provided exam paper.
-
-***
 
 ### **Answer to Question 1**
 
@@ -25,19 +22,19 @@ The Language Movement was the first major assertion of Bengali cultural and poli
 Delivered by Bangabandhu Sheikh Mujibur Rahman at a critical moment when the Pakistani junta refused to hand over power, this speech was the ultimate clarion call for independence.
 *   **Influence:** It provided a clear and direct guideline for the upcoming struggle. Bangabandhu's declaration, "The struggle this time is for our emancipation, the struggle this time is for our independence," effectively united the entire nation and prepared them mentally and emotionally for an armed conflict. It served as the central source of inspiration for the freedom fighters and the general populace throughout the nine-month war.
 
-**3) The 1969 Mass Uprising (উনসত্তরের গণঅভ্যুত্থান):**
+**3) The 1969 Mass Uprising:**
 This popular uprising was a spontaneous mass movement against the autocratic rule of General Ayub Khan and the filing of the Agartala Conspiracy Case against Sheikh Mujib.
 *   **Influence:** It demonstrated the unshakeable popular support for Sheikh Mujibur Rahman and the demand for Bengali autonomy (as outlined in the Six-Point Program). The movement's success in forcing the regime to withdraw the case and release Sheikh Mujib proved that the collective will of the people was stronger than the state's repressive machinery. It shattered the myth of Pakistani military invincibility and solidified Sheikh Mujib's position as the undisputed leader of the Bengali nation, paving the way for the 1970 election victory.
 
-#### **b) Recognition of the 7th March Speech**
+#### ~~b) Recognition of the 7th March Speech~~
 
-*   **Organization:** The **United Nations Educational, Scientific and Cultural Organization (UNESCO)** recognized the 7th March Speech as part of the 'World Documentary Heritage'.
-*   **When:** The recognition was granted on **October 30, 2017**, when the speech was included in the **Memory of the World International Register**.
-*   **Why:** UNESCO recognized the speech for its immense historical significance and its powerful message of freedom and human rights. It was acknowledged as a unique documentary heritage that had a profound impact on the course of history, mobilizing an entire nation to fight for its independence. The register aims to preserve documentary heritage of universal value, and the 7th March Speech was deemed a masterpiece of political oratory that transcends national boundaries in its appeal for justice and self-determination.
+*   ~~**Organization:** The **United Nations Educational, Scientific and Cultural Organization (UNESCO)** recognized the 7th March Speech as part of the 'World Documentary Heritage'.~~
+*   ~~**When:** The recognition was granted on **October 30, 2017**, when the speech was included in the **Memory of the World International Register**.~~
+*   ~~**Why:** UNESCO recognized the speech for its immense historical significance and its powerful message of freedom and human rights. It was acknowledged as a unique documentary heritage that had a profound impact on the course of history, mobilizing an entire nation to fight for its independence. The register aims to preserve documentary heritage of universal value, and the 7th March Speech was deemed a masterpiece of political oratory that transcends national boundaries in its appeal for justice and self-determination.~~
 
-**Conclusion**
+~~**Conclusion**~~
 
-From the cultural awakening of 1952 to the political defiance of 1969, and finally to the decisive call to arms in 1971, these events were crucial milestones on the road to Bangladesh's independence. The international recognition of the 7th March Speech by UNESCO serves as a global testament to the justness of the Bengali cause and the profound power of words to shape history.
+~~From the cultural awakening of 1952 to the political defiance of 1969, and finally to the decisive call to arms in 1971, these events were crucial milestones on the road to Bangladesh's independence. The international recognition of the 7th March Speech by UNESCO serves as a global testament to the justness of the Bengali cause and the profound power of words to shape history.~~
 
 ***
 
