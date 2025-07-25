@@ -1,5 +1,7 @@
 {
   "baseFontSize": 19,
   "enabledCssSnippets": [],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "system",
+  "translucency": true
 }

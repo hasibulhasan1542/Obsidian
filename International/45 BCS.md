@@ -144,6 +144,14 @@ AI's influence on international relations is rapidly growing:
 
 The international body primarily responsible for the peaceful use of nuclear energy is the **International Atomic Energy Agency (IAEA)**. Established in 1957 as an autonomous organization within the United Nations system, its functions are based on three main pillars:
 
+```mermaid
+flowchart TD
+    A(IAEA) --> B(Safety and Security)
+    A(IAEA) --> C(Safeguards and Verification)
+    A(IAEA) --> D(Science and Technology)
+
+```
+
 1.  **Safety and Security:** The IAEA develops and promotes international safety standards to protect people and the environment from the harmful effects of ionizing radiation. It provides guidance and conducts peer reviews to help countries ensure the safety and security of their nuclear facilities and materials.
 2.  **Safeguards and Verification (Non-Proliferation):** This is a critical function. The IAEA implements a system of safeguards to verify that nuclear material and technology intended for peaceful purposes (like power generation or medical use) are not diverted to military or weapons programs. This is the cornerstone of the global nuclear non-proliferation regime under the **Treaty on the Non-Proliferation of Nuclear Weapons (NPT)**.
 3.  **Science and Technology (Peaceful Uses):** The IAEA acts as a hub for international cooperation in the nuclear field. It assists member states, particularly in the developing world, in using nuclear science and technology for peaceful applications in areas such as energy, human health (e.g., cancer therapy), food and agriculture, and water management.
