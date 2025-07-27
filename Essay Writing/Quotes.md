@@ -21,7 +21,8 @@ Luther King
 generation.” ― Brigham Young
 
 Essay Topic: Science and Religion
-“All thinking men are atheists.” Ernest Hemingway
+>[!Quote]
+>“All thinking men are atheists.” Ernest Hemingway
 “The notion that Science and Spirituality are somehow mutually exclusive does a
 disservice to both.” Carl Sagan
 “Science without Religion is lame and Religion without Science is blind” Einstein
@@ -32,7 +33,8 @@ misguided men.” - Martin Luther King
 
 # Essay Topic: Democracy
 
-“The best argument against democracy is a five-minute conversation with the
+>[!Quote]
+>“The best argument against democracy is a five-minute conversation with the
 average voter.” Churchill
 “The tyranny of a prince in an oligarchy is not so much dangerous to the public
 welfare as the apathy of a citizen in a democracy” Montesquieu
@@ -51,7 +53,8 @@ Thomas Jefferson
 
 # Essay Topic: Materialism/Consumerism/Environment
 
-The Earth does not belong to us: we belong to the Earth
+>[!Quote]
+>The Earth does not belong to us: we belong to the Earth
 “The world has enough for everyone’s need but not enough for everyone’s greed.”
 Mahatma Gandhi
 Water and air, the two essential fluids on which all life depends, have become global
@@ -61,7 +64,8 @@ We never know the worth of water till the well is dry.
 
 # Essay Topic: Peace/Justice
 
-“When the power of love overcomes the love of power, the world will know peace.”
+>[!Quote]
+>“When the power of love overcomes the love of power, the world will know peace.”
 William Gladstone
 “Peace and Justice are two sides of the same coin.” Eisenhower
 “Poverty is the worst form of violence.” Mahatma Gandhi
@@ -71,7 +75,6 @@ are not clothed – Eisenhower
 The greatness of humanity is not in being human, but in being humane.”
 “There was never a bad peace or a good war.”
 “Injustice anywhere is a threat to justice everywhere.”
-
 War does not decide who is right but who is left.”
 The arc of the moral universe is long, but it bends towards justice.”
 ― Martin Luther King Jr.
@@ -81,7 +84,8 @@ The arc of the moral universe is long, but it bends towards justice.”
 
 # Essay Topic: Judiciary
 
-Yatho Dharma Thatho Jayaha: Where there is justice, there is victory.
+>[!Quote]
+>Yatho Dharma Thatho Jayaha: Where there is justice, there is victory.
 Essay Topic: Corruption
 As human beings, our greatness lies not so much in remaking the world but in
 remaking ourselves - Mahatma Gandhi
@@ -98,7 +102,8 @@ Conclusion Phrases
 
 Gandhiji’s Talisman
 
-•Sarve Bhavantu Sukhina (May all be Happy)
+>[!Quote]
+>•Sarve Bhavantu Sukhina (May all be Happy)
 Sarve Santu Niramaya (May all be without disease)
 //Sarve Bhadrani Pashyantu (May all have well-being)
 Maa Kaschit Dukh Bhagh Bhavet (May none have misery of any sort)//
@@ -117,7 +122,8 @@ Satyamev Jayate
 Ahimsa Parmo Dharma
 
 Quotes by Mahatma Gandhi
-“The best way to find yourself is to lose yourself in the service of others.”
+>[!Quote]
+>“The best way to find yourself is to lose yourself in the service of others.”
 “Happiness is when what you think, what you say and what you do are in harmony.”
 “An eye for an eye only ends up making the whole world blind.”
 “First they ignore you, then they laugh at you, then they fight you, then you win”
@@ -144,7 +150,8 @@ Essay Topic: Privacy
 neither liberty nor safety.”
 
 # Essay Topic: Free Speech
-Freedom is the right to tell people what they do not want to hear
+>[!Quote]
+>Freedom is the right to tell people what they do not want to hear
 I do not agree with what you have to say, but I'll defend to the death your right to say
 it. – Voltaire
 Where the mind is without fear and the head is held high
@@ -158,3 +165,4 @@ Into the dreary desert sand of dead habit
 Where the mind is led forward by thee
 Into ever-widening thought and action
 Into that heaven of freedom, my Father, let my country awake
+

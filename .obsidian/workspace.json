@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay Writing/UPSC Essay Topics.md",
-                "mode": "preview",
+                "file": "Essay Writing/Difference between art and craft.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UPSC Essay Topics"
+              "title": "Difference between art and craft"
             }
           }
         ]
@@ -168,8 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "907c7587f98acb84",
+  "active": "52762d023e118f93",
   "lastOpenFiles": [
+    "Essay Writing/Difference between art and craft.md",
+    "tmp.md",
+    "Essay Writing/Essay.md",
+    "Essay Writing/Answer Writing.md",
+    "Essay Writing/Peace And Justice Are Two Sides Of The Same Coin.md",
+    "Essay Writing/Quotes.md",
+    "Essay Writing/The Paradox of Choice.md",
+    "Essay Writing/The Pursuit of Happiness.md",
+    "Essay Writing/UPSC Essay Topics.md",
     "46_BCS.pdf",
     "Bangladesh/41 BCS.md",
     "Bangla/সাহিত্য সমালোচনা.md",
@@ -188,14 +197,6 @@
     "Bangla/Bangla Lit/41 BCS.md",
     "Bangla/Bangla Lit/40 BCS.md",
     "Bangla/Bangla Lit/38 BCS.md",
-    "Bangla/Bangla Lit/37 BCS.md",
-    "Bangla/Bangla Lit/36 BCS.md",
-    "Bangla/Bangla Lit/35 BCS.md",
-    "Bangla/Bangla Lit/Additional.md",
-    "Bangla/রচনা.md",
-    "Bangla/Bangla Lit/45 BCS.md",
-    "Bangladesh/40 BCS.md",
-    "Bangladesh/43 BCS.md",
     "Bangla",
     "Bangladesh/45 bcs.canvas",
     "Pasted image 20250725001058.png",
@@ -209,7 +210,6 @@
     "g.sh.sb-42eb8c61-Mfzm57",
     "g.sh",
     "Operating System",
-    "Senior Scale Exam/CA",
-    "Senior Scale Exam/BA"
+    "Senior Scale Exam/CA"
   ]
 }

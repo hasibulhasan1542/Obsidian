@@ -7,18 +7,6 @@
 5. The country’s need for a better disaster management system. (2000)
 6. How should a civil servant conduct himself? (2003)
 
-### Democracy/India since independence
-
-1. Whither Indian democracy? (1995)
-2. What we have not learnt during fifty years of independence. (1997)
-3. Why should we be proud of being Indians? (2000)
-4. What have we gained from our democratic set-up? (2001)
-5. How far has democracy in India delivered the goods? (2003)
-6. National identity and patriotism. (2008)
-7. In the context of Gandhiji’s views on the matter, explore, on an evolutionary scale, the terms ‘Swadhinata’, ‘Swaraj’ and ‘Dharmarajya’. Critically comment on their contemporary relevance to Indian democracy. (2012)
-8. Is the colonial mentality hindering India’s success? (2013)
-9. Dreams which should not let India sleep. (2015)
-10. Management of Indian border disputes – a complex task. (2018)
 
 ### Economic growth and development
 
