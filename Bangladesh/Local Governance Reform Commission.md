@@ -30,3 +30,31 @@ To bring essential services closer to the people, the report recommends:
 *   **Devolving Health and Education:** Transferring the authority and management of Upazila Health Complexes and Union Health & Family Welfare Centres directly to the Upazila and Union Parishads respectively, making them accountable to the local populace.
 
 In conclusion, the Commission's report envisions a paradigm shift for local governance in Bangladesh. Its recommendations aim to create a legally coherent, democratically accountable, administratively empowered, and financially self-reliant system of local government that can act as the primary engine for public service delivery and sustainable development.
+
+```mermaid
+flowchart LR
+    A["Local Government Reform Commission (2025)"] --> B["Unified Legal Structure"]
+    B --> B1["• One Local Government Ordinance"]
+    B --> B2["• Simultaneous elections for all tiers"]
+
+    A --> C[Democratic Representation]
+    C --> C1["• Direct elections for all tiers"]
+    C --> C2["• Ward redefinition (~1,200-1,500 people)"]
+    C --> C3["• Rotational women's reservation"]
+    C --> C4["• Elected CHT District Councils"]
+
+    A --> D[Devolution of Power]
+    D --> D1["• Transfer 17 govt departments to Upazila Parishads"]
+    D --> D2["• Zila Parishad as service coordinator"]
+    D --> D3["• Local Government Service Cadre"]
+
+    A --> E[Financial Autonomy]
+    E --> E1["• 1/3 VAT + 1% GDP to LGIs"]
+    E --> E2["• Scientific 'Financing Index'"]
+    E --> E3["• New tax powers (tourism, environment)"]
+
+    A --> F["Justice & Services"]
+    F --> F1["• Courts at Upazila level"]
+    F --> F2["• Health & Education devolved to LGIs"]
+
+```

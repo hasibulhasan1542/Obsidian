@@ -31,3 +31,33 @@ To address the critical issues of case backlogs and corruption, the recommendati
 *   **Grievance Redress System:** Establishing formal grievance redress mechanisms, including complaint boxes and dedicated email addresses, for the public to file corruption allegations against judges, court staff, and lawyers.
 
 In conclusion, the Judiciary Reform Commission's report presents a holistic and ambitious roadmap for reform. Its proposals aim to create a structurally independent, geographically accessible, professionally managed, and technologically advanced judicial system that is accountable to the people and capable of delivering timely and impartial justice.
+
+```mermaid
+flowchart LR
+    A["Judiciary Reform Commission (2025) Recommendations"]
+
+    A --> B["Judicial Independence & Accountability"]
+    B --> B1["• Judicial Appointment Commission (9 members)"]
+    B --> B2["• Independent Supreme Court Secretariat"]
+    B --> B3["• Strengthen Supreme Judicial Council (SJC)"]
+
+    A --> C["Decentralization of Justice System"]
+    C --> C1["• Permanent High Court benches in all divisions"]
+    C --> C2["• Senior Assistant Judges & Magistrates at Upazila level"]
+
+    A --> D["Structural & Administrative Reforms"]
+    D --> D1["• Permanent Attorney Service (state lawyers)"]
+    D --> D2["• Separate Criminal Investigation Service"]
+    D --> D3["• Judiciary’s own budget authority"]
+
+    A --> E["Modernization & Technology"]
+    E --> E1["• E-Judiciary: e-filing, e-payment, video hearings"]
+
+    A --> F["Backlog & Corruption Measures"]
+    F --> F1["• Hire retired judges on contract"]
+    F --> F2["• Mandatory asset declaration (every 3 yrs)"]
+    F --> F3["• Public grievance redress channels"]
+
+
+```
+

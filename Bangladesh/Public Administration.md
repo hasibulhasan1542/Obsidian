@@ -33,3 +33,35 @@ To make public services more accessible and efficient, the Commission proposes:
 *   **Mandatory Retirement and Lateral Entry:** Allowing government officials to opt for voluntary retirement after **15 years of service** and introducing a system of **lateral entry** for specialized professionals from the private sector to be appointed to senior government posts on a contractual basis.
 
 In conclusion, the Commission's report presents a holistic vision for a fundamental overhaul of Bangladesh's public administration. It seeks to dismantle the centralized, colonial-era structure and replace it with a modern, decentralized, accountable, and performance-driven system fit for a 21st-century democratic state.
+
+```mermaid
+flowchart LR
+    A["Public Administration Reform Commission (2025)"]
+
+    A --> B[Vision & Structure]
+    B --> B1["• Core values: ethical, neutral, transparent"]
+    B --> B2["• Permanent Reform Commission proposed"]
+
+    A --> C[Ministry & Cadre Restructuring]
+    C --> C1["• Ministries: 43 → 25; Divisions: 61 → 40"]
+    C --> C2["• 13 Specialized Civil Services"]
+    C --> C3["• Superior Executive Service (SES) for top posts"]
+
+    A --> D[Decentralization of Power]
+    D --> D1["• 4 Provinces for Provincial Governance"]
+    D --> D2["• Abolish Zila Parishad; Empower Upazila/Union"]
+    D --> D3["• Rename DC to DMDC, UNO to UC"]
+
+    A --> E[Neutrality & Accountability]
+    E --> E1["• Abolish police verification for jobs"]
+    E --> E2["• Replace ACR with Annual Performance Evaluation (APE)"]
+    E --> E3["• Create Administrative Ombudsman"]
+
+    A --> F[Service Delivery Improvements]
+    F --> F1["• Unified digital service portal"]
+    F --> F2["• Citizen's Charters + One-Stop Centers"]
+    F --> F3["• Voluntary retirement after 15 yrs + lateral entry"]
+
+
+```
+

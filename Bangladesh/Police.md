@@ -31,3 +31,32 @@ To build a motivated and professional force, the Commission emphasizes the welfa
 The report places a strong emphasis on making the police force more inclusive and sensitive. A key recommendation is to significantly **increase the number of female police officers** (targeting 15% of the force) and establish dedicated **Women and Child-Friendly Desks** in every police station, staffed by trained female officers to handle cases of gender-based violence.
 
 In conclusion, the Police Reform Commission's report is a comprehensive blueprint for fundamental change. It moves beyond superficial adjustments to recommend deep structural, legal, and cultural reforms aimed at rebuilding public trust and establishing a police service that is efficient, accountable, and truly committed to protecting the rights and safety of all citizens.
+
+```mermaid
+flowchart LR
+    A["Police Reform Commission (2025)"] --> B["Legal & Institutional Overhaul"]
+    B --> B1["• Repeal Police Act 1861 & PRB 1943"]
+    B --> B2["• Enact new people-centric Police Law"]
+    B --> B3["• Form National Police Commission (constitutional)"]
+
+    A --> C[Human Rights & Accountability]
+    C --> C1["• Reform Section 54 (no warrantless arrests)"]
+    C --> C2["• Enforce HC guidelines on remand"]
+    C --> C3["• Independent HR abuse investigations"]
+    C --> C4["• Budget & procurement transparency"]
+
+    A --> D[Operational Reforms]
+    D --> D1["• True Community Policing with Citizen Committees"]
+    D --> D2["• Separate investigation from law & order"]
+    D --> D3["• Specialized units: River, Industrial, Tourist"]
+
+    A --> E[Welfare & Professionalism]
+    E --> E1["• 8-hr shifts, housing, healthcare incl. mental health"]
+    E --> E2["• Transparent, merit-based promotions"]
+    E --> E3["• Modern tools: bodycams, digital forensics, training"]
+
+    A --> F[Gender & Child-Friendly Policing]
+    F --> F1["• 15% female officer target"]
+    F --> F2["• Women & Child Desks in every station"]
+
+```

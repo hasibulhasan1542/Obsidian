@@ -30,3 +30,41 @@ The report recommends a major expansion and strengthening of citizens' rights. I
 The Commission provides a specific structure for an election-time **Interim Government**, headed by a Chief Advisor, to ensure free and fair elections. It also recommends establishing a **strong and autonomous local government system** with full financial and functional independence, overseen by a new constitutional body, the Local Government Commission.
 
 In conclusion, the Constitution Reform Commission’s report presents a transformative vision for Bangladesh. Its recommendations collectively aim to dismantle the concentration of executive power and create a truly democratic state with a robust system of checks and balances, an empowered legislature, an independent judiciary, and a stronger guarantee of fundamental rights for all citizens.
+
+```mermaid
+flowchart LR
+    A["Constitution Reform Commission (2025)"]
+
+    A --> B["Foundational Principles"]
+    B --> B1["• Replace nationalism/socialism/secularism"]
+    B --> B2["• New core: Equality, Human Dignity, Social Justice, Pluralism, Democracy"]
+    B --> B3["• Recognize Bangladesh as multi-ethnic, pluralistic"]
+
+    A --> C["Legislature & Executive"]
+    C --> C1["• Bicameral Parliament (Lower: 400, Upper: 105)"]
+    C --> C2["• PM: 2-term limit, can't be party chief"]
+    C --> C3["• MPs can vote independently (except money bills)"]
+    C --> C4["• Stronger opposition: Deputy Speaker + committee chairs"]
+
+    A --> D["National Constitutional Council (NCC)"]
+    D --> D1["• Members: President, PM, Opposition Leader, CJ, Speakers"]
+    D --> D2["• Appoints EC, PSC, ACC, Attorney General"]
+
+    A --> E["Judiciary Independence"]
+    E --> E1["• Permanent High Court benches in divisions"]
+    E --> E2["• Judicial Appointments Commission (JAC)"]
+    E --> E3["• Full judicial financial autonomy + Secretariat"]
+
+    A --> F["Fundamental Rights"]
+    F --> F1["• Unified 'Charter of Rights & Freedoms'"]
+    F --> F2["• Civil + economic rights (food, housing, health, internet)"]
+    F --> F3["• Progressive realization + enforceability"]
+
+    A --> G["Elections & Local Governance"]
+    G --> G1["• Election-time Interim Govt with Chief Advisor"]
+    G --> G2["• Strong, autonomous local govt system"]
+    G --> G3["• Local Government Commission to oversee"]
+
+
+```
+
