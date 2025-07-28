@@ -59,7 +59,3 @@ Moreover, shifting our mindset about happiness can itself be liberating. Rather 
 In conclusion, the pursuit of happiness reflects a fundamental human aspiration, but its true nature is more complex than a simple chase for pleasure or success. While society often portrays happiness as an external goal to be attained, deeper philosophical, psychological, and cultural insights reveal it to be primarily a state of being—one that emerges from within, shaped by mindset, meaning, and connection. Recognizing this can free us from the endless chase and guide us toward a richer, more fulfilling experience of life. Ultimately, happiness is less about the destination and more about the way we travel.
 
 ---
-
-**Word count**: ~1,200 words.
-
----
