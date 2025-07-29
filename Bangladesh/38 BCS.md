@@ -186,16 +186,16 @@ While the ultimate goal is for women to win a significant number of seats throug
 
 ### **Question 05**
 
-**(a) What is the difference between the freedom struggle and the liberation war? (5)**
+~~**(a) What is the difference between the freedom struggle and the liberation war? (5)**~~
 
-**Answer:**
-While often used interchangeably, "freedom struggle" and "liberation war" have distinct connotations, especially in the context of Bangladesh.
+~~**Answer:**~~
+~~While often used interchangeably, "freedom struggle" and "liberation war" have distinct connotations, especially in the context of Bangladesh.~~
 
-*   **Freedom Struggle (*Shadhinota Shongram*):** This is a broader and longer-term concept. It refers to the entire historical process and the series of political, cultural, and social movements aimed at achieving self-determination and freedom from oppression. In Bangladesh's context, the freedom struggle encompasses the entire period from the 1947 Partition, including the 1952 Language Movement, the 1962 Education Movement, the 1966 Six-Point Movement, and the 1969 Mass Uprising. It was a prolonged, largely political struggle to establish the rights and identity of the Bengali people.
+*   ~~**Freedom Struggle (*Shadhinota Shongram*):** This is a broader and longer-term concept. It refers to the entire historical process and the series of political, cultural, and social movements aimed at achieving self-determination and freedom from oppression. In Bangladesh's context, the freedom struggle encompasses the entire period from the 1947 Partition, including the 1952 Language Movement, the 1962 Education Movement, the 1966 Six-Point Movement, and the 1969 Mass Uprising. It was a prolonged, largely political struggle to establish the rights and identity of the Bengali people.~~
 
-*   **Liberation War (*Muktijuddho*):** This is a more specific term. It refers to the final, armed phase of the freedom struggle. For Bangladesh, the Liberation War specifically denotes the nine-month-long conventional and guerrilla war fought from March 26 to December 16, 1971, against the occupying Pakistani army. It was the military conflict that culminated in the achievement of independence.
+*   ~~**Liberation War (*Muktijuddho*):** This is a more specific term. It refers to the final, armed phase of the freedom struggle. For Bangladesh, the Liberation War specifically denotes the nine-month-long conventional and guerrilla war fought from March 26 to December 16, 1971, against the occupying Pakistani army. It was the military conflict that culminated in the achievement of independence.~~
 
-**In summary:** The Liberation War was the armed culmination of the decades-long Freedom Struggle. The struggle provided the political and ideological foundation, while the war provided the military victory.
+~~**In summary:** The Liberation War was the armed culmination of the decades-long Freedom Struggle. The struggle provided the political and ideological foundation, while the war provided the military victory.~~
 
 **(b) Discuss the phases of Bangladesh's struggle for independence from 1947 to 1971. (10)**
 
@@ -226,9 +226,6 @@ The seven Birsreshthas are:
 6.  **Lance Naik Munshi Abdur Rouf**
 7.  **Lance Naik Nur Mohammad Sheikh**
 
-Of course. Here are the detailed answers for the remaining questions (06 to 10) from the fourth set of images, following the same structured approach.
-
----
 ### **Question 06**
 
 **(a) What is meant by human resources? (5)**

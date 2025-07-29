@@ -296,20 +296,20 @@ Key elements of leadership include:
 *   **Decision-Making:** Leaders are responsible for making difficult decisions, often under pressure, and taking responsibility for the outcomes.
 *   **Communication:** Effective communication is the lifeblood of leadership. A leader must be able to communicate their vision, goals, and instructions clearly and listen to the feedback of their team.
 
-**(b) Discuss the 'charismatic' leadership of Bangabandhu Sheikh Mujibur Rahman. (15)**
+~~**(b) Discuss the 'charismatic' leadership of Bangabandhu Sheikh Mujibur Rahman. (15)**~~
 
-**Answer:**
-Bangabandhu Sheikh Mujibur Rahman's leadership was quintessentially "charismatic." Charismatic leadership, as defined by sociologist Max Weber, is a type of authority based on the leader's exceptional personal qualities, their ability to inspire devotion, and their perceived superhuman or heroic traits. Bangabandhu embodied these qualities, which enabled him to unite and mobilize the entire Bengali nation.
+~~**Answer:**~~
+~~Bangabandhu Sheikh Mujibur Rahman's leadership was quintessentially "charismatic." Charismatic leadership, as defined by sociologist Max Weber, is a type of authority based on the leader's exceptional personal qualities, their ability to inspire devotion, and their perceived superhuman or heroic traits. Bangabandhu embodied these qualities, which enabled him to unite and mobilize the entire Bengali nation.~~
 
-His charismatic leadership can be discussed through several key aspects:
+~~His charismatic leadership can be discussed through several key aspects:~~
 
-1.  **Unparalleled Oratorical Skill:** Bangabandhu was a master orator. His voice, tone, and powerful rhetoric could mesmerize and electrify vast crowds. His speeches, delivered in his native Bengali dialect, connected with the masses on a deeply emotional level. The historic **7th March Speech** is the ultimate testament to this power, where he single-handedly prepared a nation for war with his words.
-2.  **Unshakable Courage and Self-Sacrifice:** His personal courage was legendary. He spent nearly 13 years of his political life in prison, facing the constant threat of execution. He never compromised on the rights of the Bengali people, even when offered power and position. This willingness to sacrifice his own freedom and life for his people created an aura of invincibility and earned him their absolute trust and devotion.
-3.  **Deep Empathy and Connection with the People:** Bangabandhu possessed a profound empathy for the common people. He traveled extensively across Bengal, listening to their grievances and speaking their language. The people saw him not as a distant politician, but as one of their own—their "Mujib Bhai," and later their "Bangabandhu" (Friend of Bengal). This deep personal connection was the foundation of his charisma.
-4.  **A Compelling and Unifying Vision:** He was able to articulate a simple yet powerful vision: the dream of a "Shonar Bangla" (Golden Bengal), a sovereign and exploitation-free nation for the Bengali people. This vision united people from all walks of life—students, workers, peasants, and the middle class—under a single banner and a single leader.
-5.  **Symbol of National Identity:** Over time, Sheikh Mujib became the living embodiment of Bengali nationalism. His identity and the identity of the Bengali nation became inseparable. His voice was the voice of the 75 million Bengalis. This symbolic power is the hallmark of a true charismatic leader, whose authority transcends formal political structures and rests on the unconditional love and loyalty of his followers.
+1.  ~~**Unparalleled Oratorical Skill:** Bangabandhu was a master orator. His voice, tone, and powerful rhetoric could mesmerize and electrify vast crowds. His speeches, delivered in his native Bengali dialect, connected with the masses on a deeply emotional level. The historic **7th March Speech** is the ultimate testament to this power, where he single-handedly prepared a nation for war with his words.~~
+2.  ~~**Unshakable Courage and Self-Sacrifice:** His personal courage was legendary. He spent nearly 13 years of his political life in prison, facing the constant threat of execution. He never compromised on the rights of the Bengali people, even when offered power and position. This willingness to sacrifice his own freedom and life for his people created an aura of invincibility and earned him their absolute trust and devotion.~~
+3.  ~~**Deep Empathy and Connection with the People:** Bangabandhu possessed a profound empathy for the common people. He traveled extensively across Bengal, listening to their grievances and speaking their language. The people saw him not as a distant politician, but as one of their own—their "Mujib Bhai," and later their "Bangabandhu" (Friend of Bengal). This deep personal connection was the foundation of his charisma.~~
+4.  ~~**A Compelling and Unifying Vision:** He was able to articulate a simple yet powerful vision: the dream of a "Shonar Bangla" (Golden Bengal), a sovereign and exploitation-free nation for the Bengali people. This vision united people from all walks of life—students, workers, peasants, and the middle class—under a single banner and a single leader.~~
+5.  ~~**Symbol of National Identity:** Over time, Sheikh Mujib became the living embodiment of Bengali nationalism. His identity and the identity of the Bengali nation became inseparable. His voice was the voice of the 75 million Bengalis. This symbolic power is the hallmark of a true charismatic leader, whose authority transcends formal political structures and rests on the unconditional love and loyalty of his followers.~~
 
-It was this unique combination of courage, sacrifice, empathy, and visionary communication that made Bangabandhu's leadership charismatic and enabled him to lead his people to independence.
+~~It was this unique combination of courage, sacrifice, empathy, and visionary communication that made Bangabandhu's leadership charismatic and enabled him to lead his people to independence.~~
 
 ---
 

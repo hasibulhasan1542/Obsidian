@@ -19,9 +19,6 @@ Based on the provided question paper (Question 1), here are concise discussions 
 ***
 <center><h2>20 Marks Question</h2></center>
 ***
-Of course. Here are detailed answers to questions 2 and 3, structured to meet the requirements of a 20-mark question.
-
-***
 
 ### **Answer to Question 2**
 
@@ -153,6 +150,7 @@ The foreign policy of Bangladesh is enshrined in Article 25 of its constitution.
 4.  **Respect for International Law:** Upholding international law and the principles enunciated in the United Nations Charter.
 5.  **Anti-Imperialism and Colonialism:** Supporting oppressed peoples worldwide in their struggles against imperialism, colonialism, and racism.
 
+
 **Key Objectives (উদ্দেশ্য):**
 1.  **Protecting Sovereignty:** The foremost objective is to preserve the country's independence and territorial integrity.
 2.  **Economic Development:** Promoting trade, attracting foreign direct investment (FDI), securing development aid, and ensuring market access for its exports, particularly ready-made garments (RMG).
@@ -160,7 +158,7 @@ The foreign policy of Bangladesh is enshrined in Article 25 of its constitution.
 4.  **Global Peacekeeping:** Actively participating in UN Peacekeeping Operations, which enhances the nation's international prestige and contributes to global peace.
 5.  **Managing Bilateral Relations:** Maintaining balanced and constructive relationships with major powers like India, China, the USA, and Russia.
 
-#### **Weaknesses and Limitations (দুর্বলতা এবং সীমাবদ্ধতা)**
+#### **Weaknesses and Limitations 
 
 Despite its noble principles, Bangladesh's foreign policy operates under several significant constraints.
 

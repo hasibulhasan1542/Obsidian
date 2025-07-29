@@ -89,9 +89,6 @@ The RPO provides the legal foundation, the Election Commission acts as the insti
 
 ***
 
-Of course. Here are the detailed answers for questions 3 and 4 from the provided exam paper.
-
-***
 
 ### **Answer to Question 3**
 
@@ -188,9 +185,6 @@ The current version of the Constitution of Bangladesh, as shaped by the 15th Ame
 
 ***
 
-Of course. Here are the detailed answers for questions 5 and 6 from the provided exam paper.
-
-***
 
 ### **Answer to Question 5**
 
@@ -204,8 +198,6 @@ c) What role can the Ministry of Foreign Affairs of Bangladesh play in sending t
 Bangladesh's foreign policy is a reflection of its history, values, and national interests. Rooted in the spirit of its Liberation War, it seeks to promote peace, cooperation, and sovereign equality on the global stage. This commitment is vividly demonstrated through the Bangladesh Army's exemplary contributions to UN peacekeeping missions. A major contemporary challenge for its diplomacy, however, is orchestrating the safe and dignified repatriation of the Rohingya population, a task that falls heavily on the Ministry of Foreign Affairs.
 
 #### **a) The Basis of Bangladesh's Foreign Policy**
-
-The basis of Bangladesh's foreign policy is famously encapsulated in the principle articulated by the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman: **"Friendship to all, malice towards none" (সবার সাথে বন্ধুত্ব, কারো সাথে শত্রুতা নয়)**. This principle is constitutionally enshrined in **Article 25** of the Constitution.
 
 **Discussion:**
 This guiding principle means that Bangladesh seeks to maintain friendly and peaceful relations with all countries of the world, irrespective of their political or social systems. It is a policy of non-alignment and peaceful coexistence. It dictates that Bangladesh will:
