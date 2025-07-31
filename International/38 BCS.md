@@ -1,294 +1,271 @@
-Of course. Here are the detailed, data-rich answers for all the short answer questions in Question 01 from the "International Affairs" paper (`./21.jpg`), as requested.
+Of course. Here are the detailed answers for all the short-note questions from Section 1 of the provided exam paper.
 
 ***
 
-### **Question 01: Answer any 10 of the following questions in brief: (4x10=40)**
+### **01. Brief Discussion on any ten of the following topics (4x10 = 40)**
 
-#### **(a) What is meant by a multinational state?**
+**(a) What is meant by a multinational state?**
 
-**Answer:**
-A **multinational state** is a sovereign state that is composed of two or more nations or ethnic groups who coexist within its borders. Unlike a nation-state, where the vast majority of the population shares a single, common national identity, a multinational state is characterized by its cultural, linguistic, and ethnic diversity.
+A multinational state is a sovereign state that is comprised of two or more distinct nations or ethnic groups, each with its own collective identity, culture, and often language. Unlike a nation-state, where a single national group forms the majority and defines the state's identity, a multinational state's identity is based on a shared political community rather than a single ethnicity.
 
-In such states, different national groups often maintain their distinct identities and may seek some form of political autonomy or recognition. The stability of a multinational state often depends on its ability to manage these diverse identities and ensure equitable representation and rights for all groups.
+Managing this diversity is the central challenge for such states. They must foster a sense of shared citizenship and political loyalty that transcends ethnic or national lines to prevent internal conflict or secessionist movements.
 
-*   **Examples:**
-    *   **The United Kingdom** is a classic example, as it is composed of four distinct nations: England, Scotland, Wales, and Northern Ireland.
-    *   **India** is another prime example, with its vast diversity of languages, religions, and ethnic groups.
-    *   Other examples include **Canada** (with its English and French-speaking populations), **Russia**, and **Spain**.
+**Examples:**
+*   **India:** With hundreds of linguistic and ethnic groups.
+*   **Canada:** With its distinct English-speaking and French-speaking (Québécois) national communities.
+*   **The United Kingdom:** Comprising England, Scotland, Wales, and Northern Ireland.
 
 ---
-#### **(b) What are the main components of human security?**
 
-**Answer:**
-**Human security** is a people-centric approach to security that challenges the traditional state-centric concept of national security (which focuses on protecting the state from external military threats). Human security argues that the proper referent for security should be the individual, and its goal is to protect the "vital core of all human lives in ways that enhance human freedoms and human fulfillment."
+**(b) What are the main components of human security?**
 
-The **United Nations Development Programme (UNDP)**, in its 1994 Human Development Report, identified **seven main components** of human security:
+Human security is a people-centric approach to security that shifts the focus from the security of the state (from external military threats) to the security of the individual (from a wide range of threats to their survival, livelihood, and dignity). First articulated in the 1994 UNDP Human Development Report, it has seven main components:
 
-1.  **Economic Security:** Assured basic income, protection from poverty and unemployment.
-2.  **Food Security:** Physical and economic access to basic food at all times.
-3.  **Health Security:** Protection from diseases and access to necessary healthcare.
+1.  **Economic Security:** Freedom from poverty; assured basic income.
+2.  **Food Security:** Physical and economic access to basic food.
+3.  **Health Security:** Access to healthcare and protection from diseases.
 4.  **Environmental Security:** Protection from natural disasters, environmental degradation, and pollution.
-5.  **Personal Security:** Protection from physical violence, whether from the state, other states, or from individuals (e.g., crime, domestic violence).
-6.  **Community Security:** Protection from the loss of traditional relationships and values, and from sectarian and ethnic violence.
-7.  **Political Security:** Ensuring that people live in a society that honors their basic human rights and provides freedom from political oppression.
+5.  **Personal Security:** Protection from physical violence, whether from the state, other states, or individuals (e.g., crime, domestic violence).
+6.  **Community Security:** Protection of cultural identity and peaceful relationships within communities.
+7.  **Political Security:** Protection of basic human rights and freedom from political repression.
 
 ---
-#### **(c) What is the main proposition of the Democratic Peace Theory?**
 
-**Answer:**
-The **main proposition** of the **Democratic Peace Theory** is that **democracies do not go to war with other democracies**. This is one of the most widely cited and empirically supported claims in international relations.
+**(c) What is the main argument of Democratic Peace Theory?**
 
-The theory does not argue that democracies are inherently more peaceful in general—they do engage in wars with non-democratic states. The claim is specific to their interactions with each other.
+The main argument of the Democratic Peace Theory is the empirical observation that **liberal democracies do not go to war with one another**. While democracies may engage in wars with non-democratic states, there are virtually no historical cases of established democracies fighting wars against each other.
 
 There are two main explanations for this phenomenon:
-1.  **Normative Explanation:** Democracies are based on internal norms of peaceful conflict resolution, compromise, and respect for individual rights. When dealing with other democracies, leaders tend to apply these same norms externally, preferring negotiation and diplomacy over the use of force.
-2.  **Institutional Explanation:** The institutional structures of a democracy—such as checks and balances, the separation of powers, and the need for public and parliamentary approval—make it difficult for leaders to declare war, especially against other states where similar constraints exist. The transparency of democratic processes and the free press also create accountability, as leaders are answerable to a public that typically bears the costs of war.
+1.  **Normative/Cultural Explanation:** Democracies share common norms of peaceful conflict resolution, compromise, and mutual respect. They tend to view other democracies as legitimate and non-threatening, preferring to resolve disputes through diplomacy and negotiation.
+2.  **Structural/Institutional Explanation:** The institutional structures of democracies—such as checks and balances, separation of powers, and the need for public debate and voter accountability—make it difficult for leaders to rush into war without broad support.
 
 ---
-#### **(d) What is meant by a crime against humanity? Give an example.**
 
-**Answer:**
-A **crime against humanity** refers to certain acts that are deliberately committed as part of a **widespread or systematic attack** directed against any **civilian population**. The key feature is that these are not random, isolated acts of violence, but part of a larger state or organizational policy.
+**(d) What is meant by crimes against humanity? Give an example.**
 
-Unlike war crimes, a crime against humanity can be committed during times of both **peace and war**. The concept was first legally defined during the Nuremberg Trials after World War II.
+Crimes against humanity are certain acts that are deliberately committed as part of a **widespread or systematic attack directed against any civilian population**, with knowledge of the attack. As defined by the Rome Statute of the International Criminal Court, these crimes are particularly odious offenses because they constitute a serious attack on human dignity or a grave humiliation of human beings.
 
-According to the **Rome Statute of the International Criminal Court (ICC)**, acts that constitute crimes against humanity include:
-*   Murder
-*   Extermination
-*   Enslavement
-*   Deportation or forcible transfer of population
-*   Torture
-*   Rape, sexual slavery, and other forms of sexual violence
-*   Persecution against an identifiable group
-*   Apartheid
-*   Enforced disappearance
+Key characteristics are that they are not random or isolated acts and are targeted at civilians.
 
-**Example:**
-The **genocide in Rwanda in 1994**, where Hutu extremists systematically slaughtered an estimated 800,000 Tutsis and moderate Hutus, is a horrific and clear-cut example of multiple crimes against humanity, including extermination and persecution.
+**Examples of acts that can constitute crimes against humanity include:**
+*   Murder, extermination, enslavement, deportation or forcible transfer of population.
+*   Torture, rape, sexual slavery, and other forms of sexual violence.
+*   Persecution against any identifiable group on political, racial, national, ethnic, or religious grounds.
+*   The crime of apartheid.
+
+A historical example is the systematic persecution and murder of Jews and other minorities by the Nazi regime during the Holocaust.
 
 ---
-#### **(e) What is the difference between 'territory' and 'territorial integrity'?**
 
-**Answer:**
-While related, 'territory' and 'territorial integrity' are distinct concepts in international law and politics.
+**(e) What is the difference between 'territory' and 'territorial integrity'?**
 
-*   **Territory:** This is a geographical concept. It refers to the **physical, defined geographical area**—land, water, and airspace—that is under the jurisdiction and control of a sovereign state. A state's territory is one of its fundamental defining characteristics, along with a permanent population, a government, and the capacity to enter into relations with other states.
+While related, 'territory' and 'territorial integrity' refer to different concepts.
 
-*   **Territorial Integrity:** This is a legal and political principle. It is the principle under international law that **nation-states should not attempt to promote secessionist movements or to annex another state's territory**. It is the right of a sovereign state to have its borders and territory respected and to be free from external aggression or violation. This principle is enshrined in **Article 2(4) of the UN Charter**, which prohibits the "threat or use of force against the territorial integrity or political independence of any state."
+*   **Territory:** This is a **noun** that refers to one of the four essential elements of a state. It is the physical, geographical area (including land, water, and airspace) over which a state exercises its sovereignty. It is the tangible, physical space a state occupies.
 
-In short, **territory is the physical space** a state occupies, while **territorial integrity is the legal right** to have that space protected from violation by other states.
+*   **Territorial Integrity:** This is a **principle** of international law. Enshrined in Article 2(4) of the UN Charter, it is the right of a sovereign state to have its borders respected and to be free from aggression, invasion, or violation by other states. It is the legal norm that protects a state's territory from external threats.
 
----
-#### **(f) Briefly discuss the characteristics of a developing country.**
-
-**Answer:**
-A **developing country** is a sovereign state with a less developed industrial base and a lower Human Development Index (HDI) relative to other countries. The term is used to describe nations that are in the process of building a more advanced and stable economy.
-
-Key characteristics include:
-1.  **Low Gross National Income (GNI) per capita:** They generally have a low level of income per person compared to developed nations.
-2.  **Dependence on Agriculture:** The economy is often heavily reliant on agriculture and the export of primary commodities, with a less developed industrial and service sector.
-3.  **High Levels of Poverty and Inequality:** A significant portion of the population lives below the poverty line, and there are often large disparities in wealth and income.
-4.  **Low Human Development Indicators:** They typically have lower levels of life expectancy, literacy rates, and educational attainment compared to developed countries.
-5.  **High Population Growth and Unemployment:** Developing countries often have high birth rates and a large youth population, leading to challenges in creating sufficient employment opportunities.
-6.  **Political and Institutional Weakness:** They may suffer from political instability, weak governance, corruption, and underdeveloped state institutions.
-7.  **Vulnerability to External Shocks:** Their economies are often more vulnerable to external shocks, such as fluctuations in global commodity prices, financial crises, and the impacts of climate change.
+**In summary:** Territory is the *physical space* a state controls. Territorial integrity is the *legal principle* that protects that space from outside violation.
 
 ---
-#### **(g) What is the concept of 'Global Commons'?**
 
-**Answer:**
-The **Global Commons** refers to resource domains or areas that lie **outside the political jurisdiction of any single state** and to which all nations have legal access. These are areas that are shared by all of humanity. The management and protection of the Global Commons require international cooperation and governance.
+**(f) Briefly discuss the characteristics of a developing country.**
 
-The four universally recognized Global Commons are:
-1.  **The High Seas:** The parts of the ocean that are not included in the territorial sea or internal waters of a state. Their use is governed by the principle of freedom of the seas, codified in the **UN Convention on the Law of the Sea (UNCLOS)**.
-2.  **The Atmosphere:** The Earth's atmosphere, which no country owns but all depend on for survival. Its protection from pollution and greenhouse gas emissions is a global concern addressed by treaties like the Paris Agreement.
-3.  **Antarctica:** The continent is governed by the **Antarctic Treaty System (1959)**, which designates it as a natural reserve devoted to peace and science, prohibiting military activity and territorial claims.
-4.  **Outer Space:** The space beyond the Earth's atmosphere is considered the "province of all mankind." Its exploration and use are governed by the **Outer Space Treaty (1967)**, which forbids any nation from claiming sovereignty over celestial bodies.
+Developing countries are a diverse group of nations characterized by their ongoing efforts to achieve higher levels of economic and social progress. While they vary greatly, they generally share several common characteristics:
 
-Some analysts now also argue for the inclusion of **cyberspace** as a fifth Global Commons.
-
----
-#### **(h) What is meant by Most Favoured Nation (MFN) in international trade?**
-*(This question is a duplicate from another paper. The answer is provided again for completeness.)*
-
-**Answer:**
-**Most-Favored-Nation (MFN)** is a fundamental principle of international trade and a cornerstone of the **World Trade Organization (WTO)**. It requires a country to grant any trade advantage, favor, or immunity that it gives to one country to all other WTO member countries immediately and unconditionally.
-
-In simple terms, it is a principle of **non-discrimination between trading partners**. If a country lowers a tariff on a product for one trading partner, it must lower it for all other WTO members as well. Despite its name, MFN does not mean one country is the "most favored"; rather, it means it is treated equally with all other "most favored" nations.
+1.  **Low Per Capita Income:** They typically have a low Gross Domestic Product (GDP) per capita compared to developed nations.
+2.  **Dependence on Agriculture:** Their economies are often heavily reliant on agriculture and the export of primary commodities, making them vulnerable to price fluctuations.
+3.  **Low Levels of Industrialization:** They have a less developed industrial sector and lower levels of technological adoption.
+4.  **High Rates of Poverty and Inequality:** They often face significant challenges with widespread poverty and a high degree of income inequality.
+5.  **Poor Human Development Indicators:** They tend to have lower levels of education and literacy, higher rates of infant mortality, and lower life expectancy.
+6.  **High Population Growth:** Many developing countries experience rapid population growth, which can put a strain on resources and social services.
 
 ---
-#### **(i) What is the difference between an internal and external threat?**
 
-**Answer:**
-The difference between an internal and external threat lies in the origin of the threat to a state's security and stability.
+**(g) What is the concept of Global Commons?**
 
-*   **Internal Threat:** An **internal threat** originates from **within a state's own borders**. It involves challenges to the state's authority, stability, or integrity posed by its own citizens or domestic groups.
-    *   **Examples:**
-        *   **Insurgency or civil war:** Armed rebellion by a domestic group seeking to overthrow the government or secede.
-        *   **Political instability and civil unrest:** Widespread protests, riots, and political violence.
-        *   **Domestic terrorism.**
-        *   **Ethnic or sectarian conflict** within the population.
+The Global Commons refers to resource domains or areas that lie outside the political jurisdiction of any single state and are, in principle, shared by all of humanity. These resources are guided by the principle of common heritage of mankind.
 
-*   **External Threat:** An **external threat** originates from **outside a state's borders**, posed by another state or a foreign non-state actor. It is a challenge to a state's sovereignty, territorial integrity, or national security from an external source.
-    *   **Examples:**
-        *   **Military invasion or aggression** by another country.
-        *   **Cross-border terrorism** sponsored or supported by a foreign power.
-        *   **Economic sanctions** or a trade war initiated by another state.
-        *   **Espionage and cyberattacks** conducted by a foreign government.
+There are four universally recognized Global Commons:
+1.  **The High Seas:** Areas of the ocean beyond national jurisdiction.
+2.  **The Atmosphere:** The Earth's shared air and climate system.
+3.  **Antarctica:** The continent governed by the Antarctic Treaty System, which dedicates it to peace and science.
+4.  **Outer Space:** The expanse that exists beyond Earth and its atmosphere.
 
-In summary, the key distinction is the **source of the threat**: internal threats are domestic, while external threats are foreign.
+The primary challenge associated with the Global Commons is the "Tragedy of the Commons"—the difficulty of managing these shared resources to prevent their overuse and degradation in the absence of a central governing authority.
 
 ---
-#### **(j) What is meant by Non-State Actors in international politics? Give examples.**
 
-**Answer:**
-**Non-State Actors (NSAs)** are individuals or organizations that have significant political, economic, or social influence in international relations but are not affiliated with, directed by, or funded by any single government. They operate independently of state control and can act as powerful forces on the global stage.
+**(h) What is meant by Most Favoured Nation (MFN) in international trade?**
 
-The rise of non-state actors has challenged the traditional state-centric view of international politics, demonstrating that states are no longer the only significant actors.
+Most Favoured Nation (MFN) is a fundamental principle of non-discrimination in international trade and a cornerstone of the World Trade Organization (WTO) system. It requires a country to grant any trade advantage, privilege, or immunity it gives to one WTO member country to **all other WTO members** immediately and unconditionally.
 
-Examples of Non-State Actors include:
-1.  **Multinational Corporations (MNCs):** Large global companies like **Apple, Shell, or Google**, whose economic power and decisions can have a major impact on the economies and policies of many countries.
-2.  **International Non-Governmental Organizations (INGOs):** Non-profit, advocacy, or humanitarian organizations that operate globally. Examples include the **International Committee of the Red Cross (ICRC)**, **Amnesty International**, and **Doctors Without Borders (MSF)**.
-3.  **Terrorist and Insurgent Groups:** Armed groups like **ISIS** and **Al-Qaeda** that operate across borders and directly challenge state authority and international security.
-4.  **Global Media Outlets:** Influential media organizations like **CNN, BBC, and Al Jazeera**, which can shape global public opinion and influence foreign policy debates.
-5.  **Religious Organizations:** Transnational religious bodies like the **Catholic Church**.
+Contrary to what the name suggests, MFN does not mean giving one country special treatment. Instead, it ensures **equal treatment** for all trading partners. For example, if a country lowers its import tariff on a product from one country, it must apply the same lower tariff to that product from all other WTO members. This promotes fair competition and a more liberal global trading system.
 
 ---
-#### **(k) What is meant by peacekeeping under the United Nations?**
 
-**Answer:**
-**United Nations Peacekeeping** is a unique and dynamic instrument developed by the UN to help countries torn by conflict create the conditions for lasting peace. It is one of the key tools used by the Security Council to maintain international peace and security.
+**(i) What is the difference between internal and external threats?**
 
-UN Peacekeeping operations are deployed with the consent of the conflicting parties and are guided by three core principles:
-1.  **Consent of the Parties:** Peacekeepers are deployed only with the agreement of the main parties to the conflict.
-2.  **Impartiality:** Peacekeepers must be impartial in their dealings with the parties to the conflict, but not neutral in the face of violations of the mandate or international norms.
-3.  **Non-use of Force except in Self-defense and Defense of the Mandate:** Peacekeepers are lightly armed and use force only as a last resort, primarily for self-defense or to defend their mandate, especially the protection of civilians.
+The difference between internal and external threats lies in their origin.
 
-The roles of UN Peacekeepers (often called "Blue Helmets") have evolved from simply monitoring ceasefires to undertaking complex, multidimensional tasks, including:
-*   Protecting civilians.
-*   Disarming former combatants.
-*   Supporting elections.
-*   Promoting human rights and the rule of law.
+*   **Internal Threats:** These are threats to a state's security, stability, and sovereignty that originate *within* its own borders. They challenge the government's authority and the unity of the state itself.
+    *   **Examples:** Civil war, ethnic conflict, secessionist movements, widespread political unrest, and terrorism carried out by domestic groups.
+
+*   **External Threats:** These are threats that originate from *outside* a state's borders, posed by other states or international actors. They challenge a state's territorial integrity and political independence.
+    *   **Examples:** Military invasion by another country, cross-border terrorism, economic sanctions, cyber-attacks from foreign sources, and espionage.
 
 ---
-#### **(l) What is meant by power in international politics?**
 
-**Answer:**
-**Power** in international politics is the ability of an actor (usually a state) to influence the behavior of other actors to get the outcomes it wants. It is the central concept in the realist school of thought. Power is not an end in itself but a means to achieve national security and advance national interests.
+**(j) What is meant by Non-State Actors in international politics? Write with examples.**
 
-Power can be understood in several ways:
-1.  **Power as Capabilities (Hard Power):** This is the most traditional view, measuring power based on a state's tangible, material resources. These include:
-    *   **Military Power:** Size and technological sophistication of the armed forces.
-    *   **Economic Power:** GDP, industrial capacity, and control over resources.
-    *   **Tangible Assets:** Population size, geographical location, and natural resources.
+Non-State Actors (NSAs) are individuals or organizations that have significant political influence, operate across national borders, but are not affiliated with or part of any state government. They have grown increasingly important in shaping international politics.
 
-2.  **Power as Influence (Soft Power):** This refers to the ability to achieve goals through attraction and persuasion rather than coercion. It is derived from the attractiveness of a country's culture, political values (democracy, human rights), and foreign policies when they are seen as legitimate.
+They can be categorized into several types, with examples:
+*   **Non-Governmental Organizations (NGOs):** Non-profit, citizen-based groups that advocate for specific causes. **Examples:** The International Committee of the Red Cross (ICRC), Amnesty International, Doctors Without Borders.
+*   **Multinational Corporations (MNCs):** Large for-profit companies that operate in multiple countries and have significant economic power. **Examples:** Google, Shell, Toyota.
+*   **Violent Non-State Actors:** Armed groups that challenge state authority. **Examples:** Terrorist organizations like Al-Qaeda and ISIS, and rebel or insurgent groups.
+*   **International Governmental Organizations (IGOs):** While created by states, they function as independent actors. **Example:** The United Nations (UN).
 
-3.  **Smart Power:** This is the effective combination of hard and soft power resources into an integrated strategy. It involves knowing when to use military force, economic sanctions, diplomacy, or cultural appeal to achieve a desired outcome.
+---
 
-In essence, power is the currency of international politics, and the distribution of power among states is a key factor in determining the structure and stability of the international system.
+**(k) What is meant by peacekeeping under the United Nations?**
 
-Of course. Here are the detailed, data-rich answers for Questions 02 and 03 from the "International Affairs" paper (`./21.jpg`).
+UN Peacekeeping is a unique and dynamic instrument deployed by the United Nations to help countries torn by conflict create conditions for lasting peace. It involves the deployment of military, police, and civilian personnel from member states, who serve under the UN flag.
+
+UN peacekeeping operations are guided by three core principles:
+1.  **Consent of the parties:** Peacekeepers are deployed only with the consent of the main parties to the conflict.
+2.  **Impartiality:** Peacekeepers must remain impartial in their dealings with the parties to the conflict.
+3.  **Non-use of force except in self-defense and defense of the mandate:** Force is used only as a last resort.
+
+Their roles range from monitoring ceasefires and protecting civilians to assisting in disarmament and supporting democratic elections.
+
+---
+
+**(l) What is meant by power in international politics?**
+
+In international politics, power is the central concept. It is most simply defined as the ability of an actor (A) to influence the behavior of another actor (B) to get them to do something they would not otherwise have done. It is the currency through which states pursue their national interests.
+
+Power is multi-dimensional and can be categorized into:
+*   **Hard Power:** The ability to coerce or command, primarily through military and economic might. **Examples:** Military threats, economic sanctions, trade wars.
+*   **Soft Power:** The ability to attract and persuade rather than coerce. It arises from the attractiveness of a country's culture, political values (like democracy), and foreign policies.
+*   **Smart Power:** The effective and intelligent combination of both hard and soft power strategies to achieve foreign policy goals.
 
 ***
 
-### **Question 02: Answer any three of the following questions: (15x3=45)**
+### **2. Answer any three of the following questions (15x3=45)**
 
-#### **(a) Discuss the potential impact of the US troop withdrawal from Afghanistan on regional and international politics.**
-*(This question is a duplicate from another paper. The answer is provided again for completeness.)*
+**(a) (i) Identify the important issues in Bangladesh-Myanmar bilateral relations. (ii) Do you consider the Rohingya issue a 'national security crisis' or a 'humanitarian crisis'? Discuss the strategies and steps to address this crisis from your perspective.**
 
-**Answer:**
+**(i) Important Issues in Bangladesh-Myanmar Bilateral Relations (5 marks)**
 
-The withdrawal of US and NATO troops from Afghanistan in August 2021, culminating in the swift collapse of the Afghan government and the return of the Taliban to power, has had a profound and destabilizing impact on regional and international politics.
+The relationship between Bangladesh and Myanmar is complex and dominated by several critical and often contentious issues:
 
-**Impact on Regional Politics:**
-1.  **Empowerment of Regional Terrorist Groups:** The Taliban's victory has emboldened other extremist and terrorist groups in the region, such as **Tehrik-i-Taliban Pakistan (TTP)** and Al-Qaeda affiliates. Afghanistan has once again become a potential safe haven for these groups, posing a direct security threat to neighboring countries, especially **Pakistan**, **Iran**, and the Central Asian states.
-2.  **Humanitarian and Refugee Crisis:** The collapse of the Afghan economy and the Taliban's repressive policies have created a severe humanitarian crisis, leading to mass internal displacement and a new wave of refugees seeking shelter in neighboring countries, particularly Pakistan and Iran, placing immense strain on their resources.
-3.  **Shifting Regional Power Dynamics:** The withdrawal created a power vacuum. Regional powers like **Pakistan**, **Iran**, **China**, and **Russia** have increased their engagement with the Taliban government to protect their security interests and vie for influence.
-4.  **Increase in Illicit Drug Trade:** With the collapse of the formal economy, Afghanistan's role as the world's largest producer of opium and a major source of methamphetamine has intensified, fueling transnational crime and instability across the region.
+1.  **The Rohingya Refugee Crisis:** This is the single most dominant and overwhelming issue. The repeated influx of persecuted Rohingya Muslims from Myanmar's Rakhine State into Bangladesh, culminating in the massive exodus of over 750,000 in 2017, has placed an immense economic, social, and environmental burden on Bangladesh.
+2.  **Repatriation Stalemate:** Despite signing bilateral agreements, Myanmar has failed to create the necessary conditions for the safe, dignified, and sustainable repatriation of the Rohingya, leading to a prolonged stalemate.
+3.  **Border Security and Transnational Crime:** The shared border is porous and a hub for illicit activities, including the smuggling of narcotics (especially Yaba), human trafficking, and occasional skirmishes between border forces.
+4.  **Maritime Boundary and Resources:** While the maritime boundary in the Bay of Bengal was successfully demarcated through international arbitration in 2012, cooperation on the joint management of shared fish stocks and hydrocarbon resources remains an underdeveloped area.
+5.  **Trade and Connectivity:** There is significant untapped potential for enhancing bilateral trade and establishing better road and waterway connectivity, which is often hindered by political instability and a lack of trust.
 
-**Impact on International Politics:**
-1.  **Damage to US Credibility:** The chaotic nature of the withdrawal dealt a significant blow to the credibility of the United States as a global partner. Allies and adversaries alike questioned US resolve and reliability.
-2.  **End of the "Nation-Building" Era:** The failure in Afghanistan marked the symbolic end of the two-decade-long era of large-scale Western military interventions aimed at promoting democracy. It has led to a more cautious foreign policy approach in the West.
-3.  **Shift in US Strategic Focus:** The withdrawal allowed the United States to pivot its strategic focus and resources away from counter-terrorism towards what it perceives as the primary long-term challenge: **great power competition with China and Russia**.
-4.  **Human Rights Setback:** The return of the Taliban has resulted in a catastrophic rollback of human rights, particularly for women and girls, who have been systematically excluded from public life.
+**(ii) Rohingya Issue: National Security or Humanitarian Crisis? (10 marks)**
 
----
-#### **(b) Experts have opined that there is no possibility of Bangladesh falling into a debt trap by joining the 'Belt and Road Initiative'. Discuss with comments.**
-*(This question is a duplicate from another paper. The answer is provided again for completeness.)*
+The Rohingya issue is not one or the other; it is **both a profound humanitarian crisis and a growing national security crisis for Bangladesh**. The two dimensions are deeply intertwined.
 
-**Answer:**
+*   **As a Humanitarian Crisis:** The issue is fundamentally a humanitarian catastrophe. It involves a population that has faced systematic persecution, ethnic cleansing, and potential genocide, forcing them to flee for their lives. Their immediate needs for food, shelter, healthcare, and basic dignity are a matter of human conscience and international humanitarian law.
 
-The opinion that Bangladesh is unlikely to fall into a "debt trap" by joining China's Belt and Road Initiative (BRI) is a well-founded and credible assessment. I agree with this expert opinion based on Bangladesh's prudent debt management strategy and the diversified nature of its loan portfolio.
+*   **As a National Security Crisis for Bangladesh:** The prolonged presence of over a million refugees has metastasized into a multi-faceted national security threat:
+    1.  **Socio-Economic Strain:** The massive refugee population puts immense pressure on land, resources, and the local economy in Cox's Bazar, creating social tension and conflict with the host community.
+    2.  **Internal Security Risks:** The densely populated camps are becoming breeding grounds for crime, including drug trafficking, human smuggling, and violence between armed factions. There is a serious risk of radicalization and recruitment by extremist groups.
+    3.  **Environmental Degradation:** The clearing of vast forest areas for camps has led to severe environmental damage, increasing the risk of landslides and ecological imbalance.
+    4.  **Regional Instability:** The unresolved crisis is a source of potential instability for the entire region, with risks of cross-border conflict and destabilizing population movements.
 
-**Discussion and Comments:**
+**Strategies and Steps to Address the Crisis:**
 
-1.  **Diversified Debt Portfolio:** A key reason Bangladesh is not at high risk is that its foreign debt is not overwhelmingly concentrated with a single lender. Bangladesh's largest lenders are multilateral institutions like the **World Bank**, the **Asian Development Bank (ADB)**, and Japan (through **JICA**). These institutions provide loans on highly **concessional** (soft) terms. As of 2023, loans from China constituted a relatively small portion (around 6-8%) of Bangladesh's total external debt stock, which mitigates the risk of dependence on any single creditor.
+A comprehensive strategy must address both the humanitarian and security dimensions simultaneously.
 
-2.  **Prudent Government Policy and Project Selection:** Unlike countries that took on high-interest commercial loans for projects with questionable economic viability, Bangladesh has generally been more cautious. The government prioritizes **concessional financing** and conducts thorough feasibility studies to ensure that the projects it undertakes, such as the Padma Bridge Rail Link or the Karnaphuli Tunnel, will generate sufficient economic returns to service the debt.
+1.  **Intensify Global Diplomatic Pressure:** Bangladesh cannot solve this alone. The core strategy must be to **escalate diplomatic pressure on Myanmar**. This includes:
+    *   **Building a Stronger Coalition:** Moving beyond bilateral talks and actively building a stronger coalition of international partners (including ASEAN, the EU, the US, and key OIC countries) to apply unified pressure on the Myanmar regime.
+    *   **Utilizing International Justice Mechanisms:** Actively supporting and providing evidence for the ongoing cases at the International Court of Justice (ICJ) and the International Criminal Court (ICC). Accountability for the atrocities is a prerequisite for a just solution.
 
-3.  **Strong and Stable Macroeconomic Management:** Bangladesh has maintained a strong track record of macroeconomic stability, with consistent GDP growth and a healthy debt-to-GDP ratio. The country's debt-to-GDP ratio remains well below the international cautionary threshold of 55-60%, indicating that its overall debt level is sustainable.
+2.  **Engaging Key Regional Powers:** Special diplomatic focus must be placed on **China and India**, the two regional powers with the most leverage over Myanmar. Bangladesh must persistently work to convince them that a stable, resolved Rakhine State is in their own strategic and economic interest.
 
-4.  **Learning from Others' Mistakes:** Bangladeshi policymakers are acutely aware of the "debt-trap diplomacy" narrative and the cautionary tale of Sri Lanka. This has reinforced a conservative approach to borrowing, ensuring that projects are selected based on national priority and economic feasibility rather than geopolitical alignment alone.
+3.  **Enhanced Camp Management and Security:** While pursuing repatriation, Bangladesh must manage the internal security threat. This involves strengthening law enforcement presence in the camps, cracking down on criminal networks, and implementing programs (education, skills training) to prevent radicalization and give the refugee population a sense of purpose.
 
-**Conclusion:**
-While any large-scale borrowing carries risks, the structure of Bangladesh's external debt, its policy of prioritizing concessional loans, and its strong macroeconomic fundamentals provide a solid defense against a debt trap. The assertion by experts that Bangladesh is not on a path to a debt crisis due to its participation in the BRI is, therefore, a realistic and well-supported analysis.
+4.  **Condition-Based Repatriation:** Bangladesh must remain firm on its stance that repatriation must be **safe, dignified, voluntary, and sustainable**. This requires verifiable actions from Myanmar, including granting citizenship rights to the Rohingya, ensuring their security in Rakhine, and allowing international monitoring bodies access.
 
----
-#### **(d) What is economic diplomacy? Discuss the importance of economic diplomacy in the foreign policy of Bangladesh. What steps can Bangladesh take to strengthen its economic diplomacy?**
-
-**Answer:**
-
-**What is Economic Diplomacy?**
-**Economic diplomacy** is the use of a state's full economic toolkit to advance its foreign policy objectives and national interests. It involves using economic instruments such as trade, investment, development aid, and financial policy to achieve geopolitical goals. Conversely, it also involves using diplomatic tools (negotiations, treaties, and international relations) to achieve national economic goals. In the modern globalized world, it has become a central component of foreign policy for all nations.
-
-**Importance of Economic Diplomacy for Bangladesh:**
-For Bangladesh, a country whose development journey is heavily reliant on its integration with the global economy, economic diplomacy is not just important—it is **essential for national survival and prosperity**.
-1.  **Driving Export Growth:** The RMG sector, which accounts for over 80% of Bangladesh's exports, is heavily dependent on preferential market access to the EU and USA. Economic diplomacy is crucial for negotiating favorable trade terms (like GSP+), maintaining these relationships, and exploring new markets.
-2.  **Attracting Foreign Direct Investment (FDI):** To achieve the goals of Vision 2041, Bangladesh needs massive investment in infrastructure and industry. Economic diplomacy, through its embassies and investment promotion agencies (like BIDA), plays a key role in attracting FDI by showcasing the country's potential and improving its business climate.
-3.  **Securing Development Finance:** Bangladesh's mega-projects are often financed through loans and aid from development partners like the World Bank, ADB, JICA, and China. Skillful economic diplomacy is required to negotiate these loans on favorable terms.
-4.  **Protecting Migrant Workers:** The well-being of millions of Bangladeshi expatriates and the smooth flow of their remittances (a pillar of the economy) depend on strong diplomatic relations with host countries in the Middle East and elsewhere.
-
-**Steps to Strengthen Economic Diplomacy:**
-1.  **Capacity Building in Foreign Missions:** Train diplomats specifically in trade negotiation, investment promotion, and commercial law. Appoint specialized "commercial counselors" in key embassies.
-2.  **Proactive Market Research and Branding:** Foreign missions must proactively identify new export markets and opportunities for Bangladeshi products beyond RMG. They should also lead "Brand Bangladesh" campaigns to improve the country's image as an investment destination.
-3.  **Streamlining Inter-Ministerial Coordination:** Ensure seamless coordination between the Ministry of Foreign Affairs and other key economic ministries like Commerce, Finance, and the Prime Minister's Office to present a unified and effective front in international negotiations.
-4.  **Leveraging the Diaspora:** Actively engage the successful non-resident Bangladeshi (NRB) community as "goodwill ambassadors" to promote investment and technology transfer.
+In essence, the strategy must be a dual one: compassionately manage the humanitarian needs of the refugees within our borders while relentlessly pursuing a robust, multilateral diplomatic and legal campaign to compel Myanmar to create the conditions for their just and permanent return.
 
 ---
-### **Question 03**
 
-#### **Prepare a policy brief for the Government of Bangladesh on the Rohingya issue.**
-*(This question is a duplicate from another paper. The answer is provided again for completeness.)*
+**(c) Identify the relationship between migration and development. How do you evaluate this relationship in the contemporary world order? Explain in detail.**
 
-**Answer:**
+**The Relationship Between Migration and Development**
 
-### **Policy Brief for the Government of Bangladesh**
+Migration and development share a complex, dynamic, and mutually influential relationship. This relationship is not linear; migration can be both a cause and a consequence of development, and its effects can be positive, negative, or mixed for both the countries of origin and destination.
 
-**To:** The Honourable Foreign Minister, Government of the People's Republic of Bangladesh
-**From:** [Your Title/Department]
-**Date:** [Current Date]
-**Subject:** **A Proactive and Comprehensive Strategy for the Sustainable Resolution of the Rohingya Crisis**
+1.  **Migration as a Driver of Development (Positive Linkages):**
+    *   **Remittances:** This is the most significant positive link. Money sent home by migrant workers is a vital source of foreign exchange for many developing countries. These financial flows improve household incomes, fund education and healthcare, stimulate local economies, and are often more stable than foreign direct investment (FDI) or official development aid (ODA).
+    *   **Human Capital and "Brain Gain":** While "brain drain" is a risk, migration can also lead to "brain gain" or "brain circulation." Migrants acquire new skills, knowledge, and experience abroad, which they can transfer back to their home countries by returning, investing, or establishing transnational networks.
+    *   **Social Remittances:** Migrants also transmit new ideas, social norms, and democratic values back to their communities, which can contribute to social and political development.
 
-**1. Introduction and Core Objective:**
+2.  **Migration as a Consequence of a Lack of Development:**
+    *   **"Push" Factors:** A lack of development often drives migration. People migrate due to poverty, lack of economic opportunities, political instability, conflict, and poor governance. In this sense, migration is often a symptom of underdevelopment.
 
-For over five years, Bangladesh has borne an immense humanitarian burden by hosting over 1.1 million Rohingya refugees. Despite our government's good-faith efforts, the lack of political will from Myanmar has created a complete stalemate in the repatriation process. This protracted crisis now poses significant security, economic, and environmental threats to Bangladesh. The core objective of our policy must be to **shift the international focus from merely managing the crisis in Bangladesh to compelling concrete action to resolve its root causes in Myanmar.**
+3.  **Migration as a Hindrance to Development (Negative Linkages):**
+    *   **"Brain Drain":** The emigration of highly skilled professionals—doctors, engineers, scientists—can cripple essential public services and hamper the long-term development capacity of countries of origin.
+    *   **Social Costs:** The separation of families and the social disruption caused by large-scale emigration can have significant negative consequences for communities.
 
-**2. Strategic Policy Pillars:**
+**Evaluation in the Contemporary World Order**
 
-**Pillar I: Sustained and Multifaceted Diplomatic Pressure**
-*   **Bilateral Engagement:** While maintaining the bilateral channel with Myanmar's authorities, we must acknowledge its current limitations and use it primarily to maintain a formal line of communication.
-*   **Intensify Regional Diplomacy:** Actively lobby key **ASEAN** nations (especially Indonesia and Malaysia) and regional powers (**India and China**) to use their leverage on Myanmar to create conditions conducive to repatriation. Frame the crisis not as a Bangladesh-Myanmar issue, but as a threat to regional stability.
-*   **Mobilize the International Community:** Continue to spearhead resolutions at the **UN General Assembly** and the **UN Human Rights Council**. Our key demand should be a binding **UNSC resolution** that sets a clear timeline for repatriation and establishes internationally monitored "safe zones" in Rakhine State.
+In the contemporary world order, the migration-development nexus has become even more critical and complex.
 
-**Pillar II: Emphasis on Accountability and Justice**
-*   **Support International Justice Mechanisms:** Actively support the ongoing cases at the **International Court of Justice (ICJ)** (filed by The Gambia) and the investigation by the **International Criminal Court (ICC)**. Justice for the genocide is not just a moral imperative but a prerequisite for a sustainable solution, as it can deter future atrocities and create pressure on the junta.
-*   **Call for Targeted Sanctions:** Advocate for stronger, coordinated international sanctions against the Myanmar military junta and their economic interests to limit their ability to wage war against their own people.
+*   **Globalization's Role:** Globalization has intensified this relationship. While it has facilitated the easier movement of capital and goods, the movement of labor, especially low-skilled labor, remains highly restricted. This creates a fundamental tension in the global system.
+*   **The "Development" Mantra in Migration Policy:** Developed countries increasingly frame their migration policies through a "development" lens, but this is often self-serving. They promote policies that encourage the circulation of high-skilled migrants they need ("brain gain" for them) while heavily restricting low-skilled migration. Foreign aid is often tied to a country's cooperation in controlling "irregular" migration, turning development assistance into a tool for migration management.
+*   **Growing Anti-Immigrant Sentiment:** In many developed nations, a rise in nationalism and populism has led to growing anti-immigrant sentiment. This has resulted in more restrictive immigration policies, increased securitization of borders, and a political climate that often ignores the immense positive contributions of migrants to the development of both their host and home countries.
+*   **Forced Migration:** The contemporary world is witnessing unprecedented levels of forced migration due to conflict and climate change. For these populations, migration is not a choice for development but a desperate act of survival, posing immense challenges to the global development and humanitarian systems.
 
-**Pillar III: Management of the Camps and Mitigation of Risks**
-*   **Enhanced Security:** Increase security within the camps to dismantle the criminal networks involved in drug trafficking, human trafficking, and other illicit activities that threaten both the Rohingya and the host community.
-*   **Education and Skills Development:** Implement a comprehensive education program using the Myanmar curriculum and provide vocational skills training. This prepares the Rohingya for reintegration, prevents a "lost generation," and reduces the risk of radicalization.
+In conclusion, the relationship between migration and development is undeniable. However, in the current global order, the potential for migration to be a powerful engine for development is being undermined by restrictive, often hypocritical policies in the developed world and the growing scale of forced displacement. A truly fair and effective global migration governance system would be one that recognizes migration as a fundamental aspect of the human story and works to maximize its development benefits for all, not just a select few.
 
-**3. Conclusion and Recommendation:**
+---
 
-Bangladesh has fulfilled its humanitarian duty. The international community must now fulfill its responsibility. Our policy should be clear: the only durable solution is the **safe, voluntary, dignified, and sustainable repatriation** of the Rohingya to their homeland in Myanmar. This requires a fundamental shift in the international approach—from containment of the crisis in Bangladesh to a resolution of the conflict in Myanmar. Our diplomacy must be relentless in pursuit of this goal.
+### **3. As a result of the settlement of the maritime boundary dispute with Myanmar and India, a vast area in the Bay of Bengal has come under the sovereignty of Bangladesh. Prepare a Policy Brief for the Government of Bangladesh to ensure peace and security in this area.**
+
+**Policy Brief for the Government of Bangladesh**
+
+**TO:** National Security Council, Government of the People’s Republic of Bangladesh
+**FROM:** Ministry of Foreign Affairs
+**DATE:** October 26, 2023
+**SUBJECT: A Comprehensive Strategy for Peace, Security, and Prosperity in the Bay of Bengal**
+
+**1. Executive Summary:**
+Following the landmark resolutions of maritime boundary disputes with Myanmar (2012) and India (2014), Bangladesh has gained sovereign rights over a vast sea area of 118,813 square kilometers in the Bay of Bengal. This maritime domain is a frontier of immense economic opportunity and a zone of increasing strategic importance. To secure our national interests, Bangladesh must adopt a proactive, integrated, and multi-dimensional **"Blue Economy"** security strategy. This brief outlines the key policy actions required to ensure peace and security in our maritime territory, transforming it into a hub of sustainable prosperity.
+
+**2. Key Challenges and Threats:**
+Our maritime domain faces a complex set of traditional and non-traditional security threats:
+*   **Non-Traditional Threats:** Illegal, Unreported, and Unregulated (IUU) fishing by foreign trawlers, piracy and armed robbery at sea, smuggling of narcotics and arms, human trafficking, and marine pollution.
+*   **Traditional Threats:** The Bay of Bengal is an area of growing geopolitical competition between major powers. While our relations with India and Myanmar are stable, any regional instability could threaten our maritime security.
+*   **Capacity Gaps:** Our maritime law enforcement agencies currently lack the full spectrum of capabilities for effective 24/7 surveillance and interdiction across our entire Exclusive Economic Zone (EEZ).
+
+**3. Policy Recommendations: The Three-Pillar Strategy**
+
+To ensure peace and security, the government should adopt a three-pillar strategy focusing on **(I) Capability Enhancement, (II) Inter-Agency Coordination, and (III) Diplomatic Engagement.**
+
+**Pillar I: Enhance Maritime Domain Awareness and Enforcement Capability**
+The foundational step is to see and control our waters.
+*   **Invest in a National Maritime Surveillance System:** Procure and integrate long-range patrol aircraft, coastal radar systems, and satellite monitoring technology to create a comprehensive, real-time picture of our EEZ.
+*   **Modernize the Bangladesh Navy and Coast Guard:** Expedite the procurement of modern offshore patrol vessels (OPVs), fast-attack craft, and helicopters. Focus on developing capabilities for sustained, long-duration patrols in deep-sea areas.
+*   **Establish a National Maritime Research Center:** Invest in marine science and oceanography to understand and sustainably manage our marine resources, which is a key component of long-term security.
+
+**Pillar II: Strengthen National Inter-Agency Coordination**
+Security at sea requires a unified national effort, not a fragmented one.
+*   **Establish a National Maritime Security Council (NMSC):** Create a high-level coordination body, chaired by the Prime Minister’s Office, bringing together the Navy, Coast Guard, Ministry of Foreign Affairs, Ministry of Home Affairs, Ministry of Shipping, Department of Fisheries, and Department of Environment.
+*   **Develop a Joint Maritime Operations Center (JMOC):** This center would serve as the nerve center for fusing intelligence, coordinating patrols, and directing joint operations among all maritime law enforcement agencies.
+*   **Harmonize Legal Frameworks:** Review and update national maritime laws to ensure they provide a robust legal basis for combating modern maritime crimes like IUU fishing and marine pollution.
+
+**Pillar III: Proactive Maritime Diplomacy**
+Our security at sea is intrinsically linked to the stability of the region.
+*   **Deepen Cooperation with India and Myanmar:** Build on our positive relationships to establish joint patrols, real-time information sharing mechanisms, and coordinated operations to combat transnational maritime crime.
+*   **Lead in Regional Forums:** Actively use platforms like BIMSTEC and the Indian Ocean Rim Association (IORA) to promote a rules-based maritime order, freedom of navigation, and a regional code of conduct for the Bay of Bengal.
+*   **Engage with Extra-Regional Powers:** Pursue "security partnerships" with key international actors (e.g., Japan, USA, EU) to gain access to technology, training, and capacity-building support for our maritime security forces.
+
+**4. Conclusion:**
+Securing our maritime domain in the Bay of Bengal is not just a defense issue; it is a national economic and strategic imperative. By investing in our capabilities, unifying our national efforts, and pursuing proactive diplomacy, Bangladesh can protect its sovereign rights, unlock the immense potential of its Blue Economy, and establish itself as a responsible and influential maritime nation ensuring peace and stability in the region.

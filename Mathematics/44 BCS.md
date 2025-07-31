@@ -29,6 +29,89 @@ $= (400 + 315) / 72 = 715 / 72$
 
 **Answer:** $715/72$ or $9 \frac{67}{72}$.
 
+Of course. Here are the step-by-step solutions for question 1, parts (a) and (b).
+
+***
+
+**1. (a) Simplify: (0.3̇ of 0.83̇) ÷ (0.5 × 0.1) + 0.3̇5̇ ÷ 0.08̇**
+
+*(Note: The dots indicate recurring decimals. 0.3̇ = 0.333..., 0.83̇ = 0.8333..., 0.3̇5̇ = 0.3535..., 0.08̇ = 0.0888...)*
+
+**Solution:**
+
+First, we convert all decimals to fractions to ensure accuracy.
+*   `0.3̇ = 3/9 = 1/3`
+*   `0.83̇ = (83 - 8) / 90 = 75 / 90 = 5/6`
+*   `0.5 = 1/2`
+*   `0.1 = 1/10`
+*   `0.3̇5̇ = 35 / 99`
+*   `0.08̇ = 8 / 90 = 4/45`
+
+Now, substitute these fractions into the original expression:
+$$ \left( \frac{1}{3} \times \frac{5}{6} \right) \div \left( \frac{1}{2} \times \frac{1}{10} \right) + \left( \frac{35}{99} \div \frac{4}{45} \right) $$
+
+Following the order of operations (BODMAS/PEMDAS), we solve the brackets first:
+$$ \left( \frac{5}{18} \right) \div \left( \frac{1}{20} \right) + \left( \frac{35}{99} \times \frac{45}{4} \right) $$
+
+Next, perform the divisions and multiplications:
+For the first part:
+$$ \frac{5}{18} \div \frac{1}{20} = \frac{5}{18} \times 20 = \frac{100}{18} = \frac{50}{9} $$
+For the second part:
+$$ \frac{35}{99} \times \frac{45}{4} = \frac{35}{9 \times 11} \times \frac{9 \times 5}{4} = \frac{35 \times 5}{11 \times 4} = \frac{175}{44} $$
+
+Now, add the two results:
+$$ \frac{50}{9} + \frac{175}{44} $$
+
+Find a common denominator, which is LCM(9, 44) = 396.
+$$ \frac{50 \times 44}{9 \times 44} + \frac{175 \times 9}{44 \times 9} $$
+$$ \frac{2200}{396} + \frac{1575}{396} $$
+$$ \frac{2200 + 1575}{396} = \frac{3775}{396} $$
+
+To express this as a mixed fraction:
+`3775 ÷ 396 = 9` with a remainder of `211` (`3775 - 9 × 396 = 3775 - 3564 = 211`).
+So, the answer is `9 \frac{211}{396}`.
+
+**Answer:** $$ \frac{3775}{396} \quad \text{or} \quad 9 \frac{211}{396} $$
+
+---
+
+**1. (b) If mˣ = nʸ = pᶻ = rʷ, then show that logₙ(mpr) = y(1/x + 1/z + 1/w)**
+
+**Solution:**
+
+Let the common value be `k`.
+$$ m^x = n^y = p^z = r^w = k $$
+
+From this equality, we can express m, n, p, and r in terms of k:
+*   `m^x = k \implies m = k^{1/x}`
+*   `n^y = k \implies n = k^{1/y}`
+*   `p^z = k \implies p = k^{1/z}`
+*   `r^w = k \implies r = k^{1/w}`
+
+Now, let's work with the Left Hand Side (LHS) of the equation we need to prove:
+`LHS = logₙ(mpr)`
+
+Substitute the expressions for m, p, and r into the LHS:
+$$ \text{LHS} = \log_n \left( k^{1/x} \cdot k^{1/z} \cdot k^{1/w} \right) $$
+
+Using the exponent rule `a^b \cdot a^c = a^{b+c}`, we can simplify the argument of the logarithm:
+$$ \text{LHS} = \log_n \left( k^{1/x + 1/z + 1/w} \right) $$
+
+Now, use the logarithm power rule `logₐ(bᶜ) = c \cdot logₐ(b)`:
+$$ \text{LHS} = \left( \frac{1}{x} + \frac{1}{z} + \frac{1}{w} \right) \log_n(k) $$
+
+We need to find the value of `logₙ(k)`.
+From our initial setup, we know that `n^y = k`.
+By the definition of a logarithm, `logₙ(k) = y`.
+
+Substitute this value back into our expression for the LHS:
+$$ \text{LHS} = \left( \frac{1}{x} + \frac{1}{z} + \frac{1}{w} \right) \cdot y $$
+$$ \text{LHS} = y \left( \frac{1}{x} + \frac{1}{z} + \frac{1}{w} \right) $$
+
+This is equal to the Right Hand Side (RHS) of the given equation.
+`LHS = RHS`
+
+**Hence, proved.**
 ---
 ### **Question 2(a)**
 

@@ -329,10 +329,129 @@ $$w = 120 - c = 120 - 76 = 44$$
 
 **Answer:** The candidate answered **$76$ questions correctly** and **$44$ questions incorrectly**.
 
+Of course. Here is the solution for question 7b.
 
+***
+
+**7. (b) In the expansion of (2x² - 1/x²)⁸, find the coefficient of the 4th term.**
+
+**Solution:**
+
+We will use the Binomial Theorem to find the general term in the expansion of `(a + b)ⁿ`, which is given by:
+$$ T_{r+1} = \binom{n}{r} a^{n-r} b^r $$
+
+For the given expression `(2x² - 1/x²)⁸`:
+*   `a = 2x²`
+*   `b = -1/x²`
+*   `n = 8`
+
+We need to find the 4th term, so `T₄`.
+In the formula, the term number is `r+1`.
+So, `r + 1 = 4`, which means `r = 3`.
+
+Now, we substitute these values into the general term formula:
+$$ T_4 = T_{3+1} = \binom{8}{3} (2x^2)^{8-3} \left(-\frac{1}{x^2}\right)^3 $$
+
+Let's calculate each part of the expression:
+
+1.  **The binomial coefficient `\binom{8}{3}`:**
+    $$ \binom{8}{3} = \frac{8!}{3!(8-3)!} = \frac{8!}{3!5!} = \frac{8 \times 7 \times 6 \times 5!}{ (3 \times 2 \times 1) \times 5!} = 8 \times 7 = 56 $$
+
+2.  **The first part `(2x²)⁵`:**
+    $$ (2x^2)^5 = 2^5 \times (x^2)^5 = 32x^{10} $$
+
+3.  **The second part `(-1/x²)³`:**
+    $$ \left(-\frac{1}{x^2}\right)^3 = (-1)^3 \times \left(\frac{1}{x^2}\right)^3 = -1 \times \frac{1}{x^6} = -\frac{1}{x^6} $$
+
+Now, combine all the parts to find the 4th term:
+$$ T_4 = 56 \times (32x^{10}) \times \left(-\frac{1}{x^6}\right) $$
+$$ T_4 = (56 \times 32 \times -1) \times \left(\frac{x^{10}}{x^6}\right) $$
+$$ T_4 = -1792 \times x^{10-6} $$
+$$ T_4 = -1792x^4 $$
+
+The question asks for the **coefficient** of the 4th term. The coefficient is the numerical part of the term.
+
+**Answer: The coefficient of the 4th term is -1792.**
+
+Of course. Here is the solution for question 8(a).
+
+***
+
+**8. (a) A bus was hired for Tk 2400 on the condition that each passenger would pay an equal fare. But as 10 passengers were absent, the per-head fare increased by Tk 4. Find the fare of each passenger.**
+
+**Analysis of the Problem:**
+Let's first attempt to solve the problem with the exact numbers given.
+Let the original number of passengers be `x`.
+Let the original fare per passenger be `y`.
+
+From the problem statement, we can form two equations:
+1.  Original plan: `x * y = 2400`
+2.  Actual situation: `(x - 10) * (y + 4) = 2400`
+
+From equation (1), we can write `y = 2400 / x`.
+
+Now, substitute this expression for `y` into equation (2):
+$$ (x - 10) \left( \frac{2400}{x} + 4 \right) = 2400 $$
+
+Expand the left side:
+$$ x \left( \frac{2400}{x} \right) + 4x - 10 \left( \frac{2400}{x} \right) - 40 = 2400 $$
+$$ 2400 + 4x - \frac{24000}{x} - 40 = 2400 $$
+
+Subtract 2400 from both sides:
+$$ 4x - \frac{24000}{x} - 40 = 0 $$
+
+To eliminate the fraction, multiply the entire equation by `x`:
+$$ 4x^2 - 24000 - 40x = 0 $$
+
+Rearrange into standard quadratic form `ax² + bx + c = 0` and simplify by dividing by 4:
+$$ x^2 - 10x - 6000 = 0 $$
+
+This quadratic equation does not have integer roots, which means there is no whole number solution for `x` (the number of passengers). This indicates a likely typo in the problem statement, as is common in such exam questions. A very common typo is '8' being written as '4'. Let's solve the problem assuming the fare increased by **Tk 8**.
+
+---
+**Solution with Corrected Value (Assuming Fare Increase is Tk 8):**
+
+Let the original number of passengers be `x`.
+Let the original fare per passenger be `y`.
+
+The two equations now become:
+1.  `x * y = 2400`
+2.  `(x - 10) * (y + 8) = 2400`
+
+From equation (1), `y = 2400 / x`.
+Substitute this into the new equation (2):
+$$ (x - 10) \left( \frac{2400}{x} + 8 \right) = 2400 $$
+
+Expand the left side:
+$$ x \left( \frac{2400}{x} \right) + 8x - 10 \left( \frac{2400}{x} \right) - 80 = 2400 $$
+$$ 2400 + 8x - \frac{24000}{x} - 80 = 2400 $$
+
+Subtract 2400 from both sides:
+$$ 8x - \frac{24000}{x} - 80 = 0 $$
+
+Multiply by `x` and simplify by dividing by 8:
+$$ x^2 - 10x - 3000 = 0 $$
+
+Now, we can factor this quadratic equation. We need two numbers that multiply to -3000 and add to -10. These numbers are -60 and 50.
+$$ (x - 60)(x + 50) = 0 $$
+
+This gives two possible solutions for `x`: `x = 60` or `x = -50`.
+Since the number of passengers cannot be negative, we take `x = 60`.
+
+So, the original number of passengers was 60.
+The original intended fare was `y = 2400 / 60 = 40` Tk.
+
+The question asks for the fare of each passenger who actually traveled.
+Actual number of passengers = `x - 10 = 60 - 10 = 50`.
+Actual fare per passenger = `y + 8 = 40 + 8 = 48` Tk.
+
+**Verification:**
+`50 passengers * 48 Tk/passenger = 2400 Tk`. This matches the total cost.
+
+**Answer: The fare of each passenger was Tk 48.**
 ### **Question 8(b)**
 
-**Original:** An item was sold at an $8\%$ loss. If it had been sold for $400$ Taka more, there would have been an $8\%$ profit. What is the cost price of the item?
+**Original:** An item was sold at an $8\%$ loss. If it had been sold for $800$ Taka more, there would have been an $8\%$ profit. What is the cost price of the item?
 
 #### **Solution:**
 Let the cost price (CP) of the item be $x$ Taka.
@@ -341,12 +460,12 @@ Selling price at an $8\%$ loss = $\text{CP} - 8\% \text{ of CP} = x - 0.08x = 0.
 Selling price at an $8\%$ profit = $\text{CP} + 8\% \text{ of CP} = x + 0.08x = 1.08x$
 
 The difference between these two selling prices is given as $400$ Taka.
-$$1.08x - 0.92x = 400$$
-$$0.16x = 400$$
-$$x = \frac{400}{0.16}$$
-$$x = 2500$$
+$$1.08x - 0.92x = 800$$
+$$0.16x = 800$$
+$$x = \frac{800}{0.16}$$
+$$x = 5000$$
 
-**Answer:** The cost price of the item is **$2500$ Taka**.
+**Answer:** The cost price of the item is **$5000$ Taka**.
 
 ---
 
