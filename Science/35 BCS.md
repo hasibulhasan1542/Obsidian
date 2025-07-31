@@ -1,205 +1,517 @@
+Of course. Here are the detailed answers for Part A of the exam paper.
 
+***
 
-**1. Fermentation and Biotechnology**
+### **Part A: General Science**
+**Total Marks: 60**
+**(Answer any eight questions)**
 
+---
 
-_(a) Write the names of three dairy products produced through biotechnology. (1.5 Marks)_
+### **Question 1**
 
-- Yogurt
-- Cheese
-- Butter
+**Scenario:** *To make yogurt, Minhaz mixed a small amount of old yogurt as a starter culture into boiled milk in the evening. After some time, when the milk cooled down, he incubated it overnight at a temperature of 37-40°C. The next morning, Minhaz noticed that the milk had not curdled and the desired yogurt was not formed.*
 
-_(b) What is the starter culture mentioned in the stimulus? What does it contain? (2 Marks)_
+**(a) Write the names of three dairy products produced through biotechnology. (1.5 marks)**
 
-- **Starter Culture:** The starter culture mentioned is the small amount of old yogurt added to the milk. It serves as an inoculum to initiate the fermentation process.
-- **Contents:** It contains live lactic acid bacteria (LAB), primarily species like _Lactobacillus bulgaricus_ and _Streptococcus thermophilus_. These bacteria are responsible for fermenting milk sugar (lactose) into lactic acid.
+**Answer:**
+Three dairy products produced through biotechnology are:
+1.  Yogurt
+2.  Cheese
+3.  Kefir
 
-_(c) What is the reason for Minhaz's failure in making yogurt? (1 Mark)_
+---
 
-- Minhaz added the starter culture to the milk while it was still boiling or very hot. The high temperature likely killed the live bacteria in the starter culture, preventing fermentation and coagulation of the milk.
+**(b) What is the starter culture mentioned in the scenario? What does it contain? (2 marks)**
 
-_(d) Explain the process of milk turning into yogurt. (3 Marks)_
+**Answer:**
+The starter culture mentioned in the scenario is a small amount of existing yogurt (basi doi). It contains millions of live, beneficial bacteria, specifically **lactic acid bacteria** (such as *Lactobacillus* and *Streptococcus* species). These bacteria are essential for fermenting the milk to produce new yogurt.
 
-- The process of converting milk to yogurt is fermentation driven by Lactic Acid Bacteria (LAB).
-    1. **Inoculation:** A starter culture containing live LAB (like _Lactobacillus bulgaricus_ and _Streptococcus thermophilus_) is added to pasteurized and cooled milk (ideally around 40-45°C, not boiling hot as Minhaz did).
-    2. **Fermentation:** The bacteria ferment the lactose (milk sugar) present in the milk into lactic acid.
-    3. **Coagulation:** As lactic acid concentration increases, the pH of the milk decreases (becomes acidic). This acidity causes the milk protein (casein) to denature and coagulate, thickening the milk into the semi-solid gel characteristic of yogurt.
-    4. **Flavor Development:** The fermentation process also produces various compounds that contribute to the characteristic flavor and aroma of yogurt.
-    5. **Incubation:** Maintaining the optimal temperature (around 37-45°C) is crucial for bacterial growth and activity during the incubation period.
+---
 
-**2. Agriculture, Environment, and Food Chains**
+**(c) What is the reason for Minhaz's failure to make yogurt? (1 mark)**
 
-_(Scenario: With the expansion of modern agricultural practices, the presence of frogs and birds in Bangladesh's agricultural land is no longer observed as before. Destruction of habitat and unfavorable breeding environments are the reasons.)_
+**Answer:**
+Minhaz failed because he added the starter culture to the milk while it was still **boiling hot**. The extremely high temperature of the boiling milk killed the live bacteria in the starter culture. Without live bacteria, the fermentation process could not begin, and therefore the milk did not curdle to form yogurt.
 
-_(a) Why is the presence of frogs and birds not observed in crop fields as before? Mention specific reasons for each case. (2 Marks)_
+---
 
-- **Frogs:**
-    - **Pesticide Use:** Widespread use of pesticides in modern agriculture kills frogs directly or eliminates their insect food sources. Frogs are also very sensitive to chemical pollutants absorbed through their skin.
-    - **Habitat Loss:** Drainage of wetlands, ponds, and ditches near farmlands destroys frog habitats and breeding sites.
-- **Birds:**
-    - **Pesticide Use:** Insecticides kill the insects that birds feed on, reducing their food supply. Birds can also be directly poisoned by consuming contaminated seeds or insects.
-    - **Habitat Loss:** Removal of trees, hedges, and diverse vegetation around fields reduces nesting sites and shelter for birds.
-    - **Monoculture:** Large fields planted with a single crop offer less diverse food sources and habitats compared to traditional mixed farming.
+**(d) Explain the process of milk turning into yogurt. (3 marks)**
 
-_(b) Explain how frogs and birds help in environment-friendly agricultural management. (1.5 Marks)_
+**Answer:**
+The process of milk turning into yogurt is a biochemical process called **lactic acid fermentation**.
+1.  A starter culture containing live lactic acid bacteria is added to warm milk (ideally around 40-45°C).
+2.  The bacteria use the sugar present in the milk, called **lactose**, as their food source for energy.
+3.  Through fermentation, the bacteria convert the lactose into **lactic acid**.
+4.  As lactic acid is produced, the acidity (pH) of the milk decreases.
+5.  This increased acidity causes the main protein in milk, **casein**, to denature and coagulate (clump together).
+6.  This coagulation process thickens the milk, giving yogurt its characteristic semi-solid texture. The lactic acid also contributes to its tangy flavor.
 
-- Frogs and birds are natural pest controllers.
-    - **Frogs:** Feed on large quantities of insects, slugs, and other invertebrates that damage crops.
-    - **Birds:** Many bird species consume insects, rodents, and weed seeds, helping to keep pest populations in check naturally.
-- Their presence reduces the need for chemical pesticides, contributing to a healthier ecosystem, protecting beneficial insects (like pollinators), and preventing soil and water contamination, thus promoting environment-friendly agriculture.
+---
 
-_(c) "Harmful chemical substances like DDT are now part of the food chain" - Analyze this statement with specific information. (3 Marks)_
+### **Question 2**
 
-- This statement is accurate due to the processes of **bioaccumulation** and **biomagnification**.
-    - **Persistence:** DDT is a persistent organic pollutant (POP), meaning it breaks down very slowly in the environment.
-    - **Bioaccumulation:** When DDT enters an ecosystem (e.g., through agricultural runoff), it is absorbed by organisms (like plankton or insects). Since it's not easily excreted, it accumulates in their fatty tissues over time.
-    - **Biomagnification:** Organisms higher up the food chain consume contaminated prey. At each trophic level, the concentration of DDT becomes magnified. For example, insects absorb DDT from plants/soil -> frogs/small fish eat many insects -> larger fish/birds eat many small fish/frogs.
-    - **Impact:** As a result, top predators (like birds of prey, larger fish, and even humans consuming contaminated fish or produce) accumulate dangerously high levels of DDT, even if the initial environmental concentration was low. This can cause reproductive failure (e.g., thinning eggshells in birds), developmental issues, and other health problems, demonstrating how persistent chemicals become integral parts of the food chain with amplified effects at higher levels.
+**Scenario:** *With the expansion of modern agricultural methods, the presence of frogs and birds is no longer observed in the agricultural lands of Bangladesh as before. Destruction of habitat and an adverse reproductive environment are the reasons for this.*
 
-**4. Health, Diet, and Longevity**
+**(a) Why is the presence of frogs and birds not observed in agricultural lands as before? Mention the specific reason in each case. (2 marks)**
 
-_(Scenario: Centenarian Karim Saheb has no friends left for his regular morning walk. He eats sparingly, avoiding oily/fatty foods his whole life. Fresh fruits, salads, and vegetables were part of his daily diet. He played sports and exercised regularly in his youth. He was an honest government official, always thought of people's welfare, and was pious.)_
+**Answer:**
+The presence of frogs and birds has decreased for the following specific reasons:
+*   **Frogs:** The widespread use of **chemical pesticides and herbicides** in modern agriculture is highly toxic to frogs. They absorb these chemicals through their permeable skin, which leads to their death or reproductive failure. Additionally, the draining of wetlands and ponds for farming destroys their habitats.
+*   **Birds:** The indiscriminate use of **pesticides** kills the insects that birds feed on, reducing their food source. Some pesticides can also directly poison the birds. Furthermore, deforestation and the clearing of land for agriculture destroy their nesting sites.
 
-_(a) What are Vitamins, Anti-oxidants, and Free radicals? (1.5 Marks)_
+---
 
-- **Vitamins:** Organic compounds essential in small quantities for normal metabolism, growth, and bodily function. They must generally be obtained from the diet as the body cannot synthesize them sufficiently.
-- **Anti-oxidants:** Molecules that inhibit oxidation. They protect cells from damage caused by unstable molecules known as free radicals by neutralizing them. Examples include Vitamin C, Vitamin E, beta-carotene, and selenium.
-- **Free Radicals:** Highly reactive and unstable molecules with unpaired electrons. They are produced during normal metabolic processes or by exposure to environmental factors (pollution, radiation). They can damage cells, proteins, and DNA by "stealing" electrons from other molecules.
+**(b) Explain how frogs and birds help in an environmentally friendly agricultural system. (1.5 marks)**
 
-_(b) Explain the effects of free radicals on the human body. (1.5 Marks)_
+**Answer:**
+Frogs and birds act as natural pest controllers in an environmentally friendly agricultural system:
+*   **Frogs:** They are voracious predators of insects and slugs that damage crops. By consuming these pests, they naturally control pest populations without the need for harmful chemical pesticides.
+*   **Birds:** Many species of birds also feed on insects, worms, and other pests that are harmful to crops. Their presence helps maintain a natural balance in the ecosystem and reduces crop damage, promoting a healthier and more sustainable farming environment.
 
-- Free radicals can cause **oxidative stress** when their production overwhelms the body's antioxidant defenses. This oxidative stress is implicated in:
-    - Cellular damage (damaging cell membranes, proteins, DNA).
-    - Aging process.
-    - Development or exacerbation of various diseases, including cancer, cardiovascular disease, neurodegenerative disorders (like Alzheimer's), and inflammatory conditions.
+---
 
-_(c) What is the role of vitamins and anti-oxidants in maintaining health? (1.5 Marks)_
+**(c) "Harmful chemical substances like DDT are now part of the food chain" - Analyze this comment with specific information. (4 marks)**
 
-- **Vitamins:** Perform numerous vital roles, acting as coenzymes in metabolic reactions, supporting immune function, aiding vision, promoting bone health, enabling blood clotting, and acting as antioxidants. Each vitamin has specific functions essential for overall health.
-- **Anti-oxidants:** Protect the body by neutralizing harmful free radicals. This protection helps prevent or reduce cellular damage linked to aging and various chronic diseases, supporting overall health and potentially contributing to longevity. Karim Saheb's diet rich in fruits and vegetables likely provided ample antioxidants.
+**Answer:**
+This statement is accurate and describes the phenomenon of **biomagnification**.
+1.  **Persistence:** Harmful chemicals like DDT are **persistent organic pollutants (POPs)**. They do not break down easily and remain in the environment for a very long time.
+2.  **Entry into the Food Chain:** When DDT is sprayed on crops, it gets into the soil and water. From there, it is absorbed by small organisms like plankton and insects.
+3.  **Bioaccumulation:** These small organisms are eaten by larger ones (e.g., small fish). DDT is fat-soluble, so it accumulates in the fatty tissues of these animals rather than being excreted.
+4.  **Biomagnification:** As we move up the food chain, each predator consumes many prey, and the concentration of DDT becomes increasingly magnified at each trophic level. A small fish eats many plankton, a larger fish eats many small fish, and a bird of prey eats many large fish.
+5.  **Impact on Top Predators and Humans:** Consequently, the highest concentrations of DDT are found in top predators, including humans. This can lead to severe health problems, including cancer, reproductive disorders, and neurological damage, demonstrating how these chemicals have become an integral and dangerous part of our food chain.
 
-_(d) Scientifically analyze how Karim Saheb's lifestyle, as described in the stimulus, helped him achieve longevity. (3 Marks)_
+---
 
-- Karim Saheb's longevity can be scientifically attributed to several lifestyle factors described:
-    1. **Healthy Diet:** His diet emphasized fresh fruits, salads, and vegetables, while avoiding oily/fatty foods. This provided essential vitamins, minerals, fiber, and antioxidants, while limiting unhealthy fats associated with cardiovascular disease. Antioxidants helped combat cellular damage from free radicals. Low-fat intake reduced risks of heart disease and obesity.
-    2. **Regular Exercise:** Lifelong physical activity (morning walks, earlier sports/exercise) improves cardiovascular health, maintains muscle mass and bone density, helps control weight, reduces stress, and lowers the risk of many chronic diseases.
-    3. **Stress Management/Mental Well-being:** His described nature as honest, pious, and concerned with others' welfare suggests lower levels of chronic stress and potentially better social connections, both linked to better health outcomes and longevity. Chronic stress negatively impacts cardiovascular and immune health.
-    4. **Moderation (Implied):** Being a "স্বল্পাহারী" (one who eats sparingly) suggests caloric moderation, which is linked in some studies to increased lifespan.
+### **Question 3**
 
-**5. Genetics and Biotechnology**
+**Scenario:** *The day after Eid, Rahim Mia found the fish in his pond gasping for air at the surface. Rahim Mia tried to solve this problem by hitting the water surface repeatedly with a long bamboo stick.*
 
-_(a) How many chromosomes are there in human body cells? How many of them are sex chromosomes? (1 Mark)_
+**(a) What is an Algal Bloom? (1 mark)**
 
-- Human body cells (somatic cells) typically contain 46 chromosomes.
-- Out of these, 2 are sex chromosomes (XX in females, XY in males).
+**Answer:**
+An algal bloom is a rapid and excessive growth of algae in a body of water, often caused by an overabundance of nutrients like nitrogen and phosphorus. This growth can discolor the water and have harmful effects on the ecosystem.
 
-_(b) What is meant by a gene? Write two causes of genetic disorders. (1.5 Marks)_
+---
 
-- **Gene:** A gene is a basic physical and functional unit of heredity. It is a specific sequence of nucleotides in DNA (or sometimes RNA) located usually on a chromosome, that codes for a functional product, either RNA or protein.
-- **Causes of Genetic Disorders:**
-    1. **Mutations:** Changes in the DNA sequence of a single gene.
-    2. **Chromosomal Abnormalities:** Changes in the number or structure of entire chromosomes (e.g., Down syndrome - extra chromosome 21).
+**(b) Why were the fish gasping for air? Why did this problem arise? (2.5 marks)**
 
-_(c) How can the paternity of a disputed couple be confirmed through DNA testing? (2 Marks)_
+**Answer:**
+The fish were gasping for air because of a severe lack of **dissolved oxygen** in the water, a condition known as **hypoxia**.
+This problem arose due to **eutrophication**, likely caused by the dumping of sacrificial animal waste (a source of high organic matter and nutrients) into the pond after Eid.
+1.  The huge amount of organic waste led to a massive population boom of decomposer bacteria.
+2.  These bacteria consume a large amount of dissolved oxygen from the water as they break down the waste.
+3.  This rapid consumption of oxygen depleted the available supply faster than it could be replenished, leaving the fish unable to breathe.
 
-- DNA testing confirms paternity by comparing the DNA profiles of the child, the mother, and the potential father.
-    1. **Sample Collection:** DNA samples (usually from cheek swabs or blood) are collected from the child, mother, and alleged father.
-    2. **Analysis:** Specific, highly variable regions of DNA (like STRs - Short Tandem Repeats) are analyzed for each individual to create a DNA profile.
-    3. **Comparison:** A child inherits half of their DNA from their biological mother and half from their biological father. The child's DNA profile will show markers inherited from the mother and markers inherited from the father. By comparing the child's profile with the mother's and the alleged father's, it's possible to determine if the markers the child didn't inherit from the mother match those of the alleged father. A high degree of matching confirms paternity.
+---
 
-_(d) Analyze the role of GMOs in agricultural science. (3 Marks)_
+**(c) Why was Rahim Mia repeatedly hitting the water surface to save the fish? (3 marks)**
 
-- Genetically Modified Organisms (GMOs) play significant roles in agricultural science:
-    1. **Increased Crop Yields:** Genetic modification can enhance yields by improving resistance to pests, diseases, or harsh environmental conditions (drought, salinity).
-    2. **Pest Resistance:** Crops like Bt corn or Bt cotton are engineered to produce their own insecticide (derived from _Bacillus thuringiensis_), reducing the need for chemical pesticide application.
-    3. **Herbicide Tolerance:** Crops like Roundup Ready soybeans are modified to tolerate specific herbicides, allowing farmers to control weeds more effectively.
-    4. **Enhanced Nutritional Value:** GMOs like Golden Rice are engineered to produce higher levels of certain nutrients (like Vitamin A precursors) to combat deficiencies in staple crops.
-    5. **Improved Crop Quality:** Modifications can improve shelf life, processing characteristics, or appearance of agricultural products.
-    6. **Disease Resistance:** Engineering resistance to viral or fungal diseases can protect crops from significant losses.
+**Answer:**
+Rahim Mia was repeatedly hitting the water surface in an attempt to **increase the amount of dissolved oxygen** in the water. The primary way oxygen enters a pond is through diffusion from the atmosphere at the water's surface. By hitting the water with a bamboo stick, he was:
+1.  **Increasing Surface Area:** Creating splashes and ripples, which increases the surface area of the water that is in contact with the air.
+2.  **Agitating the Water:** This agitation promotes mixing between the oxygen-rich surface layer and the oxygen-depleted deeper water.
+Both of these actions help to speed up the rate at which oxygen from the atmosphere dissolves into the water, providing the gasping fish with the oxygen they desperately needed to survive. It is a rudimentary form of mechanical aeration.
 
-**6. Health and Disease**
+---
 
-_(a) Write the difference between Antibiotic and Antiseptic. (1.5 Marks)_
+**(d) Discuss the harmful aspects of discharging household waste into a water body without any treatment. (3 marks)**
 
-- **Antibiotic:** A substance, typically produced by microorganisms or synthesized, that inhibits the growth of or destroys bacteria. Antibiotics are used _internally_ (taken orally or injected) to treat bacterial infections within the body.
-- **Antiseptic:** A chemical agent applied to _living tissue_ (like skin) to inhibit or kill microorganisms and prevent infection. Antiseptics are used _externally_ to cleanse wounds or prepare skin for surgery. They are generally too toxic for internal use.
+**Answer:**
+Discharging untreated household waste into a water body has several harmful aspects:
+1.  **Eutrophication and Oxygen Depletion:** Organic waste (like food scraps and sewage) is rich in nutrients. This leads to algal blooms and a population explosion of decomposer bacteria, which consume all the dissolved oxygen, killing fish and other aquatic life.
+2.  **Spread of Waterborne Diseases:** Untreated sewage contains harmful pathogens like bacteria and viruses that cause diseases such as cholera, typhoid, and dysentery, making the water unsafe for human use.
+3.  **Chemical Pollution:** Household waste often contains detergents with phosphates and other chemicals that are toxic to aquatic organisms and disrupt the ecosystem.
+4.  **Aesthetic Degradation:** It makes the water body foul-smelling, visually unappealing, and unsuitable for recreational activities.
 
-_(b) Write the name of the virus transmissible through date palm sap. (1 Mark)_
+---
 
-- Nipah virus (NiV).
+### **Question 4**
 
-_(c) Write the names of three viral diseases that have recently or in the near past spread in different countries of the world. (2 Marks)_
+**Scenario:** *Centenarian Karim Shaheb has no friends left to accompany him on his regular morning walks. He is a man who eats little. He has avoided oily and fatty foods all his life. Fresh fruits, salads, and vegetables are part of his daily diet. He was an honest government official in his youth, regularly played sports and exercised. He has always thought about the welfare of people and has lived his life as a pious person.*
 
-- COVID-19 (caused by SARS-CoV-2)
-- Ebola Virus Disease
-- Zika Virus Disease
+**(a) What are vitamins, anti-oxidants, and free radicals? (1.5 marks)**
 
-_(d) What is food poisoning? Give examples of different types of food poisoning, citing specific causes. (3 Marks)_
+**Answer:**
+*   **Vitamins:** Organic compounds that are essential micronutrients an organism needs in small quantities for the proper functioning of its metabolism.
+*   **Anti-oxidants:** Molecules that can safely donate an electron to a free radical, thereby neutralizing it and preventing it from causing cellular damage.
+*   **Free Radicals:** Highly reactive and unstable molecules with an unpaired electron that can damage cells, proteins, and DNA through a process called oxidation.
 
-- **Food Poisoning:** An illness caused by consuming food contaminated with harmful bacteria, viruses, parasites, or toxins produced by these microorganisms[cite:1 22]. Symptoms often include nausea, vomiting, diarrhea, abdominal cramps, and fever.
-- **Examples and Causes:**
-    1. **Bacterial Food Poisoning:**
-        - _Salmonella:_ Found in contaminated eggs, poultry, meat, unpasteurized milk. Causes salmonellosis.
-        - _Escherichia coli_ (E. coli - pathogenic strains like O157:H7): Found in undercooked ground beef, contaminated produce, unpasteurized milk. Can cause severe diarrhea and kidney damage.
-        - _Staphylococcus aureus:_ Produces toxins in improperly stored foods (cooked meats, dairy products, salads). Causes rapid onset of vomiting and cramps.
-    2. **Viral Food Poisoning:**
-        - _Norovirus:_ Highly contagious, often spread by infected food handlers or contaminated water/shellfish. Causes vomiting and diarrhea.
-    3. **Toxin-Mediated Food Poisoning:**
-        - _Bacillus cereus:_ Produces toxins in improperly cooked or stored rice and starchy foods. Can cause vomiting or diarrhea.
-        - _Clostridium botulinum:_ Produces a potent neurotoxin in improperly canned or preserved foods. Causes botulism, a serious paralytic illness.
+---
 
-**7. Light**
+**(b) Explain the effect of free radicals on the human body. (1.5 marks)**
 
-_(a) How many colors are obtained when white light is dispersed? What are the colors? (1.5 Marks)_
+**Answer:**
+Free radicals are highly destructive to the human body. They cause **oxidative stress** by "stealing" electrons from stable molecules in cells, including DNA, proteins, and lipids in cell membranes. This damage is cumulative and contributes to:
+*   **Aging:** It is a major factor in the physical aging process.
+*   **Chronic Diseases:** It is linked to the development of numerous diseases, including cancer, heart disease, arthritis, and neurodegenerative disorders like Alzheimer's.
+*   **Inflammation:** It promotes chronic inflammation throughout the body.
 
-- Seven colors are obtained when white light is dispersed.
-- The colors are Violet, Indigo, Blue, Green, Yellow, Orange, Red (often remembered by the acronym VIBGYOR).
+---
 
-_(b) Why is red light always used for danger signals on roads? (2 Marks)_
+**(c) What is the role of vitamins and anti-oxidants in maintaining health? (1.5 marks)**
 
-- Red light is used for danger signals because it has the longest wavelength among the visible colors. Light with longer wavelengths scatters the least when passing through atmospheric particles like dust, fog, or rain. Therefore, red light travels the farthest through the atmosphere without significant scattering, making it visible from a greater distance even in poor visibility conditions, which is crucial for safety signals.
+**Answer:**
+Vitamins and anti-oxidants play a crucial defensive role in maintaining health. Many vitamins, particularly **Vitamin C and Vitamin E**, are powerful anti-oxidants. Their primary role is to **neutralize harmful free radicals** by donating an electron without becoming unstable themselves. This action protects cells from oxidative damage, reduces inflammation, strengthens the immune system, and helps prevent the onset of many chronic diseases, thereby promoting overall health and longevity.
 
-_(c) Why does the sky appear red on the horizon during sunrise and sunset? (2 Marks)_
+---
 
-- During sunrise and sunset, sunlight has to travel through a much thicker layer of the Earth's atmosphere to reach our eyes compared to midday. As sunlight passes through this long path, shorter wavelength colors (like blue and violet) are scattered away more effectively by atmospheric particles (Rayleigh scattering). The longer wavelength colors (red and orange) are scattered less and continue through the atmosphere to reach our eyes, making the sun and the sky near the horizon appear reddish or orange.
+**(d) Give a scientific analysis of how Karim Shaheb's lifestyle, as described in the scenario, helped him to achieve longevity. (3 marks)**
 
-_(d) Describe the properties of light. (2 Marks)_
+**Answer:**
+Karim Shaheb's lifestyle incorporated several key factors that are scientifically proven to contribute to longevity:
+1.  **Healthy Diet:** His diet of fresh fruits, salads, and vegetables provided him with a rich supply of **vitamins and anti-oxidants**. By avoiding oily and fatty foods, he reduced his intake of unhealthy fats, lowering his risk of heart disease and obesity. Eating little (caloric restriction) is also linked to a longer lifespan.
+2.  **Regular Physical Activity:** His habit of playing sports and exercising regularly in his youth and continuing with morning walks helped maintain cardiovascular health, strong bones and muscles, and a healthy weight.
+3.  **Low Stress and Positive Outlook:** Being an honest, pious person who thought about the welfare of others suggests a life with lower levels of chronic stress and a strong sense of purpose. Low stress levels are associated with reduced inflammation and a lower risk of many chronic diseases, contributing significantly to a long and healthy life.
 
-- Key properties of light include:
-    1. **Rectilinear Propagation:** Light travels in straight lines in a uniform medium.
-    2. **Reflection:** Light bounces off surfaces. The angle of incidence equals the angle of reflection.
-    3. **Refraction:** Light bends when it passes from one medium to another (e.g., from air to water) due to a change in speed.
-    4. **Dispersion:** White light splits into its constituent colors (spectrum) when passing through a prism, due to different colors refracting at slightly different angles.
-    5. **Wave Nature:** Light exhibits wave properties like diffraction (bending around obstacles) and interference (superposition of waves).
-    6. **Particle Nature (Quantum):** Light also behaves as particles called photons, explaining phenomena like the photoelectric effect. It has wave-particle duality.
-    7. **Speed:** Light travels at a constant, finite speed in a vacuum, approximately 3×108 meters per second. Its speed decreases in other media.
+---
 
-**8. Acids and Bases**
+### **Question 5**
 
-_(a) Write the definitions of Acid and Base. (1.5 Marks)_
+**(a) How many chromosomes are there in a human body cell? How many of them are sex chromosomes? (1 mark)**
 
-- **Acid:** (Arrhenius definition) A substance that produces hydrogen ions (H+) or hydronium ions (H3​O+) when dissolved in water. (Brønsted-Lowry definition) A proton (H+) donor. (Lewis definition) An electron pair acceptor.
-- **Base:** (Arrhenius definition) A substance that produces hydroxide ions (OH−) when dissolved in water. (Brønsted-Lowry definition) A proton (H+) acceptor. (Lewis definition) An electron pair donor.
+**Answer:**
+There are **46** chromosomes in a typical human body cell. Of these, **2** are sex chromosomes.
 
-_(b) Write the names of three weak and three strong acids. (2 Marks)_
+---
 
-- **Strong Acids:**
-    1. Hydrochloric acid (HCl)
-    2. Sulfuric acid (H2​SO4​)
-    3. Nitric acid (HNO3​)
-- **Weak Acids:**
-    1. Acetic acid (CH3​COOH) (in vinegar)
-    2. Carbonic acid (H2​CO3​) (in carbonated drinks)
-    3. Citric acid (C6​H8​O7​) (in citrus fruits)
+**(b) What is meant by a gene? Write two causes of genetic disorders. (2 marks)**
 
-_(c) Write the names of five acids that we consume with food, mentioning their sources. (2 Marks)_
+**Answer:**
+*   **Gene:** A gene is the basic unit of heredity; it is a specific segment of DNA that contains the instructions for building a particular protein or functional RNA molecule.
+*   **Two Causes of Genetic Disorders:**
+    1.  **Mutation:** A change or error in the DNA sequence of a single gene.
+    2.  **Chromosomal Abnormality:** An error in the number or structure of chromosomes, such as having an extra chromosome (like in Down syndrome) or a missing part of a chromosome.
 
-- 1. **Acetic Acid:** Source - Vinegar.
-- 2. **Citric Acid:** Source - Citrus fruits (lemons, oranges).
-- 3. **Lactic Acid:** Source - Yogurt, sour milk.
-- 4. **Malic Acid:** Source - Apples, grapes.
-- 5. **Tartaric Acid:** Source - Grapes, tamarinds.
+---
 
-_(d) Why is vinegar used to process pickles? (2 Marks)_
+**(c) How can the paternity of a disputed couple be confirmed through a DNA test? (3 marks)**
 
-- Vinegar (which contains acetic acid) is used in pickling primarily as a **preservative**. The acidity created by the vinegar lowers the pH of the food (like cucumbers or mangoes) to a level where most spoilage-causing bacteria, yeasts, and molds cannot grow or survive. This extends the shelf life of the food significantly. Vinegar also contributes to the characteristic tangy flavor of pickles.
+**Answer:**
+The paternity of a disputed couple can be confirmed with near-certainty through a DNA test by following these steps:
+1.  **Sample Collection:** DNA samples are collected from the child, the mother, and the alleged father (usually through a simple cheek swab).
+2.  **DNA Profiling:** In the lab, specific, highly variable regions of the DNA from each person are analyzed to create a unique "DNA profile" for each individual.
+3.  **Comparison:** The child's DNA profile is then compared to the profiles of the mother and the alleged father. A child inherits half of their DNA from each biological parent.
+4.  **Confirmation:** If the man is the biological father, then for every genetic marker, one of the child's two versions must match the mother's, and the other must match the alleged father's. If this matching pattern is consistent across multiple markers, paternity is confirmed with an accuracy of over 99.9%.
+
+---
+
+**(d) Analyze the role of GMOs in agricultural science. (2 marks)**
+
+**Answer:**
+GMOs (Genetically Modified Organisms) play a transformative role in agricultural science by allowing for the precise improvement of crops. Their role includes:
+*   **Increasing Productivity:** Creating higher-yielding crops to ensure food security.
+*   **Enhancing Pest Resistance:** Developing crops like Bt Brinjal that produce their own insecticide, reducing the need for chemical sprays.
+*   **Improving Nutritional Value:** Creating biofortified crops like Golden Rice to combat vitamin deficiencies.
+*   **Promoting Sustainability:** Engineering crops that are tolerant to drought or salinity, allowing them to be grown in challenging environments and conserving water resources.
+
+---
+
+### **Question 6**
+
+**(a) Write the difference between Antibiotic and Antiseptic. (2 marks)**
+
+**Answer:**
+
+| Feature | Antibiotic | Antiseptic |
+| :--- | :--- | :--- |
+| **Method of Use** | Taken internally (e.g., orally or by injection) and works systemically throughout the body. | Applied externally to living tissue, like skin or wounds. |
+| **Target** | Specifically targets and kills or inhibits the growth of bacteria causing an internal infection. | Reduces the number of microorganisms on a surface to prevent infection from occurring. |
+| **Example** | Penicillin, Amoxicillin | Dettol, Savlon, Alcohol |
+
+---
+
+**(b) Write the name of a virus transmissible through date palm sap. (1 mark)**
+
+**Answer:**
+The **Nipah virus** is transmissible through date palm sap that has been contaminated by the saliva or urine of infected fruit bats.
+
+---
+
+**(c) Write the names of three viral diseases that have spread in different countries of the world in the recent and near past. (1 mark)**
+
+**Answer:**
+1.  COVID-19 (caused by SARS-CoV-2)
+2.  Zika virus disease
+3.  Ebola virus disease
+
+---
+
+**(d) What is food poisoning? Give examples of different types of food poisoning mentioning specific causes. (3 marks)**
+
+**Answer:**
+*   **Food Poisoning:** An illness caused by eating food contaminated with harmful bacteria, viruses, parasites, or their toxins.
+*   **Examples:**
+    1.  **Bacterial Food Poisoning:** This is the most common type.
+        *   **Cause:** Caused by bacteria like ***Salmonella*** (often found in undercooked poultry and eggs) or ***E. coli*** (found in undercooked ground beef and contaminated produce).
+    2.  **Viral Food Poisoning:**
+        *   **Cause:** Caused by viruses like **Norovirus**, which is highly contagious and often spreads through contaminated food or surfaces in places like cruise ships and restaurants.
+    3.  **Toxin-Mediated Food Poisoning:**
+        *   **Cause:** Caused by toxins produced by bacteria. For example, ***Staphylococcus aureus*** can grow in improperly stored foods like cream-filled pastries and produce a toxin that causes rapid-onset vomiting.
+
+---
+
+### **Question 7**
+
+**(a) How many colors are found when white light is analyzed? What are the colors? (1.5 marks)**
+
+**Answer:**
+When white light is analyzed (e.g., by passing it through a prism), **seven** colors are found. The colors are **Violet, Indigo, Blue, Green, Yellow, Orange, and Red** (often remembered by the acronym VIBGYOR).
+
+---
+
+**(b) Why is red light always used for danger signals on roads? (2 marks)**
+
+**Answer:**
+Red light is used for danger signals because it has the **longest wavelength** of all the colors in the visible spectrum. According to Rayleigh's Law of Scattering, light with longer wavelengths is scattered the least by particles in the atmosphere (like fog, rain, or dust). Because it scatters less, red light can travel the farthest through the air and remain clearly visible from a long distance, even in poor weather conditions, making it the most effective color for conveying a critical signal like "stop" or "danger".
+
+---
+
+**(c) Why is the color of the sky red on the horizon at sunrise and sunset? (2 marks)**
+
+**Answer:**
+At sunrise and sunset, the sunlight has to travel through a much thicker layer of the Earth's atmosphere to reach our eyes compared to midday.
+1.  As the light travels this long path, most of the shorter-wavelength light (blue and violet) is scattered away from our direct line of sight by the air molecules.
+2.  This leaves the longer-wavelength light (red and orange) to pass through directly to our eyes.
+As a result, the sun itself and the sky around it appear reddish or orange.
+
+---
+
+**(d) Give a description of the properties of light. (2 marks)**
+
+**Answer:**
+The key properties of light are:
+1.  **Rectilinear Propagation:** Light travels in straight lines in a uniform medium.
+2.  **Reflection:** Light bounces off a surface.
+3.  **Refraction:** Light bends when it passes from one medium to another.
+4.  **Dispersion:** White light splits into its constituent colors when passed through a prism.
+5.  **Wave-Particle Duality:** Light exhibits properties of both waves (like diffraction and interference) and particles (photons).
+6.  **Speed:** It travels at a constant, maximum speed in a vacuum (approximately 3 x 10⁸ m/s).
+
+---
+
+### **Question 8**
+
+**(a) Define acid and base. (1.5 marks)**
+
+**Answer:**
+*   **Acid:** An acid is a chemical substance that produces hydrogen ions (H⁺) when dissolved in water. It typically has a sour taste and turns blue litmus paper red.
+*   **Base:** A base is a substance that produces hydroxide ions (OH⁻) when dissolved in water. It usually has a bitter taste, feels slippery, and turns red litmus paper blue.
+
+---
+
+**(b) Write the names of three weak and three strong acids. (2 marks)**
+
+**Answer:**
+*   **Three Weak Acids:**
+    1.  Acetic Acid (CH₃COOH)
+    2.  Carbonic Acid (H₂CO₃)
+    3.  Citric Acid
+*   **Three Strong Acids:**
+    1.  Hydrochloric Acid (HCl)
+    2.  Sulfuric Acid (H₂SO₄)
+    3.  Nitric Acid (HNO₃)
+
+---
+
+**(c) Mentioning the sources, name five acids that we take with our food. (2 marks)**
+
+**Answer:**
+1.  **Citric Acid:** Source - Lemons, oranges
+2.  **Acetic Acid:** Source - Vinegar
+3.  **Lactic Acid:** Source - Yogurt, sour milk
+4.  **Tartaric Acid:** Source - Grapes, tamarind
+5.  **Ascorbic Acid (Vitamin C):** Source - Amla, citrus fruits
+
+---
+
+**(d) Why is vinegar used to process pickles? (2 marks)**
+
+**Answer:**
+Vinegar is used to process pickles because it is an effective **preservative**. Its active component, acetic acid, creates a highly **acidic environment** (low pH). This acidic environment inhibits the growth of most spoilage-causing bacteria, mold, and other microorganisms that would otherwise cause the vegetables to rot. It preserves the pickles, extending their shelf life and adding a characteristic tangy flavor.
+
+---
+
+### **Question 9**
+
+**(a) Write the characteristics of contaminated and potable water. (2 marks)**
+
+**Answer:**
+*   **Contaminated Water:**
+    *   Often has a foul odor, unpleasant taste, and may be turbid or colored.
+    *   Contains harmful microorganisms (pathogens), toxic chemicals, or excessive minerals.
+    *   Unsafe for drinking and can cause disease.
+*   **Potable (Drinkable) Water:**
+    *   It is clear, colorless, odorless, and has a pleasant taste.
+    *   Free from harmful pathogens and toxic chemicals.
+    *   Contains beneficial minerals within safe limits.
+
+---
+
+**(b) Write the name of a chlorine compound widely used to disinfect water. How does this compound disinfect water? (2 marks)**
+
+**Answer:**
+*   **Name of Chlorine Compound:** **Bleaching Powder** (Calcium hypochlorite, Ca(OCl)₂).
+*   **How it Disinfects:** When bleaching powder is added to water, it releases **hypochlorous acid (HOCl)**. Hypochlorous acid is a powerful oxidizing agent that effectively kills harmful microorganisms like bacteria and viruses by destroying their cell walls and essential enzymes, thus disinfecting the water.
+
+---
+
+**(c) What is Pasteurization? What is the reason for milk getting spoiled even after pasteurization if kept at room temperature? (2.5 marks)**
+
+**Answer:**
+*   **Pasteurization:** Pasteurization is a process of heating a liquid (like milk) to a specific temperature for a set period to kill most of the harmful pathogenic bacteria. It is not sterilization; it does not kill all microorganisms.
+*   **Reason for Spoilage:** Pasteurized milk spoils at room temperature because the process does not kill all microorganisms. It leaves some harmless, spoilage-causing (thermoduric) bacteria. At warm room temperatures, these surviving bacteria multiply rapidly, fermenting the milk's lactose into lactic acid, which causes the milk to sour and spoil. Refrigeration slows down this bacterial growth.
+
+***
+
+Of course. Here are the detailed answers for Part B of the exam paper.
+
+***
+
+### **Part B: Computer and Information Technology**
+**Total Marks: 25**
+**(Answer question nos. 1, 10, and 11 and any five from the rest)**
+
+---
+
+### **Question 1**
+
+**Classify digital computers based on size, volume, and efficiency. Write the characteristics of a micro-computer among them. (5 marks)**
+
+**Answer:**
+Digital computers are classified into four main types based on their size, processing power, and efficiency:
+1.  **Supercomputer:** The largest, fastest, and most expensive type. Used for extremely complex scientific calculations like weather forecasting and nuclear research.
+2.  **Mainframe Computer:** Large, powerful computers used by large organizations (like banks and airlines) for critical applications involving bulk data processing.
+3.  **Minicomputer:** A mid-sized computer that is more powerful than a microcomputer but less powerful than a mainframe. It can support multiple users simultaneously.
+4.  **Microcomputer:** A small, relatively inexpensive computer with a microprocessor as its CPU. This is the most common type of computer.
+
+**Characteristics of a Microcomputer:**
+*   **Size:** They are small in size and designed for personal use (e.g., desktops, laptops).
+*   **CPU:** They use a single microprocessor as their Central Processing Unit.
+*   **Cost:** They are relatively inexpensive and affordable for individuals.
+*   **User:** They are typically designed to be used by a single user at a time.
+*   **Examples:** Personal computers (PCs), laptops, tablets, and smartphones are all types of microcomputers.
+
+---
+
+### **Question 2**
+
+**What is meant by a hybrid computer? (2.5 marks)**
+
+**Answer:**
+A hybrid computer is a type of computer that combines the features of both **analog** and **digital** computers. It possesses the speed of an analog computer and the memory and accuracy of a digital computer. It accepts analog signals, converts them into digital form for processing, and then provides the final output in either analog or digital form. Hybrid computers are used for specialized tasks where both continuous and discrete data need to be processed, such as in scientific simulations or for controlling industrial processes.
+
+---
+
+### **Question 3**
+
+**Write the desired characteristics of a fifth-generation computer. (2.5 marks)**
+
+**Answer:**
+Fifth-generation computers are based on the concept of **Artificial Intelligence (AI)**. Their desired characteristics include:
+*   **Artificial Intelligence:** The ability to think, learn, reason, and make decisions like a human.
+*   **Parallel Processing:** Using multiple processors to execute many tasks simultaneously, leading to extremely high speeds.
+*   **Natural Language Processing:** The ability to understand and respond to human language (like English or Bengali) instead of computer code.
+*   **Expert Systems:** The ability to use a knowledge base to solve complex problems in specific domains, mimicking a human expert.
+*   **Use of Superconductors:** To achieve ultra-high processing speeds.
+
+---
+
+### **Question 4**
+
+**What are the main parts of a computer? Write the names of Primary & Auxiliary Memory, Input & Output devices. (2.5 marks)**
+
+**Answer:**
+*   **Main Parts of a Computer:** CPU, Memory Unit, Input Unit, Output Unit, Storage Unit.
+*   **Primary Memory:** RAM (Random Access Memory), ROM (Read-Only Memory).
+*   **Auxiliary Memory (Storage):** Hard Disk Drive (HDD), Solid-State Drive (SSD), Pen Drive.
+*   **Input Devices:** Keyboard, Mouse, Scanner.
+*   **Output Devices:** Monitor, Printer, Speaker.
+
+---
+
+### **Question 5**
+
+**How do a Compiler and an Interpreter work? Compare these two programs. (2.5 marks)**
+
+**Answer:**
+*   **How they work:**
+    *   **Compiler:** A compiler takes the entire source code (the program written by a human) and translates it into machine code all at once, creating a separate executable file.
+    *   **Interpreter:** An interpreter reads the source code and translates and executes it line by line.
+*   **Comparison:**
+
+| Feature | Compiler | Interpreter |
+| :--- | :--- | :--- |
+| **Execution Speed** | The compiled program runs faster. | The interpreted program runs slower. |
+| **Object Code** | Generates an executable object file. | Does not generate an object file. |
+| **Error Checking** | Reports all errors after scanning the whole program. | Reports an error as soon as it is found and stops execution. |
+
+---
+
+### **Question 6**
+
+**What is a client/server network? Write the necessity of this network. (2.5 marks)**
+
+**Answer:**
+*   **Client/Server Network:** A network architecture where some computers (**clients**) request services and resources, and other computers (**servers**) provide those services. The server is a powerful, central computer that manages resources like files, printers, or a database. Clients are the individual computers (like desktops or laptops) that connect to the server to access these resources.
+*   **Necessity:** This network model is necessary for:
+    *   **Centralized Management:** It allows for the central storage of data and management of security, making administration easier.
+    *   **Resource Sharing:** It enables multiple clients to efficiently share expensive resources like high-end printers or a large database.
+    *   **Improved Security:** Access and security can be controlled centrally on the server.
+    *   **Scalability:** It is easy to add more clients to the network without affecting performance significantly.
+
+---
+
+### **Question 7**
+
+**What are a mouse and a writer? (2.5 marks)**
+
+**Answer:**
+*   **Mouse:** A mouse is a handheld **input device** used to control the cursor or pointer on a computer screen. It allows the user to point to, click on, and manipulate graphical elements (icons, menus, buttons) in a graphical user interface (GUI).
+*   **Writer:** This term is ambiguous. It most likely refers to a **word processing program** or text editor, which is a type of application software used for creating, editing, and formatting text documents. A common example is **Microsoft Word** or **LibreOffice Writer**.
+
+---
+
+### **Question 8**
+
+**What is an ISP? What is meant by intranet and extranet? (2.5 marks)**
+
+**Answer:**
+*   **ISP (Internet Service Provider):** An ISP is a company that provides individuals and organizations with access to the internet and other related services.
+*   **Intranet:** An intranet is a **private, internal network** belonging to an organization, accessible only to its members or employees. It uses internet technologies (like web pages and email) but is secured from the public internet.
+*   **Extranet:** An extranet is a controlled private network that allows an organization to share part of its intranet with external stakeholders like suppliers, vendors, or customers. It is an extension of an intranet with limited external access.
+
+---
+
+### **Question 9**
+
+**What is meant by a web search engine? Give an example. (2.5 marks)**
+
+**Answer:**
+*   **Web Search Engine:** A web search engine is a software system, typically accessed through a website, that is designed to search for information on the World Wide Web. Users enter keywords or queries, and the search engine returns a list of relevant web pages, images, and other online content from its vast index.
+*   **Example:** **Google** is the most popular web search engine. Others include Bing and DuckDuckGo.
+
+---
+
+### **Question 10**
+
+**"Digital Bangladesh is no longer a dream" - Justify the statement by mentioning the recent progress in building Digital Bangladesh. (5 marks)**
+
+**Answer:**
+The statement "Digital Bangladesh is no longer a dream" is justified by the significant and tangible progress made in recent years. This vision has moved from a concept to a reality through several key achievements:
+1.  **Expanded Internet Connectivity:** The internet has reached remote and rural areas through the expansion of fiber optic networks and mobile data services. Union Digital Centers (UDCs) have been established across the country, providing digital services to rural populations.
+2.  **Growth of Mobile Financial Services (MFS):** Services like bKash, Nagad, and Rocket have revolutionized financial transactions, enabling millions of people, including the unbanked, to send money, pay bills, and make payments using their mobile phones.
+3.  **Digitalization of Government Services:** Many government services are now available online. People can apply for passports, pay taxes, register businesses, and access public examination results digitally, reducing corruption and harassment.
+4.  **Booming IT and Freelancing Sector:** Bangladesh has become a major global hub for IT outsourcing and freelancing, creating employment for a large number of youths and bringing in foreign currency.
+5.  **E-commerce and F-commerce Growth:** Online shopping has become a mainstream activity, with numerous local e-commerce platforms and a thriving F-commerce (Facebook-based business) scene, especially empowering small entrepreneurs and women.
+These developments show that the core infrastructure and services of a Digital Bangladesh are not just planned but are actively functioning and integrated into the daily lives of its citizens.
+
+---
+
+### **Question 11**
+
+**Explain with a recent example the powerful role of web-based social media in creating mass awareness in the context of Bangladesh. (2.5 marks)**
+
+**Answer:**
+Web-based social media, particularly platforms like Facebook, plays a powerful role in creating rapid mass awareness in Bangladesh. A recent and prominent example is the response to various social justice issues or public crises.
+*   **Example:** During the **2018 Road Safety Movement**, students used social media extensively to organize protests and spread their message. Photos, videos, and live streams of protests and traffic mismanagement went viral on Facebook within hours. This created immense public pressure and drew national and international attention to the issue of road safety far more quickly and effectively than traditional media could have. Social media acted as a primary tool for mobilization, communication, and holding authorities accountable, demonstrating its powerful role in creating mass awareness and driving social change.
