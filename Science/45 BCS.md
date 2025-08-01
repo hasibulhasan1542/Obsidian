@@ -36,20 +36,58 @@ There are two main types of reflection of light:
 *   **Consumer Electronics:** In barcode scanners, CD/DVD/Blu-ray players, and laser printers.
 *   **Scientific Research:** In spectroscopy, nuclear fusion research, and for precise measurements.
 
----
+**How Laser Works**
+```mermaid
+flowchart TD
+    A["Energy Source (Pump)"] --> B["Excites Atoms<br>(Gain Medium)"]
+    B --> C["Atoms Release Photons (Spontaneous Emission)"]
+    C --> D["Photons Trigger Others (Stimulated Emission)"]
+    D --> E["Mirrors Reflect Light Back and Forth"]
+    E --> F["One Mirror Partially Transparent"]
+    F --> G["Coherent Laser Beam Emerges"]
+
+```
+
+
+***
 
 **(c) Write down the uses of different parts of the electromagnetic spectrum.** (3 Marks)
 
-**Answer:**
-The electromagnetic spectrum is a range of all types of electromagnetic radiation. Different parts have distinct uses:
+**The Electromagnetic Spectrum by Wavelength**
+The electromagnetic spectrum is a continuous range of radiation. The boundaries between regions are approximate and can overlap. The table below outlines the distinct parts, their approximate wavelength ranges, and their primary uses.
 
-*   **Radio Waves:** Long-distance communication, including radio broadcasting (AM/FM), television signals, and mobile phone communication.
-*   **Microwaves:** Cooking (microwave ovens), telecommunications (Wi-Fi, satellite communication), and radar systems for weather forecasting and navigation.
-*   **Infrared (IR):** Remote controls for electronic devices, thermal imaging cameras (for night vision and heat-leak detection), and physical therapy for muscle pain.
-*   **Visible Light:** Allows for human vision, used in photography, optical instruments like microscopes, and lighting.
-*   **Ultraviolet (UV):** Sterilization of medical equipment and water, production of Vitamin D in the skin, and "black lights" for detecting forged currency.
-*   **X-rays:** Medical imaging to view bones and internal organs, security screening at airports, and in astronomy to study celestial objects.
-*   **Gamma Rays:** Medical treatment for cancer (radiotherapy), sterilizing food and medical instruments, and industrial radiography to inspect welds.
+| **Region**           | **Wavelength Range (Approximate)** | **Typical Uses**                                                                                                           |
+| :------------------- | :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
+| **Radio Waves**      | > 30 centimeters                   | Long-distance communication, AM/FM radio broadcasting, television signals, Wi-Fi, and mobile phone communication.          |
+| **Microwaves**       | 1 millimeter to 30 centimeters     | Cooking (microwave ovens), telecommunications (satellite, GPS), radar systems for weather and navigation.                  |
+| **Infrared (IR)**    | 700 nanometers to 1 millimeter     | Remote controls, thermal imaging cameras (night vision), fiber-optic communication, and physical therapy.                  |
+| **Visible Light**    | 400 nanometers to 700 nanometers   | Human vision, photography, lighting, and optical instruments like microscopes and telescopes.                              |
+| **Ultraviolet (UV)** | 10 nanometers to 400 nanometers    | Sterilization of medical equipment and water, production of Vitamin D in the skin, and forensic analysis ("black lights"). |
+| **X-rays**           | 0.01 nanometers to 10 nanometers   | Medical imaging of bones and internal organs, security screening at airports, and industrial inspection of materials.      |
+| **Gamma Rays**       | < 0.01 nanometers                  | Medical treatment for cancer (radiotherapy), sterilizing food and medical equipment, and high-energy astronomy.            |
+#### **Notes on Wavelength Units:**
+*   **cm** = centimeter (1 cm = 0.01 meters)
+*   **mm** = millimeter (1 mm = 0.001 meters)
+*   **nm** = nanometer (1 nm = one-billionth of a meter, or 10⁻⁹ meters)
+```mermaid
+flowchart LR
+    A[Electromagnetic Spectrum<br>↑ Frequency → ↑ Energy<br>↓ Wavelength] --> B[Radio Waves<br><3 GHz<br>>30 cm]
+    A --> C[Microwaves<br>1 GHz–300 GHz<br>1 mm–30 cm]
+    A --> D[Infrared<br>300 GHz–430 THz<br>700 nm–1 mm]
+    A --> E[Visible Light<br>430 THz–790 THz<br>400–700 nm]
+    A --> F[Ultraviolet<br>790 THz–30 PHz<br>10–400 nm]
+    A --> G[X-rays<br>30 PHz–30 EHz<br>0.01–10 nm]
+    A --> H[Gamma Rays<br>>30 EHz<br><0.01 nm]
+
+    B -->|AM/FM Radio, TV,<br>Mobile, Wi-Fi| B1[Communication]
+    C -->|Microwave Ovens,<br>Satellites, Radar| C1[Cooking & Telecom]
+    D -->|Thermal Imaging,<br>Remote Controls| D1[Heat & Sensing]
+    E -->|Human Vision,<br>Photography| E1[Light & Optics]
+    F -->|Sterilization,<br>Black Lights| F1[Medical/Detection]
+    G -->|Medical Imaging,<br>Airport Scans| G1[Diagnostics]
+    H -->|Radiotherapy,<br>Food Sterilization| H1[Cancer Treatment]
+```
+
 
 ---
 
@@ -71,13 +109,13 @@ The electromagnetic spectrum is a range of all types of electromagnetic radiatio
 
 **Answer:**
 
-| Basis of Difference | Natural Magnet | Artificial Magnet |
-| :--- | :--- | :--- |
-| **Origin** | Found naturally in the earth. | Man-made by magnetizing specific materials. |
-| **Strength** | Generally have weak magnetic force. | Can be made with very strong magnetic force. |
-| **Shape** | Have irregular and undefined shapes. | Can be made into specific shapes like bar, U-shape, or disc. |
-| **Durability** | Their magnetic property is permanent and long-lasting. | Can be either permanent (like a bar magnet) or temporary (like an electromagnet). |
-| **Example** | Lodestone (a form of magnetite). | Bar magnet, horseshoe magnet, electromagnet. |
+| Basis of Difference | Natural Magnet                                                | Artificial Magnet                                                                 |
+| :------------------ | :------------------------------------------------------------ | :-------------------------------------------------------------------------------- |
+| **Origin**          | Found naturally in the earth.                                 | Man-made by magnetizing specific materials.                                       |
+| **Strength**        | Generally have weak magnetic force.                           | Can be made with very strong magnetic force.                                      |
+| **Shape**           | Have irregular and undefined shapes.                          | Can be made into specific shapes like bar, U-shape, or disc.                      |
+| **Durability**      | Their magnetic property is permanent and long-lasting.        | Can be either permanent (like a bar magnet) or temporary (like an electromagnet). |
+| **Example**         | <font color="#ffff00">Lodestone</font> (a form of magnetite). | Bar magnet, <font color="#ffff00">horseshoe</font> magnet, electromagnet.         |
 
 ---
 
@@ -101,7 +139,13 @@ Ultrasound waves are sound waves with frequencies higher than the upper audible 
 2.  **Marine Technology (SONAR):** Used in ships and submarines to detect underwater objects, map the seabed, and locate schools of fish.
 3.  **Industrial Cleaning:** High-frequency sound waves are used in ultrasonic cleaners to clean delicate items like jewelry, lenses, and surgical instruments.
 4.  **Non-destructive Testing:** Used to detect flaws, cracks, or defects inside metal structures and welds without damaging them.
-
+```mermaid
+flowchart TD
+    U[Ultrasound Applications] --> M[Medical Imaging<br>• Sonography<br>• Echocardiography<br>• Fetal monitoring]
+    U --> S[SONAR<br>• Ship navigation<br>• Seabed mapping<br>• Fish detection]
+    U --> C[Industrial Cleaning<br>• Jewelry<br>• Lenses<br>• Surgical tools]
+    U --> T[Non-destructive Testing<br>• Metal flaw detection<br>• Weld inspection]
+```
 ---
 
 ### **Question 3**
@@ -127,7 +171,7 @@ In contrast, acetic acid (CH₃COOH), an organic acid, is weak because in water,
 **(b) What is aqua regia? What are its uses?** (2 Marks)
 
 **Answer:**
-**Aqua Regia** (Latin for "royal water") is a highly corrosive, fuming yellow or red liquid. It is a mixture of concentrated nitric acid (HNO₃) and concentrated hydrochloric acid (HCl), optimally in a molar ratio of 1:3.
+**Aqua Regia** (Latin for "royal water") is a highly corrosive, fuming yellow or red liquid. It is a mixture of <font color="#ffff00">concentrated nitric acid (HNO₃) and concentrated hydrochloric acid</font> (HCl), optimally in a molar ratio of 1:3.
 
 **Uses:**
 *   **Dissolving Noble Metals:** Its primary use is to dissolve noble metals like gold (Au) and platinum (Pt), which are resistant to being dissolved by single acids.
@@ -144,11 +188,11 @@ A **buffer solution** is an aqueous solution consisting of a mixture of a weak a
 An equimolar solution of acetic acid (CH₃COOH, a weak acid) and sodium acetate (CH₃COONa, which provides the conjugate base CH₃COO⁻) acts as a buffer because:
 
 1.  **When a strong acid (like H⁺) is added:** The conjugate base (acetate ion) in the buffer reacts with the added H⁺ ions, neutralizing them and forming weak acetic acid.
-    `CH₃COO⁻(aq) + H⁺(aq) → CH₃COOH(aq)`
+    $$CH₃COO⁻(aq) + H⁺(aq) → CH₃COOH(aq)$$
     This prevents the pH from dropping significantly.
 
 2.  **When a strong base (like OH⁻) is added:** The weak acid (acetic acid) in the buffer reacts with the added OH⁻ ions, neutralizing them and forming water and the acetate ion.
-    `CH₃COOH(aq) + OH⁻(aq) → CH₃COO⁻(aq) + H₂O(l)`
+    $$CH₃COOH(aq) + OH⁻(aq) → CH₃COO⁻(aq) + H₂O(l)$$
     This prevents the pH from rising significantly.
 
 In both cases, the buffer system consumes the added strong acid or base, thus keeping the overall pH of the solution relatively stable.
@@ -174,10 +218,9 @@ Ascorbic acid, commonly known as **Vitamin C**, is an essential nutrient and pow
 *   **Monosaccharides:** These are the simplest form of carbohydrates, often called "simple sugars." They are the fundamental building blocks (monomers) for more complex carbohydrates. Examples include glucose, fructose, and galactose.
 *   **Polysaccharides:** These are large, complex carbohydrates made up of many monosaccharide units linked together in long chains. They are polymers. Examples include starch, cellulose, and glycogen.
 
-**Difference between the basic structures of Starch and Cellulose:**
-Both starch and cellulose are polymers of glucose. The key difference lies in the type of glycosidic bond that links the glucose units together:
-*   **Starch:** The glucose units in starch are linked by **alpha (α)-1,4 glycosidic bonds**. These bonds create a helical or coiled structure. Humans have enzymes that can break these alpha bonds, making starch digestible.
-*   **Cellulose:** The glucose units in cellulose are linked by **beta (β)-1,4 glycosidic bonds**. These bonds result in long, straight, fibrous chains. Humans lack the enzymes to break these beta bonds, which is why cellulose is indigestible (dietary fiber).
+| Starch                                                                                                                                                                                                          | Cellulose                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| The glucose units in starch are linked by **alpha (α)-1,4 glycosidic bonds**. These bonds create a helical or coiled structure. Humans have enzymes that can break these alpha bonds, making starch digestible. | The glucose units in cellulose are linked by **beta (β)-1,4 glycosidic bonds**. These bonds result in long, straight, fibrous chains. Humans lack the enzymes to break these beta bonds, which is why cellulose is indigestible (dietary fiber). |
 
 ---
 
@@ -238,7 +281,13 @@ The primary threat to the ozone layer comes from man-made chemicals, especially 
 2.  **Avoiding ODS Products:** Avoiding the use of products that contain CFCs or other ODS, such as old aerosol spray cans, refrigerators, and air conditioning units. Opting for "CFC-free" or "ozone-friendly" alternatives.
 3.  **Proper Disposal:** Ensuring that old appliances containing refrigerants are disposed of responsibly by certified technicians to prevent the release of ODS into the atmosphere.
 4.  **Reducing Vehicle Emissions:** Minimizing the use of private vehicles, as they can produce nitrous oxide, another ozone-depleting substance.
-
+```mermaid
+flowchart TD
+    O[Protect Ozone Layer] --> P[Follow Montreal Protocol<br>• Phase out CFCs]
+    O --> A[Avoid ODS Products<br>• CFC-free alternatives]
+    O --> D[Proper Disposal<br>• Certified technicians]
+    O --> R[Reduce Emissions<br>• Limit vehicle use]
+```
 ---
 
 **(c) What are the advantages of natural gas as a fuel?** (2 Marks)
@@ -250,7 +299,14 @@ Natural gas (primarily methane, CH₄) has several advantages as a fuel compared
 3.  **Abundant and Relatively Inexpensive:** Natural gas reserves are found worldwide, making it a widely available and often more affordable fuel source.
 4.  **Versatility:** It can be used for a wide range of applications, including generating electricity, heating homes and water, cooking, and as a fuel for vehicles (as CNG).
 5.  **Infrastructure in Place:** In many countries, an extensive pipeline network already exists for its distribution.
-
+```mermaid
+flowchart LR
+    NG[Natural Gas Advantages] --> CB[Cleaner Burning<br>• Lower CO₂ vs coal<br>• No SO₂/particulates]
+    NG --> HE[High Efficiency<br>• Power generation<br>• Industrial processes]
+    NG --> AI[Abundant & Inexpensive<br>• Global reserves<br>• Cost-effective]
+    NG --> V[Versatility<br>• Electricity<br>• Heating<br>• CNG vehicles]
+    NG --> I[Existing Infrastructure<br>• Pipeline networks<br>• Wide distribution]
+```
 ---
 
 ### **Question 6**
@@ -266,7 +322,13 @@ Based on the position of the **centromere** (the constricted region that joins t
 2.  **Sub-metacentric:** The centromere is located slightly away from the center, resulting in one shorter arm (p arm) and one longer arm (q arm). It appears L-shaped during anaphase.
 3.  **Acrocentric:** The centromere is located very close to one end, creating one very short arm and one very long arm. It appears J-shaped during anaphase.
 4.  **Telocentric:** The centromere is located at the terminal end of the chromosome. This results in only one arm. Telocentric chromosomes are not found in humans.
-
+```mermaid
+flowchart TD
+    C[Chromosome Types by Centromere Position] --> M[Metacentric<br>• Centromere in middle<br>• Equal arm lengths<br>• V-shaped in anaphase]
+    C --> S[Sub-metacentric<br>• Off-center centromere<br>• Short p arm + long q arm<br>• L-shaped in anaphase]
+    C --> A[Acrocentric<br>• Near-end centromere<br>• Very short + very long arms<br>• J-shaped in anaphase]
+    C --> T[Telocentric<br>• Terminal centromere<br>• Single arm only<br>• Not in humans]
+```
 ---
 
 **(b) What is gene therapy? Discuss the genetic diseases Huntington's and Down syndrome.** (2.5 Marks)
@@ -279,7 +341,12 @@ Based on the position of the **centromere** (the constricted region that joins t
 1.  **Huntington's Disease:** This is a fatal, inherited neurodegenerative disorder caused by a mutation in a single gene (the HTT gene). It is an autosomal dominant disorder, meaning a person only needs one copy of the defective gene to develop the disease. It causes the progressive breakdown of nerve cells in the brain, leading to uncontrolled movements (chorea), cognitive decline, and psychiatric problems, typically starting in adulthood.
 
 2.  **Down Syndrome (Trisomy 21):** This is a chromosomal condition, not a single-gene disorder. It is caused by the presence of a full or partial extra copy of chromosome 21. This extra genetic material alters the course of development and causes the characteristics associated with the syndrome, which include distinct facial features, intellectual disability of varying degrees, and a higher risk of certain health problems like heart defects and thyroid issues.
-
+```mermaid
+flowchart TD
+    %% Genetic Diseases Classification
+    GD["Genetic Diseases"] --> HD["Huntington's Disease<br>• Autosomal dominant<br>• HTT gene mutation<br>• Neurodegenerative<br>• Symptoms: Chorea, cognitive decline"]
+    GD --> DS["Down Syndrome<br>• Trisomy 21 (extra chromosome 21)<br>• Developmental effects<br>• Symptoms: Distinct facial features, intellectual disability"]
+```
 ---
 
 **(c) What is nanotechnology? Write the uses of nanotechnology in agriculture.** (2.5 Marks)
@@ -293,7 +360,14 @@ Based on the position of the **centromere** (the constricted region that joins t
 3.  **Soil and Water Remediation:** Nanomaterials can be used to detect and remove contaminants (like heavy metals and pesticides) from soil and water sources.
 4.  **Nanosensors:** Smart sensors can be developed to monitor soil conditions, plant health, and the presence of pathogens in real-time, allowing farmers to take precise and timely action.
 5.  **Food Packaging:** Nanotechnology is used to create "smart" packaging that can extend the shelf life of food, detect spoilage, and provide better protection against microbes.
-
+```mermaid
+flowchart LR
+    NA["Nanotechnology in Agriculture"] --> EF["Enhanced Fertilizers/Pesticides<br>• Nano-fertilizers & nano-pesticides<br>• Targeted chemical release<br>• Reduced environmental impact"]
+    NA --> CI["Crop Improvement<br>• Nanoparticle gene delivery<br>• Improved yields & resistance<br>• Disease/drought tolerance"]
+    NA --> SR["Soil/Water Remediation<br>• Nanomaterial contaminant removal<br>• Heavy metal/pesticide detection"]
+    NA --> NS["Nanosensors<br>• Real-time soil/plant monitoring<br>• Pathogen detection<br>• Precision farming"]
+    NA --> FP["Food Packaging<br>• Smart packaging solutions<br>• Shelf-life extension<br>• Spoilage detection"]
+```
 ---
 
 ### **Question 7**
@@ -309,7 +383,7 @@ Polymers are formed from monomers through two main types of polymerization react
     *   **Example:** Ethene monomers (CH₂=CH₂) polymerize to form poly(ethene) or polythene (-[CH₂-CH₂]n-).
 
 2.  **Condensation Polymerization:** In this process, two monomers react to form a larger structural unit while releasing a smaller molecule such as water (H₂O), ammonia (NH₃), or methanol (CH₃OH). This process continues, linking monomers to form a long polymer chain.
-    *   **Example:** The formation of Nylon from the reaction of a dicarboxylic acid and a diamine, with the elimination of a water molecule at each step.
+    *   **Example:** The formation of <font color="#ffff00">Nylon</font> from the reaction of a dicarboxylic acid and a diamine, with the elimination of a water molecule at each step.
 
 ---
 
@@ -331,7 +405,7 @@ Polymers are formed from monomers through two main types of polymerization react
 **(c) What is polythene? Discuss how polythene and plastics pollute agricultural land.** (2.5 Marks)
 
 **Answer:**
-**Polythene**, also known as polyethylene, is a thermoplastic polymer made from the polymerization of ethene monomers. It is one of the most widely produced plastics in the world, known for its flexibility, durability, and resistance to chemicals.
+**Polythene**, also known as polyethylene, is a thermoplastic polymer made from the polymerization of <font color="#ffff00">ethene monomers</font>. It is one of the most widely produced plastics in the world, known for its flexibility, durability, and resistance to chemicals.
 
 Polythene and other plastics cause severe pollution of agricultural land in several ways:
 1.  **Physical Barrier:** When plastic bags and sheets accumulate in the soil, they create an impermeable layer that prevents water from seeping into the ground, hindering water absorption by plant roots and depleting groundwater.
@@ -351,7 +425,12 @@ Three key parameters for water purity are:
 1.  **pH Level:** A measure of the acidity or alkalinity of the water. For drinking water, the ideal pH is neutral, typically between 6.5 and 8.5.
 2.  **Total Dissolved Solids (TDS):** The total concentration of all inorganic and organic substances dissolved in the water. Low TDS is generally preferred for drinking water.
 3.  **Microbiological Contamination:** The presence of harmful microorganisms like bacteria (e.g., *E. coli*), viruses, and protozoa. Pure water should be free from these pathogens.
-
+```mermaid
+flowchart TD
+    WP["Water Purity Parameters"] --> PH["pH Level<br>• Measures acidity/alkalinity<br>• Ideal range: 6.5–8.5"]
+    WP --> TDS["Total Dissolved Solids (TDS)<br>• All dissolved substances<br>• Low TDS preferred"]
+    WP --> MC["Microbiological Contamination<br>• Harmful pathogens<br>• E. coli, viruses, protozoa<br>• Must be absent"]
+```
 ---
 
 **(b) Write the importance of dissolved oxygen in water.** (1.5 Marks)
@@ -361,7 +440,12 @@ Dissolved oxygen (DO) is the amount of gaseous oxygen dissolved in water. Its im
 1.  **Respiration for Aquatic Organisms:** Fish, invertebrates, and most aerobic aquatic organisms rely on DO for respiration, just as land animals rely on oxygen from the air.
 2.  **Indicator of Water Quality:** Low levels of DO (hypoxia) indicate pollution, often from organic waste or fertilizer runoff, which leads to eutrophication. Healthy water bodies have high DO levels.
 3.  **Decomposition of Organic Matter:** Aerobic bacteria use DO to break down organic waste. In the absence of DO, anaerobic decomposition occurs, producing foul-smelling and toxic byproducts.
-
+```mermaid
+flowchart TD
+    DO["Dissolved Oxygen (DO)"] --> R["Respiration for Aquatic Organisms<br>• Essential for fish & aerobic species<br>• Analogous to atmospheric oxygen"]
+    DO --> WQ["Indicator of Water Quality<br>• Low DO = pollution (hypoxia)<br>• High DO = healthy ecosystem<br>• Eutrophication risk"]
+    DO --> D["Decomposition of Organic Matter<br>• Aerobic bacteria require DO<br>• Anaerobic → toxic byproducts<br>• Foul odors from lack of DO"]
+```
 ---
 
 **(c) Discuss different methods of water purification.** (2.5 Marks)
@@ -376,12 +460,28 @@ Water purification is the process of removing undesirable chemicals, biological 
 
 2.  **Chemical Methods:**
     *   **Chlorination:** Adding chlorine or chlorine compounds to water to kill bacteria and other microbes. It is a widely used method for municipal water supplies.
-    *   **Coagulation and Flocculation:** Adding chemicals like alum that cause small suspended particles to clump together (flocculate) into larger particles, which can then be easily removed by sedimentation and filtration.
+    *   **Coagulation and Flocculation:** Adding chemicals like <font color="#ffff00">alum</font> that cause small suspended particles to clump together (flocculate) into larger particles, which can then be easily removed by sedimentation and filtration.
 
 3.  **Advanced Methods:**
     *   **Reverse Osmosis (RO):** Using high pressure to force water through a semi-permeable membrane that blocks dissolved salts, contaminants, and microorganisms.
     *   **UV (Ultraviolet) Sterilization:** Exposing water to UV light, which damages the DNA of microorganisms and prevents them from reproducing, effectively disinfecting the water without adding chemicals.
 
+```mermaid
+flowchart LR
+    WP["Water Purification Methods"] --> P["Physical Methods<br>• Boiling: Kills pathogens<br>• Filtration: Removes particles<br>• Distillation: Steam purification"]
+    WP --> C["Chemical Methods<br>• Chlorination: Kills microbes<br>• Coagulation: Clumps impurities"]
+    WP --> A["Advanced Methods<br>• Reverse Osmosis: Membrane filtration<br>• UV Sterilization: Light disinfection"]
+
+    P --> B["Boiling<br>• Simple household method<br>• Effective against microbes"]
+    P --> F["Filtration<br>• Cloth to carbon filters<br>• Removes particles/chemicals"]
+    P --> D["Distillation<br>• Steam condensation<br>• Leaves impurities behind"]
+
+    C --> Ch["Chlorination<br>• Municipal water standard<br>• Uses chlorine compounds"]
+    C --> Cf["Coagulation-Flocculation<br>• Alum additives<br>• Forms removable clumps"]
+
+    A --> RO["Reverse Osmosis<br>• High-pressure membrane<br>• Blocks salts/microbes"]
+    A --> UV["UV Sterilization<br>• DNA-damaging light<br>• Chemical-free disinfection"]
+```
 ---
 
 **(d) What should you do as a citizen to prevent water pollution?** (2 Marks)
