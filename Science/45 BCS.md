@@ -493,11 +493,14 @@ As a responsible citizen, I can take the following actions to prevent water poll
 3.  **Conserve Water:** Using less water reduces the volume of wastewater that needs to be treated.
 4.  **Prevent Runoff:** Use barrels to collect rainwater for gardening. Avoid washing cars on driveways where soapy water runs directly into storm drains; use a commercial car wash that treats its wastewater.
 5.  **Community Involvement:** Participate in or organize local clean-up drives for rivers, lakes, and beaches. Raise awareness among friends, family, and the community about the importance of clean water.
-
-***
-
-Of course. Here is the translation of the questions and their detailed answers in English, tailored to the marks allocated for each.
-
+```mermaid
+flowchart LR
+    A["Responsible Citizen Actions"] --> B["Proper Waste Disposal<br>• No trash/chemicals in drains<br>• Follow hazardous waste rules"]
+    A --> C["Reduce Chemical Use<br>• Biodegradable soaps<br>• Natural pesticides"]
+    A --> D["Conserve Water<br>• Reduce wastewater volume<br>• Fix leaks promptly"]
+    A --> E["Prevent Runoff<br>• Rainwater collection<br>• Avoid driveway car washes"]
+    A --> F["Community Involvement<br>• Organize clean-ups<br>• Raise awareness"]
+```
 ***
 
 ### **Technology Section**
@@ -533,6 +536,7 @@ Control Flow <------>| Control   | |  ALU   |<------> Data Flow
 +-------+      +-------------------------------+      +--------+
 ```
 
+
 **Description of Units:**
 1.  **Input Unit:** This unit accepts data and instructions from the user or another computer system. Examples of input devices include keyboards, mice, scanners, and microphones.
 2.  **Central Processing Unit (CPU):** Known as the "brain" of the computer, the CPU processes the instructions. It has two main components:
@@ -542,7 +546,19 @@ Control Flow <------>| Control   | |  ALU   |<------> Data Flow
     *   **Primary Memory (Main Memory):** e.g., RAM. It is volatile and holds data that the CPU is currently working on.
     *   **Secondary Memory (Storage):** e.g., HDD, SSD. It is non-volatile and stores data and programs permanently.
 4.  **Output Unit:** This unit presents the processed data (information) to the user. Examples of output devices include monitors, printers, and speakers.
+```mermaid
+flowchart LR
+    C["Computer System Units"] --> I["Input Unit<br>• Accepts user data/instructions<br>• Devices: Keyboard, Mouse, Scanner"]
+    C --> CPU["Central Processing Unit (CPU)<br>• ALU: Arithmetic/Logic operations<br>• CU: Fetches/decodes instructions"]
+    C --> M["Memory Unit<br>• Primary (RAM): Volatile<br>• Secondary (HDD/SSD): Permanent"]
+    C --> O["Output Unit<br>• Presents processed data<br>• Devices: Monitor, Printer, Speaker"]
 
+    CPU --> ALU["Arithmetic Logic Unit<br>• Performs calculations<br>• Handles logical operations"]
+    CPU --> CU["Control Unit<br>• Coordinates operations<br>• Manages instruction cycle"]
+
+    M --> PM["Primary Memory<br>• Temporary storage<br>• Fast access (RAM)"]
+    M --> SM["Secondary Memory<br>• Permanent storage<br>• HDDs/SSDs"]
+```
 ---
 
 **(b) What are Volatile and Non-volatile memory? Give examples.** (2.5 Marks)
@@ -587,7 +603,19 @@ This is a type of computer memory that can retain stored information even when n
 
 **Example:**
 **CoolWebSearch** is a well-known example of spyware that hijacks web browsers, changes the home page, and redirects searches to its own affiliated sites. Another example is **FinFisher (FinSpy)**, a high-end surveillance tool sold to governments.
+```mermaid
+flowchart LR
+    S["Spyware"] --> F["Functions"]
+    S --> E["Examples"]
 
+    F --> M["Monitoring Activity<br>• Tracks browsing habits<br>• Records search history"]
+    F --> K["Keystroke Logging<br>• Captures passwords<br>• Steals credit card info"]
+    F --> D["Data Theft<br>• Scans personal files<br>• Exfiltrates documents"]
+    F --> C["System Modification<br>• Changes browser settings<br>• Slows performance"]
+
+    E --> CW["CoolWebSearch<br>• Browser hijacker<br>• Redirects searches"]
+    E --> FF["FinFisher/FinSpy<br>• Government surveillance<br>• Advanced spying"]
+```
 ---
 
 ### **Question 3**
@@ -634,7 +662,18 @@ The factors are typically categorized as:
 2.  **Bootstrap Loader:** After a successful POST, the BIOS locates the operating system. It looks for a bootable device (like a hard drive or SSD) in a pre-determined order, finds the Master Boot Record (MBR) or bootloader, and loads the operating system into the main memory (RAM).
 3.  **Hardware Initialization and Configuration:** The BIOS identifies and configures system hardware. It also provides a basic set of drivers that allow the operating system to communicate with the hardware before more advanced, OS-specific drivers are loaded.
 4.  **System Setup Utility:** The BIOS provides a user-accessible interface (often called CMOS setup) where users can configure hardware settings, set the system clock, and define the boot order.
+```mermaid
+flowchart TD
+    BIOS["BIOS Functions"] --> POST["POST (Power-On Self-Test)<br>• Checks core hardware components<br>• Reports errors via beep codes"]
+    BIOS --> BL["Bootstrap Loader<br>• Locates OS on bootable devices<br>• Loads MBR/bootloader into RAM"]
+    BIOS --> HW["Hardware Initialization<br>• Configures system hardware<br>• Provides basic device drivers"]
+    BIOS --> SU["System Setup Utility<br>• CMOS setup interface<br>• Configure clock/boot order"]
 
+    POST --> C["Checks:<br>- CPU<br>- Memory<br>- Keyboard<br>- Storage"]
+    BL --> D["Boot Order:<br>1. HDD/SSD<br>2. USB<br>3. Network"]
+    HW --> P["Pre-OS drivers for:<br>- Display<br>- Storage<br>- Input"]
+    SU --> S["Settings:<br>- Date/Time<br>- Boot priority<br>- Hardware params"]
+```
 ---
 
 **(b) What is the main function of a computer's ALU?** (2.5 Marks)
@@ -681,7 +720,16 @@ A **Primary Key** is a special relational database table column (or combination 
 1.  **Unique Identification:** The most important function of a primary key is to provide a unique identifier for every row in a table. This ensures that no two records are identical, which is fundamental to maintaining data integrity and preventing duplicate entries.
 2.  **Fast Data Retrieval:** Database systems create a unique index for the primary key column. This index allows the database to locate and retrieve specific records much faster, significantly improving query performance.
 3.  **Establishing Relationships:** The primary key is essential for creating relationships between tables. The primary key of one table can be used as a **Foreign Key** in another table to link the two tables together. This relational structure is the foundation of relational databases, allowing for complex data organization and querying.
+```mermaid
+flowchart TD
+    PK["Primary Key Functions"] --> UI["Unique Identification<br>• Ensures no duplicate rows<br>• Mandatory for data integrity"]
+    PK --> FR["Fast Data Retrieval<br>• Automatic unique index<br>• Optimizes query performance"]
+    PK --> ER["Establishing Relationships<br>• Basis for foreign keys<br>• Enables table joins"]
 
+    UI --> E1["Example: EmployeeID<br>1234 ≠ 1235"]
+    FR --> E2["Example: Instant lookup<br>of CustomerID 789"]
+    ER --> E3["Example: Orders table<br>references Customers.PK"]
+```
 In summary, a primary key enforces entity integrity, speeds up data access, and enables the linking of data across the database, making it a cornerstone of database design.
 
 ---
@@ -713,6 +761,7 @@ The operation of a transformer is based on the principle of **mutual induction**
            +----------------------------+
 ```
 
+![[Pasted image 20250801204430.png]]
 *   If the number of turns in the secondary coil (Ns) is greater than the primary (Np), the transformer is a **step-up transformer** (Vs > Vp).
 *   If Ns is less than Np, it is a **step-down transformer** (Vs < Vp).
 The relationship is given by the formula: `Vp / Vs = Np / Ns`.
@@ -729,6 +778,20 @@ An NPN transistor is generally preferred over a PNP transistor for use in high-f
 2.  **Mobility:** Electrons are physically smaller and lighter than holes and can move through the semiconductor crystal lattice much more easily and quickly. This property is known as higher **mobility**. The mobility of electrons is roughly two to three times that of holes in silicon.
 3.  **Switching Speed:** Because electrons can move faster, an NPN transistor can switch on and off more rapidly than a PNP transistor. This fast switching speed is essential for amplifying or processing signals that change direction very quickly, i.e., high-frequency signals.
 4.  **Frequency Response:** The superior switching speed gives NPN transistors a better frequency response, allowing them to operate effectively at higher frequencies with less signal degradation or delay. This makes them the standard choice for applications like radio frequency (RF) amplifiers and high-speed logic circuits.
+
+```mermaid
+flowchart TD
+    NPN["NPN Transistor Advantage"] --> CC["Charge Carriers<br>• Electrons (NPN)<br>• Holes (PNP)"]
+    NPN --> M["Mobility<br>• Electrons: 2-3x faster<br>• Smaller/lighter than holes"]
+    NPN --> S["Switching Speed<br>• Faster electron movement<br>• Quick ON/OFF transitions"]
+    NPN --> FR["Frequency Response<br>• Better high-frequency performance<br>• Less signal delay"]
+
+    CC --> C1["NPN: Electron flow<br>PNP: Hole flow"]
+    M --> M1["Silicon:<br>μₙ ≈ 1500 cm²/Vs<br>μₚ ≈ 500 cm²/Vs"]
+    S --> S1["RF amplifiers<br>High-speed logic"]
+    FR --> F1["Minimized phase distortion<br>Wider bandwidth"]
+```
+
 
 ---
 
@@ -768,6 +831,19 @@ A **circuit breaker** is an automatic electrical switch designed to protect an e
     *   **Function:** Used for protecting large-scale industrial plants and power distribution networks with very high currents (up to 10,000 A) and low voltage.
     *   **Operation:** It uses air at atmospheric pressure as the medium to extinguish the electrical arc that forms when the circuit is interrupted.
 
+```mermaid
+flowchart LR
+    CB["Circuit Breaker Types"] --> MCB["MCB<br>• Low-voltage protection<br>• Thermal-magnetic trip<br>• Homes/offices"]
+    CB --> MCCB["MCCB<br>• Higher current (≤2500A)<br>• Adjustable trips<br>• Industrial use"]
+    CB --> RCCB["RCCB/ELCB<br>• Earth leakage protection<br>• Current imbalance detection<br>• Shock prevention"]
+    CB --> ACB["ACB<br>• Very high current (≤10kA)<br>• Air arc extinguishing<br>• Power plants"]
+
+    MCB --> M1["Bimetallic (overload)<br>+ Electromagnet (short)"]
+    MCCB --> M2["Robust version of MCB<br>with customization"]
+    RCCB --> R1["Trips at 30mA leakage<br>(human safety)"]
+    ACB --> A1["No oil/gas needed<br>for arc quenching"]
+```
+
 ---
 
 ### **Question 8**
@@ -797,33 +873,57 @@ A Wheatstone bridge is a circuit used to measure an unknown electrical resistanc
 **Diagram:**
 A standard Wheatstone bridge diagram with junctions A, B, C, D. Resistor P between A and B, Q between B and C, R between A and D, and S between D and C. A galvanometer G is connected between B and D. A voltage source is connected between A and C.
 
-**Derivation:**
-The bridge is said to be **balanced** when no current flows through the galvanometer, i.e., the current `Ig = 0`. This means the potential at point B is equal to the potential at point D (`V_B = V_D`).
+Of course. Here is the derivation of the Wheatstone bridge principle using Kirchhoff's laws, complete with a diagram.
 
-Let the current flowing from the source be I. At junction A, it splits into `I₁` (through P) and `I₂` (through R).
-Applying **Kirchhoff's Current Law (KCL)** at junction B:
-`I₁ - Ig - I_Q = 0`
-Since `Ig = 0` at balance, `I₁ = I_Q`.
+---
 
-Applying KCL at junction D:
-`I₂ + Ig - I_S = 0`
-Since `Ig = 0` at balance, `I₂ = I_S`.
+### Derivation of the Wheatstone Bridge Principle
 
-Now, apply **Kirchhoff's Voltage Law (KVL)** to the closed loops:
-1.  **Loop ABDA:**
-    ` -I₁P - Ig*G + I₂R = 0`
-    At balance, `Ig = 0`, so the equation becomes:
-    `-I₁P + I₂R = 0`  =>  `I₁P = I₂R`  --- (Equation 1)
+The Wheatstone bridge is a circuit used to measure an unknown electrical resistance. Its principle is based on the condition of a 'balanced' bridge, where no current flows through the central path.
 
-2.  **Loop BCDB:**
-    `-I_Q*Q + I_S*S + Ig*G = 0`
-    At balance, `Ig = 0`, `I₁ = I_Q` and `I₂ = I_S`. The equation becomes:
-    `-I₁Q + I₂S = 0`  =>  `I₁Q = I₂S`  --- (Equation 2)
+**Principle:** When the bridge is balanced, the ratio of resistances in the two arms is equal. i.e., $\frac{R_1}{R_2} = \frac{R_3}{R_4}$.
 
-Now, divide Equation 1 by Equation 2:
-`(I₁P) / (I₁Q) = (I₂R) / (I₂S)`
+#### **Circuit Diagram**
 
-Canceling `I₁` and `I₂` from both sides, we get:
-**P / Q = R / S**
+Let's consider a Wheatstone bridge as shown below, consisting of four resistors $R_1, R_2, R_3,$ and $R_4$. A galvanometer (G) is connected between points B and D, and a voltage source (E) is connected between points A and C.
 
-This is the principle of a balanced Wheatstone bridge. If any three resistances are known, the fourth can be calculated.
+
+
+#### **Derivation using Kirchhoff's Laws**
+
+The bridge is said to be **balanced** when the galvanometer shows **zero deflection**. This implies that there is no current flowing through the galvanometer.
+Let the current through the galvanometer be $I_g$. The balanced condition is:
+$$ I_g = 0 $$
+This also means that the potential at point B is equal to the potential at point D, i.e., $V_B = V_D$.
+
+We will now apply Kirchhoff's Voltage Law (KVL) or the loop rule to the closed loops in the circuit.
+
+**1. Apply KVL to loop ABDA:**
+Traversing the loop ABDA in a clockwise direction, the sum of potential changes is zero:
+$$ -I_1 R_1 - I_g G + I_2 R_3 = 0 $$
+where G is the resistance of the galvanometer.
+
+**2. Apply KVL to loop BCDB:**
+Traversing the loop BCDB in a clockwise direction, the sum of potential changes is zero:
+$$ -(I_1 - I_g) R_2 + (I_2 + I_g) R_4 + I_g G = 0 $$
+
+**3. Apply the Balanced Condition ($I_g = 0$):**
+Now, we substitute the balanced condition, $I_g = 0$, into the two loop equations derived above.
+
+From the equation for loop ABDA:
+$$ -I_1 R_1 - (0)G + I_2 R_3 = 0 $$
+$$ \implies I_1 R_1 = I_2 R_3 \quad \cdots (1) $$
+
+From the equation for loop BCDB:
+$$ -(I_1 - 0)R_2 + (I_2 + 0)R_4 + (0)G = 0 $$
+$$ \implies -I_1 R_2 + I_2 R_4 = 0 $$
+$$ \implies I_1 R_2 = I_2 R_4 \quad \cdots (2) $$
+
+**4. Derive the Final Relation:**
+Now, we divide Equation (1) by Equation (2):
+$$ \frac{I_1 R_1}{I_1 R_2} = \frac{I_2 R_3}{I_2 R_4} $$
+
+Since $I_1 \neq 0$ and $I_2 \neq 0$, we can cancel the currents from both sides:
+$$ \frac{R_1}{R_2} = \frac{R_3}{R_4} $$
+
+This is the required condition for a balanced Wheatstone bridge. If any three of the resistances are known, the fourth unknown resistance can be determined using this formula.

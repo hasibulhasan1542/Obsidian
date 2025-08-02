@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers in English for the questions from the provided exam paper (Pages 4 and 5 of 12).
-
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**

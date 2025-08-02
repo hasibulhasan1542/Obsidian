@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers in English for the questions from the provided exam paper.
-
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**
@@ -35,13 +32,20 @@ Dissolved oxygen (DO) is the amount of gaseous oxygen dissolved in water. Its im
 **(c) Mention the characteristics of organic polymers.** (2.5 Marks)
 
 **Answer:**
-Organic polymers are large molecules (macromolecules) composed of many repeating structural units known as monomers, with a backbone primarily made of carbon atoms. Their key characteristics include:
-*   **Low Density and High Strength-to-Weight Ratio:** Most polymers are lightweight yet can be very strong and durable.
-*   **Versatility and Formability:** They can be easily molded, extruded, or cast into a wide variety of shapes and forms, from fine fibers to solid parts.
-*   **Insulating Properties:** They are generally excellent electrical and thermal insulators.
-*   **Corrosion Resistance:** Unlike metals, polymers are highly resistant to chemical corrosion and rust.
-*   **Variability in Properties:** Their properties (e.g., flexibility, rigidity, transparency) can be tailored by selecting different monomers and manufacturing processes.
-*   **Low Biodegradability:** Many synthetic polymers, like plastics, are not biodegradable and persist in the environment for a very long time.
+
+Organic polymers are large molecules (macromolecules) composed of repeating structural units (monomers) linked together. Their primary characteristics include:
+
+1.  **High Molecular Weight and Macromolecular Structure:** Polymers consist of long chains of thousands or even millions of monomer units, giving them very high molecular weights. This large size is fundamental to their unique properties.
+
+2.  **Low Density and High Strength-to-Weight Ratio:** Most polymers are lightweight materials with low density compared to metals and ceramics. Despite this, many engineered polymers possess considerable strength, resulting in an excellent strength-to-weight ratio.
+
+3.  **Thermal and Electrical Insulation:** Polymers are generally poor conductors of both heat and electricity. This makes them excellent insulators, widely used for electrical wire coatings, handles for cookware, and building insulation.
+
+4.  **Chemical Inertness and Corrosion Resistance:** Many polymers are resistant to a wide range of chemicals, including acids, bases, and salts. They do not corrode like metals, making them ideal for packaging, pipes, and protective coatings.
+
+5.  **Versatility and Ease of Processing:** Polymers can be easily molded, extruded, or cast into complex shapes with relative ease and low energy consumption. They are broadly classified as:
+    *   **Thermoplastics:** Soften on heating and can be remolded multiple times (e.g., Polyethylene, PVC).
+    *   **Thermosets:** Set into a permanent shape during polymerization and do not soften on reheating (e.g., Bakelite, Epoxy resins).
 
 ---
 
@@ -50,7 +54,7 @@ Organic polymers are large molecules (macromolecules) composed of many repeating
 **(a) Define: LPG & CNG.** (1 Mark)
 
 **Answer:**
-*   **LPG (Liquefied Petroleum Gas):** A mixture of flammable hydrocarbon gases, primarily propane and butane, which is compressed and stored as a liquid for use as fuel.
+*   **LPG (Liquefied Petroleum Gas):** A mixture of flammable hydrocarbon gases, primarily <font color="#ffff00">propane</font> and <font color="#ffff00">butane</font>, which is compressed and stored as a liquid for use as fuel.
 *   **CNG (Compressed Natural Gas):** Natural gas (mainly methane) that is stored at high pressure (but remains in a gaseous state) to be used as a cleaner alternative fuel for vehicles.
 
 ---
@@ -71,6 +75,19 @@ Gene cloning is a foundational technology with significant importance in both me
     2.  **Vaccine Development:** It is used to produce subunit vaccines, which are safer as they contain only a specific protein from the pathogen (e.g., Hepatitis B vaccine).
     3.  **Gene Therapy:** It is a critical tool for research into gene therapy, which aims to correct genetic disorders by replacing faulty genes.
     4.  **Disease Diagnosis:** Cloned genes can be used as probes to detect the presence of specific DNA sequences for diagnosing genetic diseases or infections.
+
+```mermaid
+flowchart TD
+    GC["Gene Cloning in Medicine"] --> PT["Production of Therapeutics<br>• Insulin for diabetes<br>• Human growth hormone<br>• Blood-clotting factors"]
+    GC --> VD["Vaccine Development<br>• Subunit vaccines (safer)<br>• Hepatitis B vaccine<br>• Pathogen-specific proteins"]
+    GC --> GT["Gene Therapy Research<br>• Correcting genetic disorders<br>• Replacing faulty genes<br>• CRISPR applications"]
+    GC --> DD["Disease Diagnosis<br>• DNA probes for detection<br>• Genetic disease screening<br>• Infection diagnostics"]
+
+    PT --> P1["Example: Recombinant insulin"]
+    VD --> V1["Example: HPV vaccine"]
+    GT --> G1["Example: Cystic fibrosis trials"]
+    DD --> D1["Example: HIV PCR tests"]
+```
 
 *   **In Agriculture:**
     1.  **Crop Improvement (GMOs):** Gene cloning is used to create Genetically Modified Organisms (GMOs) with desirable traits. This includes developing crops that are resistant to pests (e.g., Bt cotton), tolerant to herbicides, or resistant to drought and disease.
@@ -93,18 +110,18 @@ Monkeypox is a viral zoonotic disease (transmitted from animals to humans) cause
 **(a) Oxidation and reduction occur simultaneously. - Explain with an example.** (3.5 Marks)
 
 **Answer:**
-This statement is the fundamental principle of redox (reduction-oxidation) reactions. Oxidation is the loss of electrons, and reduction is the gain of electrons. These two processes are coupled and cannot happen independently; if one substance loses electrons, another substance must gain them. The substance that is oxidized is called the **reducing agent**, and the substance that is reduced is called the **oxidizing agent**.
+This statement is the fundamental principle of redox (reduction-oxidation) reactions. <font color="#ffff00">Oxidation is the loss of electrons, and reduction is the gain of electrons</font>. These two processes are coupled and cannot happen independently; if one substance loses electrons, another substance must gain them. The substance that is oxidized is called the **reducing agent**, and the substance that is reduced is called the **oxidizing agent**.
 
 **Example: Reaction of Zinc with Copper Sulfate**
-`Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)`
+$$Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)$$
 
 In this reaction:
 1.  **Oxidation:** Solid zinc (Zn) loses two electrons to become a zinc ion (Zn²⁺).
-    *   Half-reaction: `Zn → Zn²⁺ + 2e⁻`
+    *   Half-reaction: $Zn → Zn²⁺ + 2e⁻$
     *   Since zinc loses electrons, it is **oxidized**. It acts as the **reducing agent**.
 
 2.  **Reduction:** The copper ion (Cu²⁺) in the copper sulfate solution gains two electrons to become solid copper (Cu).
-    *   Half-reaction: `Cu²⁺ + 2e⁻ → Cu`
+    *   Half-reaction: $Cu²⁺ + 2e⁻ → Cu$
     *   Since the copper ion gains electrons, it is **reduced**. It acts as the **oxidizing agent**.
 
 This example clearly shows that the oxidation of zinc and the reduction of copper ions happen at the same time in a single reaction.
@@ -117,8 +134,8 @@ This example clearly shows that the oxidation of zinc and the reduction of coppe
 An indicator changes color because it is a complex organic dye that behaves as a weak acid or a weak base. In its molecular (undissociated) form and its ionic (dissociated) form, the indicator has two different colors.
 
 Let's consider a weak acid indicator, HIn. In solution, it establishes an equilibrium:
-`HIn(aq) ⇌ H⁺(aq) + In⁻(aq)`
-(Color A)         (Color B)
+$$HIn(aq) ⇌ H⁺(aq) + In⁻(aq)$$
+<center>(Color A)         (Color B)</center>
 
 According to Le Châtelier's principle, the position of this equilibrium is sensitive to the concentration of H⁺ ions (i.e., the pH).
 *   **In an acidic solution:** There is a high concentration of H⁺ ions. The equilibrium shifts to the left, favoring the formation of the molecular form (HIn). The solution will show Color A.
@@ -130,12 +147,12 @@ According to Le Châtelier's principle, the position of this equilibrium is sens
 
 **Answer:**
 This statement highlights the distinction between the broad category of "bases" and the specific sub-category of "alkalis."
-*   **Base:** A base is a substance that can accept a proton (H⁺ ion) according to the Brønsted-Lowry definition, or a substance that can donate a pair of electrons according to the Lewis definition.
-*   **Alkali:** An alkali is a specific type of base that is **soluble in water** and produces hydroxide ions (OH⁻) when dissolved.
+*   **Base:** A base is a substance that can accept a proton (H⁺ ion) according to the <font color="#ffff00">Brønsted-Lowry</font> definition, or a substance that can donate a pair of electrons according to the Lewis definition.
+*   **Alkali:** An alkali is a specific type of base that is **soluble in water** and produces hydroxide ions ($OH⁻$) when dissolved.
 
 **Explanation:**
-*   **"All alkalis are bases":** This is true because any substance that dissolves in water to produce OH⁻ ions (an alkali, like NaOH) can also accept a proton, thus fitting the definition of a base.
-*   **"Not all bases are alkalis":** This is also true because many substances act as bases but are **insoluble in water**. For example, copper(II) oxide (CuO) is a base because it can react with and neutralize an acid (`CuO + 2HCl → CuCl₂ + H₂O`), but it is not an alkali because it does not dissolve in water. Therefore, the set of all bases includes the set of all alkalis, but it also includes many other insoluble bases.
+*   **"All alkalis are bases":** This is true because any substance that dissolves in water to produce $OH⁻$ ions (an alkali, like NaOH) can also accept a proton, thus fitting the definition of a base.
+*   **"Not all bases are alkalis":** This is also true because many substances act as bases but are **insoluble in water**. For example, copper(II) oxide ($CuO$) is a base because it can react with and neutralize an acid ($CuO + 2HCl → CuCl₂ + H₂O$), but it is not an alkali because it does not dissolve in water. Therefore, the set of all bases includes the set of all alkalis, but it also includes many other insoluble bases.
 
 ---
 
@@ -153,6 +170,7 @@ A magnetic domain is a microscopic region within a ferromagnetic material (like 
 **Answer:**
 A **hysteresis loop** is a graph that shows the relationship between the magnetic flux density (B) induced in a ferromagnetic material and the external magnetizing field (H) applied to it. The loop demonstrates that the magnetization of the material lags behind the magnetizing field.
 
+![[Pasted image 20250802080407.png]]
 The key features of the loop are:
 1.  **Magnetization:** As H increases from zero, B increases until it reaches a saturation point.
 2.  **Retentivity:** When H is reduced back to zero, B does not return to zero. The material retains some magnetism. This residual magnetism is called **retentivity**.
@@ -313,7 +331,7 @@ Alternatively, if you move the lens up and down, a convex lens will show objects
 **(c) Define total internal reflection. Write a short note on mirages.** (3.5 Marks)
 
 **Answer:**
-**Total Internal Reflection (TIR):** It is an optical phenomenon that occurs when a ray of light, traveling from a denser medium to a less dense medium, is completely reflected back into the denser medium. This only happens if the angle of incidence (the angle at which the light strikes the boundary) is greater than a specific value known as the **critical angle**.
+**Total Internal Reflection (TIR):** It is an optical phenomenon that occurs when a ray of light, traveling from a denser medium to a less dense medium, is completely reflected back into the denser medium. <font color="#ffff00">This only happens if the angle of incidence (the angle at which the light strikes the boundary) is greater than a specific value known as the critical angle.</font>
 
 **Short Note on Mirages:**
 A mirage is a naturally occurring optical illusion caused by the bending (refraction) of light rays as they pass through layers of air at different temperatures and densities. On a hot day, the air near the ground is much hotter and less dense than the cooler air above it. Light rays from a distant object (like the sky or a tree) traveling towards the ground are bent upwards as they enter the less dense hot air. An observer sees these bent rays and perceives them as coming from the ground, creating a shimmering, inverted image that looks like a reflection in a pool of water.
@@ -359,10 +377,6 @@ Red color is used for danger signals primarily because of its optical properties
 1.  **Longest Wavelength:** Red light has the longest wavelength of all the colors in the visible spectrum.
 2.  **Least Scattering:** According to Rayleigh's Law of Scattering, light with longer wavelengths is scattered the least by particles in the atmosphere (like fog, rain, dust, or smoke).
 Because it scatters less, red light can travel the farthest through the air and remain visible from a long distance, even in poor weather conditions. This makes it the most effective color for conveying critical information like "stop" or "danger" reliably.
-
-***
-
-Of course. Here are the detailed answers for the remaining questions from the provided exam paper (Page 5 of 12).
 
 ***
 
@@ -426,7 +440,9 @@ An Operating System (OS) is system software that acts as an intermediary between
 
 **Two popular operating systems are:**
 1.  Microsoft Windows
-2.  macOS (or Linux / Android)
+2.  macOS
+3.  Free BSD
+4.  Linux Kernel Based OS: Ubuntu, Arch, Fedora, RedHat
 
 ---
 
@@ -465,7 +481,7 @@ A DBMS is critical to the functioning of modern banks. It plays an effective rol
 
 **Answer:**
 **Bandwidth:**
-In computer networking, bandwidth refers to the **maximum data transfer capacity** of a network connection over a specific period. It represents the highest possible rate at which data can be sent through a network path. It is often compared to the width of a pipe: a wider pipe (higher bandwidth) can carry more water (data) at once. While bandwidth is the theoretical maximum, the actual data transfer rate is called **throughput**, which can be lower due to factors like network congestion and latency.
+In computer networking, bandwidth refers to the **maximum data transfer capacity** of a network connection over a specific period. It represents the highest possible rate at which data can be sent through a network path. It is often compared to the width of a pipe: a wider pipe (higher bandwidth) can carry more water (data) at once. While bandwidth is the theoretical maximum, the actual data transfer rate is called <font color="#ffff00">throughput</font>, which can be lower due to factors like network congestion and latency.
 
 **Unit of Bandwidth:**
 The fundamental unit of bandwidth is **bits per second (bps)**. Due to the high speeds of modern networks, larger units are commonly used:
@@ -598,3 +614,15 @@ The process of delivering electricity from a power plant to a consumer involves 
 2.  **Transmission:** To transport electricity efficiently over long distances, its voltage is increased to very high levels (e.g., 230,000 Volts) using a **step-up transformer**. Transmitting at high voltage and low current minimizes power loss (I²R loss) in the transmission lines. This high-voltage electricity is carried across the country by large transmission towers.
 
 3.  **Distribution:** Near towns and cities, a **step-down transformer** at a substation reduces the high voltage to a lower, safer level for local distribution. This power is then sent through smaller distribution lines. Finally, a pole-mounted or pad-mounted transformer near homes and businesses steps the voltage down again to the standard level used by consumers (e.g., 220V), completing the delivery process.
+
+```mermaid
+flowchart TD
+    EP["Electricity Delivery Process"] --> G["Generation<br>• Power plants (coal, nuclear, hydro, wind)<br>• Turbine spins generator<br>• Moderate voltage output"]
+    EP --> T["Transmission<br>• Step-up transformer (to ~230kV)<br>• High-voltage power lines<br>• Minimizes I²R losses"]
+    EP --> D["Distribution<br>• Step-down transformers<br>• Local power lines<br>• Final step-down to 220V/110V"]
+
+    G --> G1["Examples:<br>- Coal-fired plant<br>- Hydroelectric dam"]
+    T --> T1["Components:<br>- Transmission towers<br>- Insulators"]
+    D --> D1["End-use:<br>- Homes<br>- Businesses"]
+```
+
