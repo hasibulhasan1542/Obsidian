@@ -20,6 +20,21 @@ Noise pollution has significant harmful effects on human health and well-being, 
 *   **Psychological Effects:**
     *   **Stress and Anxiety:** Unwanted noise is a major environmental stressor, increasing irritability, anxiety, and stress levels.
     *   **Cognitive Impairment:** It can interfere with concentration, memory, and learning abilities, especially in children.
+```mermaid
+flowchart LR
+    NP["Noise Pollution Effects"] --> AE["Auditory Effects"]
+    NP --> PE["Physiological Effects"]
+    NP --> PS["Psychological Effects"]
+
+    AE --> HL["Hearing Loss<br>• Permanent damage<br>• Noise-Induced Hearing Loss"]
+    AE --> T["Tinnitus<br>• Ringing/buzzing in ears<br>• Often chronic"]
+
+    PE --> CV["Cardiovascular Issues<br>• Hypertension<br>• Increased heart disease risk"]
+    PE --> SD["Sleep Disturbances<br>• Fatigue<br>• Reduced performance"]
+
+    PS --> SA["Stress & Anxiety<br>• Environmental stressor<br>• Irritability"]
+    PS --> CI["Cognitive Impairment<br>• Reduced concentration<br>• Memory/learning issues"]
+```
 
 ---
 
@@ -45,6 +60,20 @@ Measures to control noise pollution from vehicles and loudspeakers include:
     2.  **Use of Directional Speakers:** Promote the use of speakers that direct sound towards the intended audience, minimizing sound spillage.
     3.  **Public Awareness:** Conduct campaigns to educate the public about the harmful effects of noise pollution.
 
+```mermaid
+flowchart LR
+    NC["Noise Control Measures"] --> V["Vehicle Noise Reduction"]
+    NC --> L["Loudspeaker Management"]
+
+    V --> R1["Strict Regulations<br>• Ban hydraulic horns<br>• Enforce decibel limits"]
+    V --> R2["Proper Maintenance<br>• Engine servicing<br>• Effective silencers"]
+    V --> R3["Promote EVs<br>• Quieter operation<br>• Reduced traffic noise"]
+    V --> R4["Silent Zones<br>• Near hospitals/schools<br>• No-horn policies"]
+
+    L --> S1["Time/Volume Rules<br>• Night-time restrictions<br>• Max volume limits"]
+    L --> S2["Directional Speakers<br>• Targeted sound<br>• Less spillage"]
+    L --> S3["Public Awareness<br>• Harm education<br>• Community campaigns"]
+```
 ---
 
 ### **Question 2**
@@ -58,6 +87,17 @@ Measures to control noise pollution from vehicles and loudspeakers include:
     *   **Argon (Ar):** 0.9%
     *   **Carbon Dioxide (CO₂):** ~0.04%
     *   **Trace Gases:** Small amounts of Neon, Helium, Methane, Krypton, and Hydrogen.
+
+```mermaid
+pie showData
+    title "Composition of Dry Air (by Volume)"
+    "Nitrogen (N₂)<br>78%" : 78
+    "Oxygen (O₂)<br>21%" : 21
+    "Argon (Ar)<br>0.9%" : 0.9
+    "Carbon Dioxide (CO₂)<br>0.04%" : 0.04
+    "Trace Gases<br>Neon, He, CH₄, etc." : 0.06
+```
+
 *   **Layering of the Atmosphere:** The atmosphere is divided into five main layers based on temperature changes:
     1.  **Troposphere:** The lowest layer, where weather occurs.
     2.  **Stratosphere:** Contains the ozone layer.
@@ -65,6 +105,14 @@ Measures to control noise pollution from vehicles and loudspeakers include:
     4.  **Thermosphere:** Characterized by very high temperatures.
     5.  **Exosphere:** The outermost layer, fading into space.
 
+```mermaid
+flowchart LR
+    TROP["Troposphere<br>• Weather layer<br>• 0-12 km"]
+    --> STRATO["Stratosphere<br>• Ozone layer<br>• 12-50 km"]
+    --> MESO["Mesosphere<br>• Meteor burns<br>• 50-85 km"]
+    --> THERMO["Thermosphere<br>• High temperature<br>• 85-600 km"]
+    --> EXO["Exosphere<br>• Space transition<br>• 600+ km"]
+```
 ---
 
 **(b) What is ozone gas? What harm does this gas do to the human body? (2.5 marks)**
@@ -210,12 +258,20 @@ Rubber and plastic disrupt the environmental balance in several significant ways
 
 **Answer:**
 *   **Light:** Light is a form of energy and a type of electromagnetic radiation that is visible to the human eye. It behaves as both a wave and a particle (a concept known as wave-particle duality).
-*   **Electromagnetic Theory of Light:** Proposed by James Clerk Maxwell in the 19th century, this theory states that light consists of oscillating electric and magnetic fields. Key points of the theory are:
+*   **Electromagnetic Theory of Light:** Proposed by James Clerk <font color="#ffff00">Maxwell</font> in the 19th century, this theory states that light consists of oscillating electric and magnetic fields. Key points of the theory are:
     *   The electric and magnetic fields vibrate perpendicular to each other and to the direction of the wave's propagation, making light a **transverse wave**.
     *   Light does not require a medium to travel and can propagate through a vacuum.
     *   The speed of light in a vacuum (c) is a universal constant, approximately 3 x 10⁸ m/s.
     This theory successfully unified electricity, magnetism, and optics.
 
+**Particle Theory of Light**
+The particle theory of light, also known as the quantum theory of light, posits that light is composed of a stream of discrete, massless particles or energy packets called **photons**.
+
+Key aspects of this theory are:
+
+1. **Quantized Energy:** Each photon carries a specific, discrete amount of energy (a quantum) which is directly proportional to the frequency of the light. This is described by the equation **E = hf**, where h is Planck's constant and f is the frequency.
+    
+2. **Photoelectric Effect:** This theory successfully explains the **photoelectric effect**, where light hitting a metal surface can eject electrons. This phenomenon could not be explained by the classical wave theory of light and provided strong evidence for the particle nature of light.
 ---
 
 **(b) Write the names of different electromagnetic waves in order of energy and wavelength. (2.5 marks)**
@@ -295,7 +351,7 @@ The primary difference between normal water (H₂O) and heavy water (D₂O) lies
 **(b) What is a hydrogen bond? Write the effect of hydrogen bonds on water and ice. (2.5 marks)**
 
 **Answer:**
-*   **Hydrogen Bond:** A hydrogen bond is a special type of electrostatic attraction between a hydrogen atom covalently bonded to a highly electronegative atom (like oxygen, nitrogen, or fluorine) and another nearby electronegative atom. It is stronger than a typical van der Waals interaction but weaker than a covalent bond.
+*   **Hydrogen Bond:** A hydrogen bond is a special type of <font color="#ffff00">electrostatic attraction</font> between a hydrogen atom covalently bonded to a highly electronegative atom (like oxygen, nitrogen, or fluorine) and another nearby electronegative atom. It is stronger than a typical van der Waals interaction but weaker than a covalent bond.
 *   **Effect on Water and Ice:**
     *   **In Liquid Water:** Hydrogen bonds are constantly forming and breaking, pulling the water molecules close together. This is responsible for many of water's unique properties, such as its high boiling point and high surface tension.
     *   **In Ice:** As water freezes, the hydrogen bonds lock the water molecules into a fixed, open hexagonal crystal lattice. This orderly arrangement forces the molecules farther apart than they are in the liquid state, making ice **less dense than liquid water**. This is why ice floats.
@@ -353,10 +409,6 @@ Dealing with the future crisis of pure water requires a multi-faceted and integr
 | **Side Effects** | Side effects are usually confined to the treated area (e.g., skin redness, fatigue). | Side effects can affect the whole body (e.g., nausea, hair loss, fatigue, increased risk of infection). |
 ***
 
-Of course. Here are the detailed answers for the remaining questions from the provided exam paper.
-
-***
-
 ### **Part B: Computer and Information Technology**
 **Total Marks: 25**
 **(Answer any ten questions)**
@@ -401,12 +453,12 @@ Of course. Here are the detailed answers for the remaining questions from the pr
 
 **Answer:**
 
-| Basis of Difference | Compiler | Interpreter |
-| :--- | :--- | :--- |
-| **Translation** | Translates the entire source code into machine code in one go, creating an executable file. | Translates and executes the source code line by line. |
-| **Object Code** | Generates an intermediate object code or executable file. | Does not generate any intermediate object code. |
-| **Execution Speed** | The compiled program runs faster because it is already translated into machine code. | The interpreted program runs slower because translation happens during execution. |
-| **Error Detection** | Displays all errors only after scanning the entire program. | Displays errors one by one for each line as it is encountered. |
+| Basis of Difference | Compiler                                                                                    | Interpreter                                                                       |
+| :------------------ | :------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------- |
+| **Translation**     | Translates the entire source code into machine code in one go, creating an executable file. | Translates and executes the source code line by line.                             |
+| **Object Code**     | Generates an intermediate object code or executable file.                                   | Does not generate any intermediate object code.                                   |
+| **Execution Speed** | The compiled program runs faster because it is already translated into machine code.        | The interpreted program runs slower because translation happens during execution. |
+| **Error Detection** | Displays all errors only after scanning the entire program.                                 | Displays errors one by one for each line as it is encountered.                    |
 
 ---
 
@@ -542,11 +594,11 @@ E-commerce technology has transformed our society by:
 **Answer:**
 **(i) Difference between AC voltage and DC voltage:**
 
-| Feature | AC (Alternating Current) Voltage | DC (Direct Current) Voltage |
-| :--- | :--- | :--- |
+| Feature               | AC (Alternating Current) Voltage                                             | DC (Direct Current) Voltage                                                |
+| :-------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
 | **Direction of Flow** | The polarity periodically reverses, causing the current to change direction. | The polarity is constant, and the current flows steadily in one direction. |
-| **Waveform** | Typically a sine wave. | A straight, constant line. |
-| **Source** | Generated by alternators (e.g., in power plants). | Produced by batteries, solar cells, and power adapters. |
+| **Waveform**          | Typically a sine wave.                                                       | A straight, constant line.                                                 |
+| **Source**            | Generated by alternators (e.g., in power plants).                            | Produced by batteries, solar cells, and power adapters.                    |
 
 **(ii) Difference between IPS and UPS:**
 

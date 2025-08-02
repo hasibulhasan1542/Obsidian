@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers in English for the questions from the provided exam paper (Pages 8 and 9 of 14).
-
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**
@@ -183,7 +180,7 @@ Resonance, the tendency of a system to oscillate with greater amplitude at certa
 **Answer:**
 *   **LDL and HDL:** LDL (Low-Density Lipoprotein) and HDL (High-Density Lipoprotein) are types of lipoproteins, which are particles that transport cholesterol in the blood.
 *   **Their Function:**
-    *   **LDL (often called "bad" cholesterol):** Its primary function is to transport cholesterol from the liver to the cells throughout the body. However, if there is too much LDL, it can build up in the walls of the arteries, forming plaque and leading to atherosclerosis (hardening of the arteries).
+    *   **LDL (often called "bad" cholesterol):** Its primary function is to transport cholesterol from the liver to the cells throughout the body. However, if there is too much LDL, it can build up in the walls of the arteries, forming plaque and leading to <font color="#ffff00">atherosclerosis</font> (hardening of the arteries).
     *   **HDL (often called "good" cholesterol):** Its main function is to act as a scavenger, picking up excess cholesterol from the cells and arteries and transporting it back to the liver to be removed from the body. This helps prevent plaque buildup.
 
 ---
@@ -207,7 +204,7 @@ Resonance, the tendency of a system to oscillate with greater amplitude at certa
 *   **Laws of Refraction:**
     1.  **First Law:** The incident ray, the refracted ray, and the normal to the interface at the point of incidence all lie in the same plane.
     2.  **Second Law (Snell's Law):** For a given pair of media, the ratio of the sine of the angle of incidence (i) to the sine of the angle of refraction (r) is a constant. This constant is called the refractive index of the second medium with respect to the first.
-        **Formula:** sin(i) / sin(r) = constant (n)
+        **Formula:** $$\frac{sin(i)}{sin(r)} = constant (\mu)$$
 
 ---
 
