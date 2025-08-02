@@ -1,6 +1,4 @@
-Of course. Here are the detailed answers in English for the questions from the provided exam paper (Pages 4 and 5 of 15).
 
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**
@@ -46,11 +44,11 @@ Of course. Here are the detailed answers in English for the questions from the p
 **(c) What is pH? If the concentration of H⁺ ions increases 10 times by adding acid to pure water, what will be the pH of the water? Why does aquatic life become unsuitable in a water body when industrial waste containing sulfuric acid is discharged into it? (1.5 + 3 marks)**
 
 **Answer:**
-*   **pH:** pH is a scale used to specify the acidity or basicity of an aqueous solution. It is the negative logarithm of the hydrogen ion concentration (`pH = -log[H⁺]`).
+*   **pH:** pH is a scale used to specify the acidity or basicity of an aqueous solution. It is the negative logarithm of the hydrogen ion concentration ($pH = -log[H⁺]$).
 *   **pH Calculation:**
-    *   Pure water has a neutral pH of 7. This means its [H⁺] is 10⁻⁷ M.
-    *   If the [H⁺] concentration increases 10 times, the new concentration will be 10 x 10⁻⁷ M = 10⁻⁶ M.
-    *   The new pH will be: `pH = -log(10⁻⁶) = 6`.
+    *   Pure water has a neutral pH of 7. This means its \[H⁺] is 10⁻⁷ M.
+    *   If the \[H⁺] concentration increases 10 times, the new concentration will be 10 x 10⁻⁷ M = 10⁻⁶ M.
+    *   The new pH will be: $pH = -log(10^{-6}) = 6$.
 *   **Effect on Aquatic Life:** When industrial waste containing sulfuric acid is discharged into a water body, it drastically lowers the pH, making the water highly acidic. This severe change in pH is unsuitable for aquatic life because:
     *   It damages the gills and skin of fish.
     *   It disrupts the enzymes and metabolic processes essential for their survival.
@@ -79,6 +77,19 @@ Of course. Here are the detailed answers in English for the questions from the p
     *   Fractions with low boiling points, like **petroleum gas**, rise to the very top before condensing.
     *   Fractions with slightly higher boiling points, like **gasoline (petrol)**, condense on trays lower down.
     The different condensed liquids are then collected from their respective trays.
+
+```mermaid
+flowchart TD
+    FD["Fractional Distillation"] --> H["Heating<br>• Crude oil heated to 350-400°C<br>• Forms vapor/liquid mix"]
+    H --> C["Fractionating Column<br>• Hot bottom (350°C)<br>• Cool top (20°C)"]
+    C --> S["Separation by BP<br>• Vapors rise and cool<br>• Condense at different levels"]
+
+    S --> G["Petroleum Gas<br>• BP: <40°C<br>• Top tray"]
+    S --> P["Gasoline (Petrol)<br>• BP: 40-100°C<br>• Upper trays"]
+    S --> K["Kerosene<br>• BP: 150-275°C<br>• Middle trays"]
+    S --> D["Diesel<br>• BP: 250-350°C<br>• Lower trays"]
+    S --> R["Residues<br>• Bitumen, Lubricants<br>• Bottom (liquid)"]
+```
 
 ---
 
@@ -319,7 +330,7 @@ Food adulteration is a serious problem in Bangladesh. Common methods include:
 **Answer:**
 *   **Genetic Disease:** A disease or disorder caused by an abnormality in an individual's DNA. This can range from a small mutation in a single gene to the addition or subtraction of an entire chromosome.
 *   **Sickle Cell Anemia:** An inherited blood disorder caused by a mutation in the gene that codes for hemoglobin. This causes red blood cells to become rigid and sickle-shaped. These abnormal cells can block blood flow, causing severe pain, organ damage, and anemia.
-*   **Thalassemia:** A group of inherited blood disorders characterized by a reduced production of hemoglobin. This results in fewer and smaller red blood cells, leading to a lack of oxygen in the body (anemia) and symptoms like fatigue, weakness, and slow growth. Severe forms require regular blood transfusions.
+*   **Thalassemia:** A group of inherited blood disorders characterized by a reduced production of hemoglobin. This results in fewer and smaller red blood cells, leading to a lack of oxygen in the body (anemia) and symptoms like fatigue, weakness, and slow growth. Severe forms require regular blood transfusions. HBA1 and HBA2 are the culprit gene.
 
 ---
 
@@ -359,134 +370,371 @@ The sun looks red at sunrise and sunset due to the **scattering of light** by th
 
 ***
 
-Of course. Here are the detailed answers for the remaining questions from the provided exam paper.
-
-***
-
-### **Part C: Computer and Information Technology**
-**Total Marks: 15**
-**(Answer any six questions)**
+Of course. Here are the solutions to all questions in **Part B (Computer and Information Technology)** and **Part C (Electrical and Electronic Technology)**, presented in English with a formal, academic tone suitable for the allocated marks.
 
 ---
 
-### **Question 11**
+### **Part B: Computer and Information Technology**
 
-**(a) Write the main difference between Analog and Digital signals. Explain the relationship between wavelength and frequency of a wave. (2.5 marks)**
+**(Answer any ten questions. Each question carries 2.5 marks)**
 
-**Answer:**
-*   **Difference between Analog and Digital Signals:**
-    *   **Analog Signal:** A continuous wave that represents information in a continuous range of values. It is more susceptible to noise and degradation.
-    *   **Digital Signal:** A discrete wave that represents information in a binary format (a series of 0s and 1s) at distinct intervals. It is more immune to noise.
+**10. (a) Differentiate between Authentication and Authorization.**
+Authentication is the process of verifying the identity of a user or system. It answers the question, "Who are you?". Authorization is the process of granting or denying specific permissions to an authenticated user. It answers the question, "What are you allowed to do?".
 
-*   **Relationship between Wavelength and Frequency:**
-    Wavelength (λ) and frequency (f) of a wave are **inversely proportional**. This means that as the frequency of a wave increases, its wavelength decreases, and vice versa. The relationship is defined by the formula:
-    `c = fλ`
-    where:
-    *   `c` is the constant speed of the wave (e.g., the speed of light for electromagnetic waves).
-    *   `f` is the frequency.
-    *   `λ` is the wavelength.
-
----
-
-**(b) Describe Kirchhoff's Voltage Law with a diagram. (2.5 marks)**
-
-**Answer:**
-**Kirchhoff's Voltage Law (KVL):** This law states that the algebraic sum of all the potential differences (voltages) around any closed loop or mesh in a circuit is equal to zero. This law is based on the principle of conservation of energy.
-
-**Diagram and Explanation:**
-Consider a simple series circuit with a voltage source (V) and two resistors (R₁ and R₂).
-
-```
-      +-------[ R₁ ]-------+
-      |                    |
-      V (+)                |   (Current I flows in this direction)
-      | (-)                |
-      +-------[ R₂ ]-------+
-```
-
-1.  The battery provides a voltage rise (V).
-2.  As current (I) flows through the resistors, it creates a voltage drop across each one (V₁ across R₁ and V₂ across R₂).
-3.  According to KVL, for the closed loop, the sum of voltage rises must equal the sum of voltage drops.
-    Therefore: `V = V₁ + V₂`
-    Or, expressed as an algebraic sum around the loop: `V - V₁ - V₂ = 0`
-
----
-
-**(c) What is an IC? Briefly mention the uses of Digital ICs. (2.5 marks)**
-
-**Answer:**
-*   **IC (Integrated Circuit):** An IC, also known as a microchip, is a set of electronic circuits on a single small, flat piece of semiconductor material (usually silicon). It integrates thousands or millions of tiny electronic components like transistors, resistors, and capacitors into a compact package.
-*   **Uses of Digital ICs:** Digital ICs are the fundamental building blocks of almost all modern electronic devices. Their uses include:
-    *   **Computers and Smartphones:** In microprocessors (CPUs) and memory chips (RAM, ROM).
-    *   **Logic Operations:** Logic gates (AND, OR, NOT) used to perform digital logic.
-    *   **Consumer Electronics:** In calculators, digital watches, cameras, and televisions.
-    *   **Embedded Systems:** In microcontrollers that control devices like washing machines and cars.
-
----
-
-**(d) Write the difference between AC and DC voltage. (2.5 marks)**
-
-**Answer:**
-
-| Feature | AC (Alternating Current) Voltage | DC (Direct Current) Voltage |
+| Basis for Comparison | Authentication | Authorization |
 | :--- | :--- | :--- |
-| **Direction of Flow** | The polarity periodically reverses, causing the current to change direction. | The polarity is constant, and the current flows steadily in one direction. |
-| **Waveform** | Typically a sine wave. | A straight, constant line. |
-| **Source** | Generated by alternators (e.g., in power plants). | Produced by batteries, solar cells, and AC-to-DC power adapters. |
-| **Transmission** | Can be easily stepped up or down with transformers, making it efficient for long-distance transmission. | Difficult and expensive to step up or down, making long-distance transmission less efficient. |
+| **Purpose** | To verify the identity of a user. | To determine the access rights or privileges of a user. |
+| **Process** | A user provides credentials (e.g., password, biometrics) which are validated against a secure database. | The system checks an access control list (ACL) or role-based policies to see if the authenticated user has permission for the requested action. |
+| **Timing** | Occurs before authorization. | Occurs after successful authentication. |
+| **Example** | Logging into an email account with a username and password. | Once logged in, being able to read emails but not being able to change system-level settings. |
 
 ---
+**10. (b) Describe the main phases of the Software Development Life Cycle (SDLC).**
+The Software Development Life Cycle (SDLC) is a structured framework that defines the tasks performed at each step in the software development process. The main phases are:
+1.  **Requirement Analysis and Planning:** Identifying and documenting the project goals and user requirements. This phase determines the scope and feasibility of the project.
+2.  **Design:** Creating the high-level and low-level design of the software, including system architecture, data structures, interfaces, and algorithms, based on the requirements.
+3.  **Implementation (Coding):** Writing the source code for the software modules using the chosen programming language, following the design specifications.
+4.  **Testing:** Verifying and validating the software to ensure it is free of defects and meets the user requirements. This includes unit testing, integration testing, system testing, and acceptance testing.
+5.  **Deployment:** Releasing the tested software to the production environment for end-users to use.
+6.  **Maintenance:** Providing ongoing support for the software, including fixing bugs, making enhancements, and updating it to adapt to new environments.
+```mermaid
+flowchart TD
+    SDLC["Software Development Life Cycle"] --> RP["Requirements & Planning<br>• Gather user needs<br>• Define scope/feasibility"]
+    RP --> DS["Design<br>• System architecture<br>• Data structures/algorithms"]
+    DS --> IM["Implementation<br>• Write source code<br>• Follow design specs"]
+    IM --> TS["Testing<br>• Unit/integration tests<br>• Validation/verification"]
+    TS --> DP["Deployment<br>• Release to production<br>• User training"]
+    DP --> MN["Maintenance<br>• Bug fixes<br>• Feature updates"]
 
-**(e) Briefly describe how Radar works. (2.5 marks)**
+    RP --> E1["Output: SRS Document"]
+    DS --> E2["Output: Design Docs"]
+    IM --> E3["Output: Source Code"]
+    TS --> E4["Output: Test Reports"]
+    DP --> E5["Output: Live System"]
+    MN --> E6["Output: Patches/Versions"]
+```
+---
+**10. (c) Describe data and information in the context of software.**
+**Data** refers to raw, unorganized, and unprocessed facts, figures, or symbols. In the context of software, it is the input that the system accepts. By itself, data lacks context and meaning.
+*   *Example:* A list of numbers: 101, 105, 98.
 
-**Answer:**
-**RADAR** (which stands for **RA**dio **D**etection **A**nd **R**anging) works on the principle of transmitting radio waves and analyzing the echoes that return after hitting an object. The process is as follows:
-1.  **Transmission:** The radar system's antenna transmits a short pulse of high-frequency radio waves in a specific direction.
-2.  **Reflection (Echo):** These waves travel through the air until they strike an object (like an airplane or a ship), at which point they are reflected in various directions.
-3.  **Reception:** A small portion of the reflected waves (the echo) travels back to the radar's antenna, which now acts as a receiver.
-4.  **Analysis:** The system's computer analyzes the echo to determine:
-    *   **Distance:** Calculated from the time it took for the echo to return.
-    *   **Direction:** Determined by the direction the antenna was pointing when the echo was received.
-    *   **Speed:** Calculated by measuring the change in the echo's frequency (the Doppler effect).
+**Information** is data that has been processed, organized, structured, or presented in a given context to make it meaningful and useful. It is the output of a software system after processing the data.
+*   *Example:* "The average score of the students is 101.3," which is derived by processing the raw data (101, 105, 98).
+
+In essence, software transforms raw **data** into meaningful **information** to support decision-making.
 
 ---
-
-**(f) Briefly describe the working principle of an electrical transformer. (2.5 marks)**
-
-**Answer:**
-The working principle of an electrical transformer is **mutual electromagnetic induction**. A transformer consists of two separate coils of wire, a **primary coil** and a **secondary coil**, that are wound on a common laminated iron core.
-1.  When an **alternating current (AC)** is passed through the primary coil, it creates a continuously changing magnetic field (or magnetic flux) in the iron core.
-2.  This changing magnetic flux links with the secondary coil.
-3.  According to Faraday's Law of Induction, this changing flux induces an alternating voltage in the secondary coil.
-The voltage is "stepped up" if the secondary coil has more turns than the primary, and "stepped down" if it has fewer turns. Transformers only work with AC, as DC produces a constant magnetic field which cannot induce a voltage.
+**10. (d) Name any two protocols of the TCP/IP suite and briefly describe them.**
+1.  **TCP (Transmission Control Protocol):** TCP operates at the Transport Layer. It is a **connection-oriented** protocol that provides reliable, ordered, and error-checked delivery of a stream of data between applications. Before transmitting data, TCP establishes a connection (a "three-way handshake"). It ensures data integrity by segmenting data, acknowledging received packets, and retransmitting lost packets.
+2.  **IP (Internet Protocol):** IP operates at the Network Layer. It is a **connectionless** protocol responsible for addressing hosts and routing datagrams (packets) from a source host to a destination host across one or more IP networks. IP does not guarantee delivery; it provides a "best-effort" service. Reliability is handled by higher-level protocols like TCP.
 
 ---
+**10. (e) Differentiate between a Compiler and an Interpreter.**
 
-**(g) Mention the differences between radio waves and microwaves. (2.5 marks)**
-
-**Answer:**
-
-| Feature | Radio Waves | Microwaves |
+| Basis for Comparison | Compiler | Interpreter |
 | :--- | :--- | :--- |
-| **Frequency/Wavelength** | Lower frequency and longer wavelength. | Higher frequency and shorter wavelength. |
-| **Bandwidth** | Offer lower bandwidth, suitable for carrying less information (e.g., sound). | Offer much higher bandwidth, allowing for faster data rates (e.g., for internet). |
-| **Propagation** | Can travel long distances and can diffract around obstacles and pass through walls. | Travel in a straight line (line-of-sight) and are easily blocked by obstacles like buildings. |
-| **Applications** | AM/FM radio broadcasting, television signals, long-range communication. | Satellite communication, Wi-Fi, radar, mobile phone networks, and microwave ovens. |
+| **Translation** | Scans the entire program and translates it as a whole into machine code. | Translates the program one statement at a time. |
+| **Output** | Generates an intermediate object code or an executable file (`.exe`). | Does not generate any intermediate code. The result of execution is directly available. |
+| **Execution Speed**| Compiled code runs faster because it is already translated into the native machine language. | Interpreted code runs slower because translation and execution occur simultaneously for each line. |
+| **Error Detection** | Displays all errors and warnings only after scanning the entire program. | Stops execution as soon as the first error is found. |
+| **Example Languages** | C, C++, Java (compiles to bytecode) | Python, JavaScript, Ruby |
 
 ---
+**10. (f) Name five different design patterns in the context of Software Engineering.**
+A design pattern is a general, reusable solution to a commonly occurring problem in software design. Five common design patterns are:
+1.  **Singleton Pattern (Creational):** Ensures a class has only one instance and provides a global point of access to it.
+2.  **Factory Pattern (Creational):** Defines an interface for creating an object but lets subclasses alter the type of objects that will be created.
+3.  **Adapter Pattern (Structural):** Allows the interface of an existing class to be used as another interface, enabling incompatible classes to work together.
+4.  **Decorator Pattern (Structural):** Allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class.
+5.  **Observer Pattern (Behavioral):** Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 
-**(h) Briefly explain how a circuit breaker works with a diagram. (2.5 marks)**
+```mermaid
+flowchart LR
+    DP["Design Patterns"] --> S["Singleton (Creational)<br>• Single instance<br>• Global access"]
+    DP --> F["Factory (Creational)<br>• Object creation interface<br>• Subclass decides type"]
+    DP --> A["Adapter (Structural)<br>• Bridges incompatible interfaces<br>• Wrapper pattern"]
+    DP --> D["Decorator (Structural)<br>• Dynamic behavior addition<br>• Open/closed principle"]
+    DP --> O["Observer (Behavioral)<br>• Publisher-Subscriber<br>• Event notification"]
 
-**Answer:**
-A circuit breaker is an automatic electrical switch designed to protect a circuit from damage caused by an overcurrent. It works using two mechanisms:
-
-1.  **Thermal Trip (for Overloads):** A **bimetallic strip** inside the breaker heats up and bends when a sustained, moderate overcurrent flows through it. This bending trips a mechanical latch, opening the circuit. This protects against overloaded circuits.
-2.  **Magnetic Trip (for Short Circuits):** A very high and sudden surge of current (a short circuit) creates a strong magnetic field in an **electromagnet** (solenoid). This magnetic force instantly pulls a plunger that trips the latch, opening the circuit much faster than the thermal mechanism.
-
-**Simplified Diagram Description:**
-A diagram would show the input and output terminals connected through a pair of contacts. One contact is movable and held in place by a spring-loaded latch. Both the bimetallic strip and the electromagnet are positioned to release this latch when activated, causing the contacts to spring apart and break the circuit.
+    S --> E1["Example: Config Manager"]
+    F --> E2["Example: UI Theme Factory"]
+    A --> E3["Example: Legacy System Adapter"]
+    D --> E4["Example: Stream Decorators"]
+    O --> E5["Example: Stock Market Alerts"]
 ```
-   [ Input ]----(Bimetallic Strip)----+----(Movable Contact)---->[ Output ]
-                     |               |
-                  (Electromagnet)  (Latch Mechanism)
+
+---
+**10. (g) Briefly describe Integration Testing and Beta Testing.**
+**Integration Testing:** This is a phase in software testing where individual software modules are combined and tested as a group. The primary purpose is to expose faults in the interaction between integrated units. It verifies that different modules work together as expected, focusing on data communication and interface compatibility.
+
+**Beta Testing:** This is a type of User Acceptance Testing (UAT) and one of the final stages of testing before a product is commercially released. The software is distributed to a limited number of external end-users (the "beta testers") who use it in a real-world environment. Its purpose is to gather feedback on usability, functionality, and performance to identify any remaining bugs or issues.
+
+---
+**10. (h) What is a program counter in a general-purpose microprocessor? Describe its use.**
+A **Program Counter (PC)** is a special-purpose register within a microprocessor's CPU. Its primary function is to **store the memory address of the next instruction** that is to be fetched from memory and executed.
+
+**Use:** The PC is fundamental to the CPU's fetch-decode-execute cycle.
+1.  The CPU fetches the instruction located at the memory address currently stored in the PC.
+2.  After fetching, the PC is automatically incremented to point to the address of the next sequential instruction.
+3.  In the case of a jump or branch instruction, the PC is not incremented but is instead loaded with the target memory address specified in that instruction, thus altering the flow of program control.
+
+---
+**10. (i) What is the function of a computer network router? Draw its operational block diagram.**
+**Function:** A router is a networking device that operates at the Network Layer (Layer 3) of the OSI model. Its primary function is to forward data packets between different computer networks. It inspects the destination IP address of an incoming packet, uses a routing table to determine the best path to the destination network, and then forwards the packet to the next appropriate router or the final destination.
+
+**Operational Block Diagram:**
 ```
+            +-------------------------------------------+
+            |                  ROUTER                   |
+            |                                           |
++---------->| Input Port  -->  +-------------------+  --> Output Port | ---->
+ (from LAN 1| (Physical &      | Switching Fabric  |      (Physical &  | (to LAN 2
+  or WAN)   |  Data Link       | (Connects inputs  |       Data Link |  or WAN)
+            |  Processing)     |  to outputs)      |       Processing)|
+            |                  +---------^---------+                  |
+            |                            |                            |
+            |                  +---------|---------+                  |
+            |                  | Routing Processor |                  |
+            |                  | (Runs routing     |                  |
+            |                  |  protocols,       |                  |
+            |                  |  maintains routing|                  |
+            |                  |  table)           |                  |
+            |                  +-------------------+                  |
+            +-------------------------------------------+
+```
+
+
+---
+**10. (j) In the context of object-oriented programming, what is meant by function overloading? Give an example.**
+**Function Overloading** is a feature of object-oriented programming (OOP) that allows multiple functions to have the **same name** but **different parameters** within the same class or scope. The differentiation can be based on the number of arguments, the data types of the arguments, or the order of the arguments. The compiler or interpreter determines which function to call based on the arguments provided.
+
+**Example (in C++):**
+```cpp
+#include <iostream>
+
+// Function to add two integers
+int add(int a, int b) {
+    return a + b;
+}
+
+// Overloaded function to add three integers
+int add(int a, int b, int c) {
+    return a + b + c;
+}
+
+// Overloaded function to add two doubles
+double add(double a, double b) {
+    return a + b;
+}
+
+int main() {
+    std::cout << add(5, 3) << std::endl;         // Calls the first function
+    std::cout << add(5, 3, 2) << std::endl;      // Calls the second function
+    std::cout << add(5.5, 3.3) << std::endl;    // Calls the third function
+    return 0;
+}
+```
+---
+**10. (k) What is meant by DBMS? Describe the classification of DBMS.**
+A **Database Management System (DBMS)** is a software system that enables users to create, define, maintain, and control access to a database. It acts as an interface between the user/application and the physical database, managing data storage, retrieval, security, and integrity.
+
+DBMS can be classified based on the underlying data model:
+1.  **Relational DBMS (RDBMS):** Data is stored in tables (relations) consisting of rows and columns. This is the most widely used model. *Examples: MySQL, Oracle, SQL Server.*
+2.  **Hierarchical DBMS:** Data is organized in a tree-like structure with a single root, where each record has one parent. *Example: IBM's IMS.*
+3.  **Network DBMS:** An extension of the hierarchical model, allowing a record to have multiple parent and child records, forming a graph-like structure.
+4.  **Object-Oriented DBMS:** Data is stored in the form of objects, as used in object-oriented programming, including classes, attributes, and methods.
+5.  **NoSQL DBMS:** Designed for large-scale data storage and unstructured data, not based on the relational model. Includes document, key-value, and graph databases. *Examples: MongoDB, Cassandra.*
+
+---
+**10. (l) How does HTTPS provide security to a website? Answer with a block diagram.**
+HTTPS (Hypertext Transfer Protocol Secure) provides security by encrypting the communication between a user's web browser and the website's server. It layers the standard HTTP protocol on top of a security protocol, **SSL (Secure Sockets Layer)** or its modern successor, **TLS (Transport Layer Security)**.
+
+This provides three key layers of protection:
+1.  **Encryption:** Encrypts the exchanged data to protect it from being read by eavesdroppers.
+2.  **Integrity:** Prevents data from being modified or corrupted during transfer without detection.
+3.  **Authentication:** Verifies that the user is communicating with the intended website (not an imposter) through the use of digital certificates.
+
+**Block Diagram of HTTPS Connection:**
+```
+     +---------------+                              +-----------------+
+     |   CLIENT      |                              |     SERVER      |
+     | (Web Browser) |                              | (Website Host)  |
+     +---------------+                              +-----------------+
+             |                                              |
+             |  1. TCP Connection Request (Handshake)       |
+             |--------------------------------------------->|
+             |                                              |
+             |  2. Server sends its SSL Certificate &       |
+             |     Public Key                               |
+             |<---------------------------------------------|
+             |                                              |
+             |  3. Client verifies Certificate. Creates     |
+             |     Session Key, encrypts it with Server's   |
+             |     Public Key, and sends it.                |
+             |--------------------------------------------->|
+             |                                              |
+             |         <-- Secure Encrypted Channel -->     |
+             |            (using symmetric session key)     |
+             |                                              |
+             |  4. Encrypted HTTP Request (e.g., GET /page) |
+             |--------------------------------------------->|
+             |                                              |
+             |  5. Encrypted HTTP Response (HTML, etc.)     |
+             |<---------------------------------------------|
+             |                                              |
+```
+
+```mermaid
+sequenceDiagram
+    participant Client
+    participant Server
+
+    Note over Client: HTTPS Request Initiated
+    Client->>Server: 1. TCP Connection Request (SYN)
+    Server-->>Client: 2. Server Hello + SSL Certificate + Public Key
+    Note right of Client: Certificate Verification
+    Client->>Server: 3. Session Key (encrypted with Server's Public Key)
+    Note over Client,Server: Secure Channel Established
+    Client->>Server: 4. Encrypted HTTP Request (GET/POST)
+    Server-->>Client: 5. Encrypted HTTP Response (HTML/CSS/JS)
+```
+---
+
+### **Part C: Electrical and Electronic Technology**
+
+**(Answer any six questions. Each question carries 2.5 marks)**
+
+**11. (a) Show the process of nuclear power generation using a block diagram.**
+Nuclear power generation uses the heat from a controlled nuclear fission reaction to produce electricity.
+
+**Process:**
+1.  **Fission:** In the reactor core, uranium-235 atoms are split (fission), releasing a tremendous amount of thermal energy.
+2.  **Heat Transfer:** This heat is used to boil water, either directly (in a BWR) or via a heat exchanger (in a PWR), creating high-pressure steam.
+3.  **Generation:** The steam expands and spins the blades of a turbine. The turbine is connected to a generator, which converts mechanical energy into electrical energy.
+4.  **Condensation:** The steam is then cooled in a condenser, turning it back into water, which is pumped back to be reheated.
+
+**Block Diagram:**
+![[Pasted image 20250802215801.png]]
+
+```mermaid
+flowchart TD
+    RC["Reactor Core<br>(Nuclear Fission)"] -->|Heat| SG["Steam Generator<br>(Heat Exchanger)"]
+    SG -->|Steam| T["Turbine"]
+    T -->|Rotation| G["Generator<br>→ Electrical Grid"]
+    T -->|Exhaust| C["Condenser"]
+    C -->|Cooled Water| P["Pump"]
+    P -->|Water| SG
+    C -->|Waste Heat| CT["Cooling Tower/River"]
+```
+---
+**11. (b) Name five basic tools to measure electrical parameters in a circuit.**
+1.  **Multimeter (or VOM):** A versatile instrument that can measure multiple parameters, including voltage (Voltmeter), current (Ammeter), and resistance (Ohmmeter).
+2.  **Ammeter:** A device used specifically to measure the electric current flowing through a circuit. It must be connected in series with the load.
+3.  **Voltmeter:** A device used to measure the potential difference (voltage) between two points in a circuit. It must be connected in parallel across the component.
+4.  **Ohmmeter:** A device used to measure electrical resistance. It is used only on de-energized circuits.
+5.  **Oscilloscope:** An instrument that allows for the visualization of voltage signals as a waveform over time. It can measure voltage, frequency, period, and phase.
+
+---
+**11. (c) When will the maximum current flow in an RLC series circuit? Give a practical example.**
+Maximum current flows in an RLC series circuit when it is in a state of **resonance**. This occurs at a specific frequency, known as the **resonant frequency ($f_r$)**, where the inductive reactance ($X_L$) becomes equal to the capacitive reactance ($X_C$).
+
+*   **Condition:** $X_L = X_C$
+*   **Result:** At resonance, the two reactances cancel each other out. The total impedance (Z) of the circuit becomes minimal and is equal to only the resistance (Z = R). According to Ohm's Law (I = V/Z), when the impedance is at its minimum, the current (I) flowing through the circuit is at its maximum.
+
+**Practical Example:**
+The most common practical example is the **tuning circuit of a radio receiver**. The antenna of the radio receives signals from many different stations at various frequencies. The tuning circuit is an RLC circuit. When you turn the tuning knob, you are typically changing the capacitance (C). By adjusting C, you change the resonant frequency of the circuit. When the circuit's resonant frequency matches the frequency of a desired radio station, the impedance for that specific frequency becomes very low, allowing maximum current for that signal to pass through to the amplifier, while signals at other frequencies are rejected. This is how you select and listen to a single station.
+
+---
+**11. (d) Differentiate between an Alternator and a Generator.**
+While both devices convert mechanical energy into electrical energy, the terms are often used to distinguish the type of current produced.
+
+| Feature | Alternator | Generator (specifically DC Generator) |
+| :--- | :--- | :--- |
+| **Output Current**| Produces Alternating Current (AC) only. | General term, but often used to refer to a device that produces Direct Current (DC). |
+| **Armature**| The armature (coils where voltage is induced) is stationary, and the magnetic field rotates. | The armature rotates within a stationary magnetic field. |
+| **Current Collection**| Uses **slip rings** and brushes to collect the AC from the stationary armature. | Uses a **commutator** and brushes to convert the internally generated AC into DC at the output. |
+| **Construction**| Generally more robust and can be built for higher power outputs. | The commutator is a point of mechanical wear, limiting speed and voltage. |
+| **Primary Use**| Power plants for grid electricity generation, vehicle charging systems. | Small DC motors, older vehicle systems, specific industrial DC applications. |
+
+---
+**11. (e) Explain the open circuit and short circuit conditions.**
+**Open Circuit:** An open circuit is a condition in an electrical circuit where the path for current flow is interrupted or broken.
+*   **Resistance:** The resistance across the break is theoretically infinite.
+*   **Current:** Because of the infinite resistance, no current can flow (I = 0).
+*   **Voltage:** The full source voltage appears across the two terminals of the open break.
+*   *Example:* A broken wire or an open switch.
+
+**Short Circuit:** A short circuit is a condition where an unintended, low-resistance path is created across a voltage source, bypassing the intended load.
+*   **Resistance:** The resistance of this path is theoretically zero (or very close to it).
+*   **Current:** According to Ohm's Law (I = V/R), as resistance approaches zero, the current flowing through this path becomes dangerously large (theoretically infinite).
+*   **Effect:** This excessive current can cause overheating, fire, and damage to the power source and components.
+*   *Example:* The insulation on two parallel wires wearing away and the bare conductors touching.
+
+---
+**11. (f) What are the four main parts of an electrical circuit?**
+An electrical circuit has four essential components to function:
+1.  **Source:** The source provides the electrical energy or potential difference (voltage) that drives the current. It is the power supply for the circuit.
+    *   *Examples:* Battery, generator, power outlet.
+2.  **Path:** The path consists of conductors that provide a route for the current to flow from the source, through the load, and back to the source.
+    *   *Examples:* Copper wires, traces on a circuit board.
+3.  **Load:** The load is the device or component that consumes electrical energy and converts it into another form of energy, such as light, heat, or motion. It is the reason for the circuit's existence.
+    *   *Examples:* Light bulb, motor, resistor, heater.
+4.  **Control Device:** A control device is used to intentionally start, stop, or regulate the flow of current in the circuit.
+    *   *Examples:* Switch, relay, circuit breaker, potentiometer.
+
+---
+**11. (g) What is meant by a voltage stabilizer? Show its main parts in a block diagram.**
+A **voltage stabilizer** is an electrical appliance designed to automatically maintain a constant voltage level at its output, regardless of fluctuations in the input (supply) voltage or changes in the load current. It protects sensitive electronic equipment from damage caused by over-voltage and under-voltage conditions.
+
+**Block Diagram of a Voltage Stabilizer:**
+```
+            +----------------+
+            | SENSING        |<--------------------------+
+            | CIRCUIT        |                           |
+            +-------+--------+                           | (Feedback)
+                    | (Measures Output Voltage)            |
+                    V                                      |
++-----------+   +----------------+    +----------------+   +------------+
+|           |   |                |    |                |   |            |
+| INPUT     |-->| POWER CONTROL  |<---| CONTROL CIRCUIT|-->| OUTPUT     |
+|(Fluctuating|   | ELEMENT (e.g., |    | (Compares with |   |(Stabilized |
+| Voltage)  |   | Relays/Buck-   |    |  Reference)    |   | Voltage)   |
+|           |   | Boost)         |    |                |   |            |
++-----------+   +----------------+    +----------------+   +------------+
+```
+**Main Parts:**
+*   **Sensing Circuit:** Monitors the output voltage.
+*   **Control Circuit (e.g., Microcontroller):** Compares the sensed voltage to a stable internal reference voltage and decides if correction is needed.
+*   **Power Control Element:** The active component that adjusts the voltage (e.g., a transformer with multiple taps selected by relays, or a buck-boost converter).
+
+---
+**11. (h) Describe Ohm's Law. Show Ohm's Law using a graph.**
+**Ohm's Law** states that for a conductor at a constant temperature, the current flowing through it is directly proportional to the potential difference (voltage) across its ends.
+
+Mathematically, it is expressed as:
+**V = I × R**
+Where:
+*   **V** is the voltage in Volts (V).
+*   **I** is the current in Amperes (A).
+*   **R** is the resistance in Ohms (Ω), which is the constant of proportionality.
+
+**Graphical Representation:**
+The linear relationship between voltage and current can be shown on a V-I graph. For an ohmic conductor (one that obeys Ohm's Law), the graph is a straight line passing through the origin.
+
+*   **Y-axis:** Voltage (V)
+*   **X-axis:** Current (I)
+
+```
+      Voltage (V)
+      ^
+      |
+      |     /
+      |    /
+      |   /  Slope = R = V/I
+      |  /
+      | /
+      |/
+      +----------------> Current (I)
+     (0,0)
+```
+The slope of this line represents the resistance (R) of the conductor. A steeper slope indicates a higher resistance.

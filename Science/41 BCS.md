@@ -350,7 +350,22 @@ Of course. Here are the detailed answers for the remaining questions from the pr
 4.  **Inheritance:** A mechanism where a new class (subclass) inherits properties and behavior from an existing class (superclass).
 5.  **Polymorphism:** The ability of an object or method to take on many forms.
 6.  **Abstraction:** Hiding complex implementation details and showing only the essential features of the object.
+```mermaid
+flowchart LR
+    OOP["OOP Features"] --> OB["Objects<br>• Real-world entities<br>• State + behavior"]
+    OOP --> CL["Classes<br>• Object blueprints<br>• Defines structure"]
+    OOP --> EN["Encapsulation<br>• Data + methods binding<br>• Access control"]
+    OOP --> IN["Inheritance<br>• Parent → Child class<br>• Code reusability"]
+    OOP --> PL["Polymorphism<br>• Many forms<br>• Method overriding"]
+    OOP --> AB["Abstraction<br>• Hide complexity<br>• Essential features"]
 
+    OB --> E1["Example: Car object<br>- State: color, speed<br>- Behavior: accelerate()"]
+    CL --> E2["Example: Vehicle class<br>- Attributes<br>- Methods"]
+    EN --> E3["Example: Private variables<br>+ public getters/setters"]
+    IN --> E4["Example: Dog inherits<br>from Animal class"]
+    PL --> E5["Example: Shape.draw()<br>→ Circle.draw()/Square.draw()"]
+    AB --> E6["Example: Car interface<br>hides engine details"]
+```
 **Two OOP Languages:**
 1.  Java
 2.  C++ (or Python)
@@ -407,10 +422,10 @@ Of course. Here are the detailed answers for the remaining questions from the pr
 
 ---
 
-**(i) Give a brief description of the 'Bangabandhu-1 Satellite'. (2.5 marks)**
+~~**(i) Give a brief description of the 'Bangabandhu-1 Satellite'. (2.5 marks)**~~
 
-**Answer:**
-Bangabandhu-1 is the first geostationary communications satellite of Bangladesh. Launched on May 12, 2018, it is located at the 119.1° East orbital slot. The satellite provides a wide range of telecommunication services, including Direct-to-Home (DTH) television broadcasting, broadband internet services, and support for cellular backhaul. Its primary objectives are to ensure uninterrupted telecommunication services, especially in rural and remote areas, reduce the country's dependence on foreign satellites, and earn foreign currency by leasing out its transponders.
+~~**Answer:**~~
+~~Bangabandhu-1 is the first geostationary communications satellite of Bangladesh. Launched on May 12, 2018, it is located at the 119.1° East orbital slot. The satellite provides a wide range of telecommunication services, including Direct-to-Home (DTH) television broadcasting, broadband internet services, and support for cellular backhaul. Its primary objectives are to ensure uninterrupted telecommunication services, especially in rural and remote areas, reduce the country's dependence on foreign satellites, and earn foreign currency by leasing out its transponders.~~
 
 ---
 
@@ -455,6 +470,21 @@ Bangabandhu-1 is the first geostationary communications satellite of Bangladesh.
     3.  **Data Encryption:** Encrypting sensitive data both at rest (in storage) and in transit (over the network).
     4.  **Regular Backups and Recovery Plan:** Creating regular backups of important data and having a plan to restore it in case of data loss or system failure.
     5.  **User Training:** Educating users about security best practices to prevent phishing and other social engineering attacks.
+
+```mermaid
+flowchart LR
+    SEC["Security Measures"] --> AC["Access Control<br>• Strong passwords<br>• 2FA<br>• User permissions"]
+    SEC --> NS["Network Security<br>• Firewalls<br>• Antivirus<br>• Intrusion detection"]
+    SEC --> DE["Data Encryption<br>• Encrypt at rest<br>• Encrypt in transit<br>• TLS/SSL"]
+    SEC --> BU["Backups & Recovery<br>• Regular backups<br>• 3-2-1 rule<br>• Disaster recovery"]
+    SEC --> UT["User Training<br>• Phishing awareness<br>• Social engineering<br>• Security hygiene"]
+
+    AC --> E1["Example: Password managers"]
+    NS --> E2["Example: Next-gen firewalls"]
+    DE --> E3["Example: AES-256 encryption"]
+    BU --> E4["Example: Cloud backups"]
+    UT --> E5["Example: Simulated phishing tests"]
+```
 
 ***
 
@@ -525,7 +555,17 @@ According to KVL, the sum of the voltage rises must equal the sum of the voltage
 2.  **Reflection:** These waves travel through the air and reflect off an object (e.g., an airplane, a ship).
 3.  **Reception:** A small part of the reflected wave (the echo) travels back and is detected by the radar's receiver.
 4.  **Analysis:** The system calculates the **distance** to the object based on the time it took for the echo to return. It can also determine the object's **speed** by measuring the frequency shift in the echo (Doppler effect) and its **location** from the direction the antenna was pointing.
+```mermaid
+flowchart TD
+    RADAR["Radar Operation"] --> TX["Transmission<br>• Pulse of radio waves<br>• High-frequency signal"]
+    TX --> RF["Reflection<br>• Waves hit target<br>• Partial energy reflected"]
+    RF --> RX["Reception<br>• Echo detected<br>• Weak return signal"]
+    RX --> AN["Analysis<br>• Distance: Time delay<br>• Speed: Doppler shift<br>• Location: Antenna direction"]
 
+    TX --> E1["Example: X-band radar"]
+    RF --> E2["Example: Aircraft reflection"]
+    AN --> E3["Example: 100km at 30°"]
+```
 ---
 
 **(f) Briefly describe the working principle of an electrical transformer. (2.5 marks)**
@@ -563,3 +603,132 @@ A simplified diagram would show the bimetallic strip and the electromagnet conne
                   (Electromagnet)
 ```
 
+***
+
+### **Part C: Computer and Information Technology**
+**Total Marks: 15**
+**(Answer any six questions)**
+
+---
+
+### **Question 11**
+
+**(a) Write the main difference between Analog and Digital signals. Explain the relationship between wavelength and frequency of a wave. (2.5 marks)**
+
+**Answer:**
+*   **Difference between Analog and Digital Signals:**
+    *   **Analog Signal:** A continuous wave that represents information in a continuous range of values. It is more susceptible to noise and degradation.
+    *   **Digital Signal:** A discrete wave that represents information in a binary format (a series of 0s and 1s) at distinct intervals. It is more immune to noise.
+
+*   **Relationship between Wavelength and Frequency:**
+    Wavelength (λ) and frequency (f) of a wave are **inversely proportional**. This means that as the frequency of a wave increases, its wavelength decreases, and vice versa. The relationship is defined by the formula:
+    `c = fλ`
+    where:
+    *   `c` is the constant speed of the wave (e.g., the speed of light for electromagnetic waves).
+    *   `f` is the frequency.
+    *   `λ` is the wavelength.
+
+---
+
+**(b) Describe Kirchhoff's Voltage Law with a diagram. (2.5 marks)**
+
+**Answer:**
+**Kirchhoff's Voltage Law (KVL):** This law states that the algebraic sum of all the potential differences (voltages) around any closed loop or mesh in a circuit is equal to zero. This law is based on the principle of conservation of energy.
+
+**Diagram and Explanation:**
+Consider a simple series circuit with a voltage source (V) and two resistors (R₁ and R₂).
+
+```
+      +-------[ R₁ ]-------+
+      |                    |
+      V (+)                |   (Current I flows in this direction)
+      | (-)                |
+      +-------[ R₂ ]-------+
+```
+
+1.  The battery provides a voltage rise (V).
+2.  As current (I) flows through the resistors, it creates a voltage drop across each one (V₁ across R₁ and V₂ across R₂).
+3.  According to KVL, for the closed loop, the sum of voltage rises must equal the sum of voltage drops.
+    Therefore: `V = V₁ + V₂`
+    Or, expressed as an algebraic sum around the loop: `V - V₁ - V₂ = 0`
+
+---
+
+**(c) What is an IC? Briefly mention the uses of Digital ICs. (2.5 marks)**
+
+**Answer:**
+*   **IC (Integrated Circuit):** An IC, also known as a microchip, is a set of electronic circuits on a single small, flat piece of semiconductor material (usually silicon). It integrates thousands or millions of tiny electronic components like transistors, resistors, and capacitors into a compact package.
+*   **Uses of Digital ICs:** Digital ICs are the fundamental building blocks of almost all modern electronic devices. Their uses include:
+    *   **Computers and Smartphones:** In microprocessors (CPUs) and memory chips (RAM, ROM).
+    *   **Logic Operations:** Logic gates (AND, OR, NOT) used to perform digital logic.
+    *   **Consumer Electronics:** In calculators, digital watches, cameras, and televisions.
+    *   **Embedded Systems:** In microcontrollers that control devices like washing machines and cars.
+
+---
+
+**(d) Write the difference between AC and DC voltage. (2.5 marks)**
+
+**Answer:**
+
+| Feature | AC (Alternating Current) Voltage | DC (Direct Current) Voltage |
+| :--- | :--- | :--- |
+| **Direction of Flow** | The polarity periodically reverses, causing the current to change direction. | The polarity is constant, and the current flows steadily in one direction. |
+| **Waveform** | Typically a sine wave. | A straight, constant line. |
+| **Source** | Generated by alternators (e.g., in power plants). | Produced by batteries, solar cells, and AC-to-DC power adapters. |
+| **Transmission** | Can be easily stepped up or down with transformers, making it efficient for long-distance transmission. | Difficult and expensive to step up or down, making long-distance transmission less efficient. |
+
+---
+
+**(e) Briefly describe how Radar works. (2.5 marks)**
+
+**Answer:**
+**RADAR** (which stands for **RA**dio **D**etection **A**nd **R**anging) works on the principle of transmitting radio waves and analyzing the echoes that return after hitting an object. The process is as follows:
+1.  **Transmission:** The radar system's antenna transmits a short pulse of high-frequency radio waves in a specific direction.
+2.  **Reflection (Echo):** These waves travel through the air until they strike an object (like an airplane or a ship), at which point they are reflected in various directions.
+3.  **Reception:** A small portion of the reflected waves (the echo) travels back to the radar's antenna, which now acts as a receiver.
+4.  **Analysis:** The system's computer analyzes the echo to determine:
+    *   **Distance:** Calculated from the time it took for the echo to return.
+    *   **Direction:** Determined by the direction the antenna was pointing when the echo was received.
+    *   **Speed:** Calculated by measuring the change in the echo's frequency (the Doppler effect).
+
+---
+
+**(f) Briefly describe the working principle of an electrical transformer. (2.5 marks)**
+
+**Answer:**
+The working principle of an electrical transformer is **mutual electromagnetic induction**. A transformer consists of two separate coils of wire, a **primary coil** and a **secondary coil**, that are wound on a common laminated iron core.
+1.  When an **alternating current (AC)** is passed through the primary coil, it creates a continuously changing magnetic field (or magnetic flux) in the iron core.
+2.  This changing magnetic flux links with the secondary coil.
+3.  According to Faraday's Law of Induction, this changing flux induces an alternating voltage in the secondary coil.
+The voltage is "stepped up" if the secondary coil has more turns than the primary, and "stepped down" if it has fewer turns. Transformers only work with AC, as DC produces a constant magnetic field which cannot induce a voltage.
+
+---
+
+**(g) Mention the differences between radio waves and microwaves. (2.5 marks)**
+
+**Answer:**
+
+| Feature | Radio Waves | Microwaves |
+| :--- | :--- | :--- |
+| **Frequency/Wavelength** | Lower frequency and longer wavelength. | Higher frequency and shorter wavelength. |
+| **Bandwidth** | Offer lower bandwidth, suitable for carrying less information (e.g., sound). | Offer much higher bandwidth, allowing for faster data rates (e.g., for internet). |
+| **Propagation** | Can travel long distances and can diffract around obstacles and pass through walls. | Travel in a straight line (line-of-sight) and are easily blocked by obstacles like buildings. |
+| **Applications** | AM/FM radio broadcasting, television signals, long-range communication. | Satellite communication, Wi-Fi, radar, mobile phone networks, and microwave ovens. |
+
+---
+
+**(h) Briefly explain how a circuit breaker works with a diagram. (2.5 marks)**
+
+**Answer:**
+A circuit breaker is an automatic electrical switch designed to protect a circuit from damage caused by an overcurrent. It works using two mechanisms:
+
+1.  **Thermal Trip (for Overloads):** A **bimetallic strip** inside the breaker heats up and bends when a sustained, moderate overcurrent flows through it. This bending trips a mechanical latch, opening the circuit. This protects against overloaded circuits.
+2.  **Magnetic Trip (for Short Circuits):** A very high and sudden surge of current (a short circuit) creates a strong magnetic field in an **electromagnet** (solenoid). This magnetic force instantly pulls a plunger that trips the latch, opening the circuit much faster than the thermal mechanism.
+
+**Simplified Diagram Description:**
+A diagram would show the input and output terminals connected through a pair of contacts. One contact is movable and held in place by a spring-loaded latch. Both the bimetallic strip and the electromagnet are positioned to release this latch when activated, causing the contacts to spring apart and break the circuit.
+```
+   [ Input ]----(Bimetallic Strip)----+----(Movable Contact)---->[ Output ]
+                     |               |
+                  (Electromagnet)  (Latch Mechanism)
+```
