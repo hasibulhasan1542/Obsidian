@@ -702,6 +702,16 @@ A **voltage stabilizer** is an electrical appliance designed to automatically ma
 |           |   | Boost)         |    |                |   |            |
 +-----------+   +----------------+    +----------------+   +------------+
 ```
+
+```mermaid
+flowchart TD
+    IN["Input<br>(Fluctuating Voltage)"] --> PC["Power Control Element<br>• Relays/Buck-Boost<br>• Adjusts voltage"]
+    PC --> OUT["Output<br>(Stabilized Voltage)"]
+    OUT --> SC["Sensing Circuit<br>• Measures output"]
+    SC --> CC["Control Circuit<br>• Compares with reference"]
+    CC -->|Feedback| PC
+```
+
 **Main Parts:**
 *   **Sensing Circuit:** Monitors the output voltage.
 *   **Control Circuit (e.g., Microcontroller):** Compares the sensed voltage to a stable internal reference voltage and decides if correction is needed.

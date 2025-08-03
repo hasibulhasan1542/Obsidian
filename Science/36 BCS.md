@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers for Part A of the exam paper.
-
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**
@@ -39,7 +36,18 @@ The method adopted by the authorities is **DNA profiling** (or DNA fingerprintin
 3.  **DNA Amplification:** A technique called **PCR (Polymerase Chain Reaction)** is used to make millions of copies of specific, highly variable regions of the DNA, known as Short Tandem Repeats (STRs).
 4.  **DNA Analysis:** The amplified DNA fragments are separated by size using gel electrophoresis. This creates a unique pattern of bands for each individual, which is their "DNA profile".
 5.  **Comparison:** The DNA profile of the deceased is compared to the profiles of the relatives. Since a person inherits half of their DNA from each parent, the profiles will show specific, predictable matches if they are related. A conclusive match confirms the identity of the deceased.
+```mermaid
+flowchart TD
+    DP["DNA Profiling Process"] --> SC["Sample Collection<br>• Deceased: tissue/blood<br>• Relatives: cheek swab"]
+    SC --> EX["DNA Extraction<br>• Cell lysis<br>• Purification"]
+    EX --> AM["DNA Amplification<br>• PCR technique<br>• STR regions copied"]
+    AM --> AN["DNA Analysis<br>• Gel electrophoresis<br>• Band pattern creation"]
+    AN --> CP["Comparison<br>• STR profile matching<br>• Parent-child inheritance check"]
 
+    SC --> E1["Chain of custody maintained"]
+    AM --> E2["~20 STR loci analyzed"]
+    CP --> E3["99.9% match confidence"]
+```
 ---
 
 **(d) Explain the benefits of the mentioned technology. (1.5 marks)**
@@ -69,7 +77,16 @@ One should use their BMI value as a guide to maintain a healthy weight.
 *   **If BMI is in the normal range (18.5-24.9):** The goal is to maintain this healthy weight through a balanced diet and regular physical activity.
 *   **If BMI is in the underweight range (<18.5):** The person should consult a doctor or nutritionist to develop a plan to gain weight healthily by consuming nutrient-dense foods.
 *   **If BMI is in the overweight or obese range (≥25):** The person should focus on a combination of a calorie-controlled, balanced diet and increased physical exercise to lose weight gradually and reduce the risk of associated health problems like heart disease and diabetes.
+```mermaid
+flowchart TD
+    BMI["BMI Calculation"] --> N["Normal Range (18.5-24.9)"]
+    BMI --> U["Underweight (<18.5)"]
+    BMI --> O["Overweight/Obese (≥25)"]
 
+    N --> MA["Maintenance Plan<br>• Balanced diet<br>• Regular exercise<br>• Annual health check"]
+    U --> GA["Weight Gain Plan<br>• Nutrient-dense foods<br>• Medical consultation<br>• Strength training"]
+    O --> LA["Weight Loss Plan<br>• Calorie deficit<br>• Aerobic exercise<br>• Health monitoring"]
+```
 ---
 
 **(c) What are the effects of eating excessive amounts of fast food on the human body? (1.5 marks)**
@@ -94,7 +111,19 @@ Both formalin and calcium carbide are highly toxic chemicals illegally used in f
     *   **Prevention is the only effective remedy.** This requires strict government enforcement of food safety laws to stop the use of these chemicals.
     *   **Public awareness** is crucial to help consumers identify and avoid adulterated food.
     *   Thoroughly washing fruits and vegetables may reduce surface contamination but cannot remove chemicals that have been absorbed into the food. Ultimately, preventing their entry into the food chain is the only solution.
+```mermaid
+flowchart TD
+    FA["Food Adulterants"] --> F["Formalin"]
+    FA --> CC["Calcium Carbide"]
 
+    F --> FR["Health Effects<br>• Carcinogenic<br>• Abdominal pain/vomiting<br>• Liver/kidney damage"]
+    CC --> CR["Health Effects<br>• Neurological damage<br>• Headaches/dizziness<br>• Arsenic poisoning"]
+
+    FB["Food Adulterants"] --> PV["Prevention & Remedies"]
+    PV --> GOV["Government Action<br>• Enforce food safety laws<br>• Heavy penalties"]
+    PV --> PUB["Public Awareness<br>• Recognize adulterated food<br>• Report violations"]
+
+```
 ---
 
 ### **Question 3**

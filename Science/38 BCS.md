@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers in English for the questions from the provided exam paper (Pages 4 and 5 of 13).
-
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**
@@ -61,6 +58,7 @@ Of course. Here are the detailed answers in English for the questions from the p
     *   The **middle layers** include fruits and vegetables, followed by proteins (meat, fish, beans) and dairy.
     *   The **tip** (narrowest part) represents foods that should be eaten sparingly, such as fats, oils, and sweets.
     It emphasizes variety, moderation, and proportion in a diet.
+
 
 ---
 
@@ -187,7 +185,7 @@ The depth of a well can be determined by:
 3.  Knowing the speed of sound in air (v, approximately 343 m/s).
 4.  The sound travels down to the bottom and back up, covering twice the depth (2d).
 5.  Using the formula: `Distance = Speed × Time`, we get `2d = v × t`.
-6.  The depth of the well is then calculated as: `d = (v × t) / 2`.
+6.  The depth of the well is then calculated as: $$d = \frac{v\times t}{2}$$
 
 ---
 
@@ -215,7 +213,7 @@ The depth of a well can be determined by:
 **(a) Explain the relationship between diabetes and insulin. (2.5 marks)**
 
 **Answer:**
-**Insulin** is a hormone produced by the pancreas that allows cells to absorb glucose (sugar) from the blood and use it for energy. The relationship is central to the condition of **diabetes**:
+**Insulin** is a hormone produced by the <font color="#ffff00">pancreas</font> that allows cells to absorb glucose (sugar) from the blood and use it for energy. The relationship is central to the condition of **diabetes**:
 *   **Type 1 Diabetes:** An autoimmune condition where the body's immune system destroys the insulin-producing cells in the pancreas. As a result, the body produces little or no insulin. Without insulin, glucose cannot enter the cells and builds up in the bloodstream.
 *   **Type 2 Diabetes:** The body either doesn't produce enough insulin or the cells become resistant to the effects of insulin (insulin resistance). In both cases, glucose cannot be absorbed effectively by the cells, leading to high blood sugar levels.
 In essence, diabetes is a disease characterized by the body's inability to properly regulate blood sugar due to a problem with either the production or the function of insulin.
@@ -375,9 +373,6 @@ The shadow of a bamboo pole planted in water appears bent due to the **refractio
 
 ***
 
-Of course. Here are the detailed answers for the remaining questions from the provided exam paper.
-
-***
 
 ### **Part B: Computer and Information Technology**
 **Total Marks: 25**
@@ -523,7 +518,7 @@ The main function of a router in a computer network is to **connect different ne
 **Kirchhoff's Voltage Law (KVL):** It states that the algebraic sum of all the potential differences (voltages) around any closed loop in a circuit is equal to zero.
 *   **Example:** In a simple series circuit with a 9V battery connected to a 2Ω resistor and a 1Ω resistor, a current of 3A will flow. The voltage drop across the 2Ω resistor is 6V (3A × 2Ω), and the drop across the 1Ω resistor is 3V (3A × 1Ω). According to KVL:
     `+9V (rise) - 6V (drop) - 3V (drop) = 0`
-
+![[Pasted image 20250802222830.png]]
 ---
 
 **(b) What is meant by electrical power? What unit is generally used to express the capacity of a power plant? (2 + 0.5 = 2.5 marks)**

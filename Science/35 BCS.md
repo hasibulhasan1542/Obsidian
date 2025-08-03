@@ -1,6 +1,3 @@
-Of course. Here are the detailed answers for Part A of the exam paper.
-
-***
 
 ### **Part A: General Science**
 **Total Marks: 60**
@@ -364,9 +361,6 @@ Vinegar is used to process pickles because it is an effective **preservative**. 
 
 ***
 
-Of course. Here are the detailed answers for Part B of the exam paper.
-
-***
 
 ### **Part B: Computer and Information Technology**
 **Total Marks: 25**
