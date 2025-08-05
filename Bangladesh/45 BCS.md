@@ -143,7 +143,7 @@ Foreign policy refers to the general objectives and strategies that guide the ac
 
 The foreign policy of Bangladesh is enshrined in Article 25 of its constitution.
 
-**Core Principles (মূলনীতি):**
+**Core Principles:**
 1.  **Sovereign Equality:** Respect for the national sovereignty and equality of all states.
 2.  **Non-interference:** Adherence to the principle of not interfering in the internal affairs of other countries.
 3.  **Peaceful Settlement of Disputes:** A commitment to resolving international disputes through negotiation and peaceful means.
@@ -151,7 +151,7 @@ The foreign policy of Bangladesh is enshrined in Article 25 of its constitution.
 5.  **Anti-Imperialism and Colonialism:** Supporting oppressed peoples worldwide in their struggles against imperialism, colonialism, and racism.
 
 
-**Key Objectives (উদ্দেশ্য):**
+**Key Objectives:**
 1.  **Protecting Sovereignty:** The foremost objective is to preserve the country's independence and territorial integrity.
 2.  **Economic Development:** Promoting trade, attracting foreign direct investment (FDI), securing development aid, and ensuring market access for its exports, particularly ready-made garments (RMG).
 3.  **Regional Cooperation:** Fostering close ties with neighboring countries and strengthening regional platforms like SAARC and BIMSTEC.
