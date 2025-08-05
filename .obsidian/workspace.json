@@ -11,10 +11,14 @@
             "id": "ccef57f38016dd1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mechanical/43 BCS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "43 BCS"
             }
           }
         ]
@@ -164,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52762d023e118f93",
+  "active": "ccef57f38016dd1d",
   "lastOpenFiles": [
+    "Mechanical/44 BCS.md",
+    "Mechanical/43 BCS.md",
+    "Mechanical/41 BCS.md",
+    "Mechanical",
     "Science/Pasted image 20250801204114.png",
     "Science/Pasted image 20250427154036.png",
     "Science/Pasted image 20250801204430.png",
@@ -197,8 +205,6 @@
     "Mathematics/Pasted image 20250424234108.png",
     "Mathematics/Problem.md",
     "International/45 BCS.md",
-    "International/44 BCS.md",
-    "International/Theory.md",
     "46_BCS.pdf",
     "Bangla",
     "Bangladesh/45 bcs.canvas",
@@ -210,7 +216,6 @@
     "Research/OpenFOAM Core",
     "g.sh.sb-42eb8c61-Mfzm57",
     "g.sh",
-    "Operating System",
-    "Senior Scale Exam/CA"
+    "Operating System"
   ]
 }
