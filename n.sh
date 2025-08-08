@@ -6,7 +6,7 @@ cd $(pwd)
 find . -name ".*" \
   ! -name "." ! -name ".." \
   ! -path "*/.git" ! -path "*/.git/*" \
-  ! -path "*/.obisidian" ! -path "*/.obsidian/*" \
+  ! -path "*/.obsidian" ! -path "*/.obsidian/*" \
   -exec rm -rf {} +
 
 ### Pushing into repo ###
