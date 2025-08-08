@@ -133,3 +133,13 @@ cd /home/ubuntu/public-share/v
 sudo chmod -R a+rw $(pwd)
 ```
 
+
+## How to check which files would be selected via a shell script
+
+```zsh
+find . -name ".*" \
+  ! -name "." ! -name ".." \
+  ! -path "*/.git" ! -path "*/.git/*" \
+  ! -path "*/.obsidian" ! -path "*/.obsidian/*"
+```
+
