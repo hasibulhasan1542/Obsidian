@@ -77,4 +77,59 @@ After collecting Ipv4, we need to connect it from
 >[!Note] Issue
 >No Issue, flawless
 
+>[!Quote] Important
+>Many Issue arises related to file permission, that's why running a shell script containing chmod -R 777 is needed too often
+
+***
+
+# Shell Script for deleting all except core files
+
+```shell
+#!/usr/bin/env bash
+set -e
+
+echo "🧹 Cleaning up everything except core files..."
+
+find . -mindepth 1 -maxdepth 1 ! -name "0" \
+    ! -name "constant" \
+    ! -name "system" \
+    ! -name "d.sh" \
+    ! -name "notes.md" \
+    ! -name "p.FOAM" \
+    ! -name "r.sh" \
+    ! -name "r2.sh" \
+    -exec rm -rf {} +
+find . -mindepth 1 -name ".*" -exec rm -rfv {} +
+echo "✅ Cleanup complete."
+```
+
+# Shell Script to run simulation and delete 
+
+```shell
+#!/usr/bin/bash
+rm -r $(pwd)/constant/polyMesh
+./d.sh
+blockMesh
+pimpleFoam
+find . -mindepth 1 -name ".*" -exec rm -rfv {} +
+#sudo chmod -R 777 $(pwd)
+#sudo chown -R nobody:nogroup $(pwd)
+
+### Latest Solution ###
+sudo chmod -R a+rw $(pwd)
+```
+
+# Shell Script to reach the destined folder and give permission
+
+```zsh                                 
+#!/usr/bin/bash
+
+cd /home/ubuntu/public-share/v
+
+#sudo chmod -R 777 /home/ubuntu/public-share
+#sudo chown -R nobody:nogroup /home/ubuntu/public-share
+
+### Latest solution
+sudo chmod -R a+rw $(pwd)
+```
 
