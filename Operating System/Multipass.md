@@ -17,7 +17,7 @@ source ~/.zshrc
 Then creating the instance
 
 ```zsh
-multipass launch --name my-powerful-vm --cpus 3 --memory 12G --disk 20G
+multipass launch --name uu --cpus 3 --memory 14G --disk 10G
 ```
 
 
@@ -59,8 +59,8 @@ sudo systemctl restart smbd
 
 Ensure permissions match (Inside VM)
 ```bash
-sudo chmod -R 777 /home/ubuntu/public-share
-sudo chown -R nobody:nogroup /home/ubuntu/public-share
+sudo chmod -R 777 /home/ubuntu/share
+sudo chown -R nobody:nogroup /home/ubuntu/share
 ```
 (As this is frequently needed thing, it is better to put it in a shell script and run it when the VM is turned on)
 
@@ -142,4 +142,24 @@ find . -name ".*" \
   ! -path "*/.git" ! -path "*/.git/*" \
   ! -path "*/.obsidian" ! -path "*/.obsidian/*"
 ```
+
+
+# eza setup
+```
+alias l='eza -lh'
+alias ls='eza -lh --total-size'
+alias ll='eza -lahT --level=2 --total-size'
+```
+
+## **Permanent fix so it doesn’t happen again**
+
+- Use **your own permanent SSH key** instead of letting Multipass auto-generate a new one.
+    
+- Tell Multipass to use it:
+
+```
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/multipass_key
+cat ~/.ssh/multipass_key.pub >> ~/Library/Application\ Support/multipassd/ssh-keys/id_rsa.pub
+```
+
 

@@ -10,7 +10,12 @@
 Marks: 20x5=100
 
 **1.** Write short notes with relevant diagrams (any four): **5x4=20**
-(a) Flow measuring instrument, (b) Vapour compression refrigeration system, (c) Shear force and bending moment diagram of a cantilever beam with gradually varying load, (d) Submersible pump, (e) Heat pump, (f) Induced draught.
+(a) Flow measuring instrument. 4
+(b) Vapour compression refrigeration system. 4
+(c) Shear force and bending moment diagram of a cantilever beam with gradually varying load. 4
+(d) Submersible pump. 4
+(e) Heat pump. 4
+(f) Induced draught. 4
 
 **2.**
 (a) Define a steam boiler. **2**

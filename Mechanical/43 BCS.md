@@ -52,6 +52,9 @@
 (b) What are principal plane and principal stress? **4**
 (c) A simply supported beam with a gradually varying load from zero at B and 50 N/m at A is shown in the figure below. Draw shear force and bending moment diagram of the beam. What is the shear force at B? **8**
 
+![[Screenshot 2025-08-10 at 2.50.41 PM.png]]
+
+
 **9.**
 (a) What are the mechanical properties of metals which are associated with the ability of the material to resist mechanical forces and load? **6**
 (b) Define and classify cast iron. **6**
@@ -61,6 +64,21 @@
 (a) What are the symbols used in work study and what are their meanings? **6**
 (b) Discuss routing, scheduling and dispatching in brief. **6**
 (c) In the network shown in the figure below, draw the critical path: **8**
+
+```mermaid
+flowchart LR
+    1["1"] -->|3| 2["2"]
+    2 -->|4| 3["3"]
+    2 --> |2| 4["5"]
+    3 --> |5| 5["4"]
+    4 --> |3| 6["3"]
+    6 --> |4| 7["7"]
+    7 --> |6| 8["8"]
+    8 --> |4| 9["9"]
+    5 --> |5| 8["8"]
+    3 -.-> 4["5"]
+    5 -.-> 7["7"]
+```
 
 **11.**
 (a) Compare belt, rope, chain and shaft drive as media of power transmission. **7**
