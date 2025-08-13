@@ -35,7 +35,8 @@
               "title": "Multipass"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85934f447751d86c",
+  "active": "281ec7203e08321a",
   "lastOpenFiles": [
-    "Operating System/Multipass.md",
     "Bangladesh/Selected Questions.md",
+    "Operating System/Multipass.md",
     "Bangladesh/Consolidated Questions.md",
     "Bangladesh/BA Selected Questions.md",
     "Bangladesh/BA Question.md",

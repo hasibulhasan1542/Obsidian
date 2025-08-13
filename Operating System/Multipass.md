@@ -42,13 +42,18 @@ paste this into that
 
 ```
 [share]
-   comment = share from Multipass VM
-   path = /home/ubuntu/share
-   browseable = yes
-   guest ok = yes
-   read only = no
-   create mask = 0777
-   directory mask = 0777
+
+   comment = share from Multipass VM
+   path = /home/ubuntu/share
+   browseable = yes
+   guest ok = yes
+   read only = no
+   valid users = ubuntu
+```
+
+setup password
+```bash
+sudo smbpasswd -a ubuntu
 ```
 
 Then restart samba
