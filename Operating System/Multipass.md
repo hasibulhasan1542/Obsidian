@@ -168,3 +168,10 @@ cat ~/.ssh/multipass_key.pub >> ~/Library/Application\ Support/multipassd/ssh-ke
 ```
 
 
+# For Openfoam
+
+```
+wget https://sourceforge.net/projects/openfoam/files/v2506/OpenFOAM-v2506.tgz/download -O OpenFOAM-v2506.tgz
+wget https://sourceforge.net/projects/openfoam/files/v2506/ThirdParty-v2506.tgz/download -O ThirdParty-v2506.tgz
+```
+
