@@ -137,7 +137,7 @@ A flow measuring instrument is a device used to measure the rate of fluid flow (
 
 The Vapor Compression Refrigeration System (VCRS) is the most widely used refrigeration cycle. It works by circulating a refrigerant through a closed loop, causing it to change its state (liquid to gas and back) to absorb heat from a cold space and reject it to a warmer space.
 
-![[Pasted image 20250813214957.png | 1000]]
+!\[\[Pasted image 20250813214957.png | 1000]]
 
 
 **Components and Process:**
@@ -151,11 +151,11 @@ The system has four main components:
 
 ```mermaid
 flowchart TD
-    A[COMPRESSOR] -->|High-Pressure Vapor| B[CONDENSER]
-    B -->|Heat Rejected| C[High-Pressure Liquid]
-    C --> D[EXPANSION VALVE]
-    D -->|Low-Pressure Liquid-Vapor Mix| E[EVAPORATOR]
-    E -->|"Heat Absorbed(Refrigeration Effect)"| F[Low-Pressure Vapor]
+    A\[COMPRESSOR] -->|High-Pressure Vapor| B\[CONDENSER]
+    B -->|Heat Rejected| C\[High-Pressure Liquid]
+    C --> D\[EXPANSION VALVE]
+    D -->|Low-Pressure Liquid-Vapor Mix| E\[EVAPORATOR]
+    E -->|"Heat Absorbed(Refrigeration Effect)"| F\[Low-Pressure Vapor]
     F --> A
 ```
 
@@ -167,18 +167,18 @@ A cantilever beam is fixed at one end and free at the other. A gradually varying
 
 **Analysis:**
 Let the length of the beam be 'L'.
-*   **Total Load (W):** Area of the triangular load = (1/2) * base * height = (wL)/2.
+*   **Total Load (W):** Area of the triangular load = $$\frac{1}{2} \times base \times height = \frac{wl}{2}$$
 
 **Shear Force (SF):**
-*   The shear force at any section 'x' from the free end is the area of the load diagram up to that point. The relationship is parabolic (SF ∝ x²).
+*   The shear force at any section 'x' from the free end is the area of the load diagram up to that point. The relationship is parabolic (SF $\propto$ x²).
 *   SF at free end (x=0) = 0.
-*   SF at fixed end (x=L) = -Total Load = **-(wL)/2**.
+*   SF at fixed end (x=L) = -Total Load = $-\frac{(wL)}{2}$
 *   The SF diagram is a **parabolic curve (2nd degree)**.
 
 **Bending Moment (BM):**
-*   The bending moment at any section 'x' is the integral of the shear force. The relationship is cubic (BM ∝ x³).
+*   The bending moment at any section 'x' is the integral of the shear force. The relationship is cubic (BM $\propto$ x³).
 *   BM at free end (x=0) = 0.
-*   BM at fixed end (x=L) = -(Total Load) × (Distance of centroid from fixed end) = -[(wL)/2] × [L/3] = **-wL²/6**.
+*   BM at fixed end (x=L) = -(Total Load) × (Distance of centroid from fixed end) = $$-\[\frac{wL}{2}] \times \frac{L}{3} = -\frac{wL^2}{6}$$
 *   The BM diagram is a **cubic parabola (3rd degree)**. The moment is negative (hogging).
 
 **Diagram:**
@@ -270,11 +270,11 @@ The performance is measured by the **Coefficient of Performance (COP)**, where C
 
 ```mermaid
 flowchart TD
-    A[COMPRESSOR] -->|High-Pressure Vapor| B[CONDENSER]
-    B -->|"Useful Heat Output (HEATING)"| C[High-Pressure Liquid]
-    C --> D[EXPANSION VALVE]
-    D -->|Low-Pressure Liquid-Vapor Mix| E[EVAPORATOR]
-    E -->|Heat Absorbed from Cold Source| F[Low-Pressure Vapor]
+    A\[COMPRESSOR] -->|High-Pressure Vapor| B\[CONDENSER]
+    B -->|"Useful Heat Output (HEATING)"| C\[High-Pressure Liquid]
+    C --> D\[EXPANSION VALVE]
+    D -->|Low-Pressure Liquid-Vapor Mix| E\[EVAPORATOR]
+    E -->|Heat Absorbed from Cold Source| F\[Low-Pressure Vapor]
     F --> A
 ```
 ---
@@ -372,27 +372,23 @@ The selection of a suitable boiler depends on several critical factors:
 6.  **Load Factor:** Whether the steam demand is constant or fluctuates. Water tube boilers handle fluctuating loads better.
 7.  **Safety and Environmental Regulations:** Compliance with local safety codes and emission standards is mandatory.
 
-***
-
-Of course. Here are the detailed answers for questions 3, 4, and 5.
-
 ---
 
 ### **3.**
 
-**(a) What are the different modes of heat transfer? Briefly explain with practical examples. [6]**
+**(a) What are the different modes of heat transfer? Briefly explain with practical examples. \[6]**
 
 Heat transfer is the movement of thermal energy from a hotter region to a colder region. There are three distinct modes of heat transfer:
 
 1.  **Conduction:** This is the transfer of heat through a substance by direct molecular interaction, without any bulk movement of the material itself. In solids, it occurs through lattice vibrations and the movement of free electrons.
-    *   **Principle:** Governed by Fourier's Law of Heat Conduction, `Q = -kA(dT/dx)`.
+    *   **Principle:** Governed by Fourier's Law of Heat Conduction, $$Q = -kA \times \frac{dT}{dx}$$
     *   **Practical Examples:**
         *   A metal spoon getting hot when left in a cup of hot tea.
         *   Heat loss through the solid brick wall of a house on a cold day.
         *   The handle of a cooking pot getting hot.
 
 2.  **Convection:** This is the transfer of heat through the movement of fluids (liquids or gases). When a fluid is heated, it becomes less dense and rises, while cooler, denser fluid sinks to take its place, creating a convection current.
-    *   **Principle:** Governed by Newton's Law of Cooling, `Q = hA(T_surface - T_fluid)`.
+    *   **Principle:** Governed by Newton's Law of Cooling, $Q = hA(T_{surface} - T_{fluid})$.
     *   **It can be of two types:**
         *   **Natural (or Free) Convection:** Fluid motion is caused by density differences (buoyancy forces). Example: Boiling water in a pot, sea and land breezes.
         *   **Forced Convection:** Fluid motion is caused by an external source like a fan, pump, or wind. Example: Using a fan to cool a computer's CPU, a car radiator.
@@ -406,7 +402,7 @@ Heat transfer is the movement of thermal energy from a hotter region to a colder
 
 ---
 
-**(b) What is the critical thickness of insulation and how can it be determined for a cylinder? Discuss the physical significance of critical thickness on a cylinder surface. [6]**
+**(b) What is the critical thickness of insulation and how can it be determined for a cylinder? Discuss the physical significance of critical thickness on a cylinder surface. \[6]**
 
 **Definition:**
 The critical thickness of insulation corresponds to the outer radius of insulation at which the rate of heat transfer from a surface is maximum. Below this radius, adding more insulation *increases* heat loss, while above this radius, adding more insulation *decreases* heat loss.
@@ -418,11 +414,11 @@ The total thermal resistance (`R_total`) is the sum of conductive and convective
 *   Conductive Resistance: `R_cond = ln(r_o / r_i) / (2πkL)`
 *   Convective Resistance: `R_conv = 1 / (h * A_o) = 1 / (h * 2πr_o * L)`
 
-`R_total = [ln(r_o / r_i) / (2πkL)] + [1 / (h * 2πr_o * L)]`
+`R_total = \[ln(r_o / r_i) / (2πkL)] + \[1 / (h * 2πr_o * L)]`
 
 To find the radius at which heat transfer is maximum (i.e., resistance is minimum), we differentiate `R_total` with respect to `r_o` and set the derivative to zero:
 `dR_total / dr_o = 0`
-`[1 / (2πkL * r_o)] - [1 / (2πhL * r_o²)] = 0`
+`\[1 / (2πkL * r_o)] - \[1 / (2πhL * r_o²)] = 0`
 `1 / (k * r_o) = 1 / (h * r_o²)`
 Solving for `r_o`, we get the critical radius, `r_c`:
 **`r_c = k / h`**
@@ -437,7 +433,7 @@ The concept of critical radius is crucial in thermal engineering. Adding insulat
 
 ---
 
-**(c) Inside a room, the air temperature is 25°C and outside it is -5°C. The wall has a thickness of 400mm and its thermal conductivity is 1.0 W/(m·K). The heat transfer co-efficient on both sides has the value of 5.0 W/(m²·K). Determine the heat flux. Also determine the temperature gradient in the wall. [10]**
+**(c) Inside a room, the air temperature is 25°C and outside it is -5°C. The wall has a thickness of 400mm and its thermal conductivity is 1.0 W/(m·K). The heat transfer co-efficient on both sides has the value of 5.0 W/(m²·K). Determine the heat flux. Also determine the temperature gradient in the wall. \[10]**
 
 **Given Data:**
 *   Inside air temperature, `T_i` = 25°C
@@ -486,7 +482,7 @@ Substituting the values:
 
 ### **4.**
 
-**(a) Draw and explain a general layout of a hydroelectric power plant. [7]**
+**(a) Draw and explain a general layout of a hydroelectric power plant. \[7]**
 
 A hydroelectric power plant converts the potential energy of water stored at a height into electrical energy.
 
@@ -533,7 +529,7 @@ A hydroelectric power plant converts the potential energy of water stored at a h
 
 ---
 
-**(b) A user is doubtful about the Bourdon type pressure gauge reading. How will you verify the gauge reading? Explain. [6]**
+**(b) A user is doubtful about the Bourdon type pressure gauge reading. How will you verify the gauge reading? Explain. \[6]**
 
 To verify or calibrate a Bourdon type pressure gauge, its readings must be compared against a known, accurate pressure standard. The most common and reliable method for this is using a **Dead Weight Tester**.
 
@@ -551,7 +547,7 @@ A Dead Weight Tester works on the basic principle of pressure: `P = F / A`, wher
 
 ---
 
-**(c) A venturimeter is used to measure a flow rate of 7,500 litres per minute. The difference in pressure across the venturimeter is equivalent to 8m of flowing fluid. Determine the throat diameter if the pipe diameter is 30cm. Assume that the coefficient of discharge for the venturimeter is 0.96. [7]**
+**(c) A venturimeter is used to measure a flow rate of 7,500 litres per minute. The difference in pressure across the venturimeter is equivalent to 8m of flowing fluid. Determine the throat diameter if the pipe diameter is 30cm. Assume that the coefficient of discharge for the venturimeter is 0.96. \[7]**
 
 **Given Data:**
 *   Flow Rate, `Q` = 7,500 L/min
@@ -611,7 +607,7 @@ Now, solve for `A2²`:
 
 ### **5.**
 
-**(a) Draw the block diagram of a vapour absorption refrigeration system and explain its working principle. [8]**
+**(a) Draw the block diagram of a vapour absorption refrigeration system and explain its working principle. \[8]**
 
 **Block Diagram (Ammonia-Water System):**
 ```
@@ -662,7 +658,7 @@ The Vapour Absorption Refrigeration (VAR) system works on the same principle as 
 
 ---
 
-**(b) A refrigerating unit takes 1.0 hour to produce 600 kg of ice from water at 30°C. During this time the machine consumes 25 kWh of energy. Find (i) The capacity of the machine in TOR, and (ii) COP. [8]**
+**(b) A refrigerating unit takes 1.0 hour to produce 600 kg of ice from water at 30°C. During this time the machine consumes 25 kWh of energy. Find (i) The capacity of the machine in TOR, and (ii) COP. \[8]**
 
 **Given Data:**
 *   Mass of ice produced, `m` = 600 kg
@@ -720,7 +716,7 @@ Alternatively, using power:
 
 ---
 
-**(c) Why is subcooling important for a vapour compression refrigeration system? Explain with a diagram. [4]**
+**(c) Why is subcooling important for a vapour compression refrigeration system? Explain with a diagram. \[4]**
 
 **Subcooling** is the process of cooling the liquid refrigerant below its saturation temperature after it has completely condensed in the condenser. It is important for two main reasons:
 
@@ -764,7 +760,7 @@ Of course. Here are the detailed answers for the final set of questions.
 
 ### **6.**
 
-**(a) ‘Zeroth Law of thermodynamics gives us the idea about thermometer.’—Explain. [4]**
+**(a) ‘Zeroth Law of thermodynamics gives us the idea about thermometer.’—Explain. \[4]**
 
 The Zeroth Law of Thermodynamics states:
 *If two bodies are each in thermal equilibrium with a third body, then they are also in thermal equilibrium with each other.*
@@ -784,7 +780,7 @@ Therefore, the Zeroth Law establishes that temperature is a valid property that 
 
 ---
 
-**(b) What is Clausius inequality? Show that the Clausius Inequality is negative for irreversible cycle and is equal to zero for reversible cycle. [5]**
+**(b) What is Clausius inequality? Show that the Clausius Inequality is negative for irreversible cycle and is equal to zero for reversible cycle. \[5]**
 
 **Clausius Inequality:**
 The Clausius inequality is a mathematical statement of the Second Law of Thermodynamics, applicable to any thermodynamic cycle. It states that the cyclic integral of `δQ/T` is always less than or equal to zero.
@@ -823,7 +819,7 @@ Since `T₀` (absolute temperature) is always positive, we must have:
 
 ---
 
-**(c) What is perpetual motion machine of the first (PMM-I) kind? Explain its possibility in case of real world. [5]**
+**(c) What is perpetual motion machine of the first (PMM-I) kind? Explain its possibility in case of real world. \[5]**
 
 **Definition:**
 A Perpetual Motion Machine of the First Kind (PMM-I) is a hypothetical device that continuously produces work without consuming any energy from an external source. In other words, it is a machine that creates energy from nothing.
@@ -839,7 +835,7 @@ A PMM-I is **impossible** in the real world. The law of conservation of energy i
 
 ---
 
-**(d) ‘A violation of Clausius Statement of second law of thermodynamics implies the violation of Kelvin-Plank statement and vice-versa.’—Explain with example. \[6]**
+**(d) ‘A violation of Clausius Statement of second law of thermodynamics implies the violation of Kelvin-Plank statement and vice-versa.’—Explain with example. \\[6]**
 
 The Clausius and Kelvin-Planck statements are two different formulations of the Second Law of Thermodynamics, but they are entirely equivalent. The violation of one automatically implies the violation of the other.
 
@@ -863,13 +859,13 @@ Therefore, the two statements are logically equivalent.
 
 ### **7.**
 
-**(a) Define fit. [2]**
+**(a) Define fit. \[2]**
 
 Fit is the relationship between two mating parts, such as a hole and a shaft, that results from the difference between their sizes before assembly. It defines the degree of tightness or looseness between them.
 
 ---
 
-**(b) Describe three types of fits. [6]**
+**(b) Describe three types of fits. \[6]**
 
 The three main types of fits are Clearance, Interference, and Transition.
 
@@ -890,7 +886,7 @@ The three main types of fits are Clearance, Interference, and Transition.
 
 ---
 
-**(c) What is meant by ‘hole basis’ and ‘shaft basis’? Which one is preferred and why? [6]**
+**(c) What is meant by ‘hole basis’ and ‘shaft basis’? Which one is preferred and why? \[6]**
 
 **Definitions:**
 *   **Hole Basis System:** In this system, the size of the hole is kept as the basic size (its lower deviation is zero, designated 'H'). Different fits (clearance, transition, interference) are achieved by varying the size of the shaft.
@@ -905,7 +901,7 @@ The **Hole Basis System** is overwhelmingly preferred in industry. The reasons a
 
 ---
 
-**(d) Mention different types of power threads. Discuss their relative advantages and disadvantages. [6]**
+**(d) Mention different types of power threads. Discuss their relative advantages and disadvantages. \[6]**
 
 Power threads (or power screws) are designed to transmit power and motion. The main types are:
 
@@ -1057,7 +1053,7 @@ Key elements include:
 
 ### **9.**
 
-**(a) Discuss the concept and nature of personnel management. How does personnel management contribute to the optimum utilization of human resources of an organisation? [7]**
+**(a) Discuss the concept and nature of personnel management. How does personnel management contribute to the optimum utilization of human resources of an organisation? \[7]**
 
 **Concept and Nature of Personnel Management:**
 Personnel management (now often called Human Resource Management or HRM) is the part of management concerned with the "people" dimension of an organization. It involves the planning, organizing, directing, and controlling of the procurement, development, compensation, integration, and maintenance of human resources to achieve individual, organizational, and societal objectives.
@@ -1079,7 +1075,7 @@ Personnel management ensures that human resources are used effectively and effic
 
 ---
 
-**(b) What is span of control? Suggest the form of organisation for a construction project with explanation. [6]**
+**(b) What is span of control? Suggest the form of organisation for a construction project with explanation. \[6]**
 
 **Span of Control:**
 Span of control (or span of management) refers to the number of subordinates that a manager or supervisor can directly and effectively manage. The span can be:
@@ -1104,7 +1100,7 @@ A construction project is complex, temporary, and requires collaboration between
 
 ---
 
-**(c) Explain research cost and research risk. Is research a cost or an investment in an organisation? Give reasons in favour of your opinion. [7]**
+**(c) Explain research cost and research risk. Is research a cost or an investment in an organisation? Give reasons in favour of your opinion. \[7]**
 
 **Research Cost:** This refers to all the direct and indirect expenses incurred by an organization in conducting research and development (R&D) activities. This includes salaries of researchers, cost of materials and supplies, expenditure on laboratory equipment, and overheads.
 
@@ -1127,7 +1123,7 @@ While research has costs and risks, its strategic intent and potential to genera
 
 ### **10.**
 
-**(a) What is centrifugal casting? Describe the main features and advantages of centrifugal casting. [5]**
+**(a) What is centrifugal casting? Describe the main features and advantages of centrifugal casting. \[5]**
 
 **Centrifugal Casting:**
 Centrifugal casting is a process where molten metal is poured into a rotating mold. The high-speed rotation generates strong centrifugal forces that push the molten metal against the inner walls of the mold, where it solidifies.
@@ -1146,7 +1142,7 @@ Centrifugal casting is a process where molten metal is poured into a rotating mo
 
 ---
 
-**(b) Mention the common drilling operations in manufacturing process. Describe and designate the principle units of vertical drill press. [5]**
+**(b) Mention the common drilling operations in manufacturing process. Describe and designate the principle units of vertical drill press. \[5]**
 
 **Common Drilling Operations:**
 1.  **Drilling:** Creating a new round hole in a workpiece using a drill bit.
@@ -1165,7 +1161,7 @@ Centrifugal casting is a process where molten metal is poured into a rotating mo
 
 ---
 
-**(c) How are shaping and planning alike? Write the advantages and disadvantages of shaping and planning as compared to other operations. [5]**
+**(c) How are shaping and planning alike? Write the advantages and disadvantages of shaping and planning as compared to other operations. \[5]**
 
 **Similarities between Shaping and Planning:**
 *   **Function:** Both are used to produce flat surfaces.
@@ -1187,7 +1183,7 @@ The key difference is that in a **shaper**, the tool reciprocates while the work
 
 ---
 
-**(d) Briefly describe the working principle of resistance welding. [5]**
+**(d) Briefly describe the working principle of resistance welding. \[5]**
 
 The working principle of resistance welding is based on **Joule's Law of Heating**, which states that the heat generated (`H`) is proportional to the square of the current (`I`), the resistance of the material (`R`), and the time the current flows (`t`).
 **H = I²RT**
@@ -1204,7 +1200,7 @@ The most common form of resistance welding is **spot welding**.
 
 ### **11.**
 
-**(a) What are the causes and effects of vibration? [4]**
+**(a) What are the causes and effects of vibration? \[4]**
 
 **Causes of Vibration:**
 1.  **Unbalanced Forces:** Unbalanced rotating or reciprocating parts in machinery (e.g., an unbalanced tire on a car, a piston in an engine).
@@ -1222,7 +1218,7 @@ The most common form of resistance welding is **spot welding**.
 
 ---
 
-**(b) Explain why only a part of unbalanced force due to reciprocating masses is balanced by removing mass. [10]**
+**(b) Explain why only a part of unbalanced force due to reciprocating masses is balanced by removing mass. \[10]**
 
 This question refers to balancing a single-cylinder engine. The unbalanced force caused by the reciprocating masses (piston, part of connecting rod) is complex.
 
@@ -1258,7 +1254,7 @@ By choosing a fraction 'c', we are left with a smaller unbalanced force in *both
 
 ---
 
-**(c) Write short notes on primary and secondary balancing. [6]**
+**(c) Write short notes on primary and secondary balancing. \[6]**
 
 The unbalanced force from a reciprocating mass (`F_u`) can be expressed as a series:
 `F_u = mrω²(cosθ + (cos(2θ)/n))`
@@ -1282,7 +1278,7 @@ Of course. Here are the detailed answers for questions 12, 13, and 14.
 
 ### **12.**
 
-**(a) Explain briefly accuracy and precision. What are the requirements of accurate measuring instruments? [6]**
+**(a) Explain briefly accuracy and precision. What are the requirements of accurate measuring instruments? \[6]**
 
 **Accuracy and Precision:**
 *   **Accuracy:** This is the degree of closeness of a measured value to the actual or true value of the quantity being measured. An accurate measurement has a small error.
@@ -1305,7 +1301,7 @@ For an instrument to be considered accurate and reliable, it must possess severa
 
 ---
 
-**(b) Describe non-destructive testing (NDT). Compare NDT with conventional techniques. [7]**
+**(b) Describe non-destructive testing (NDT). Compare NDT with conventional techniques. \[7]**
 
 **Non-Destructive Testing (NDT):**
 NDT is a wide group of analysis techniques used in science and industry to evaluate the properties of a material, component, or system without causing damage. The primary purpose of NDT is to find and characterize material defects (like cracks, voids, or inclusions) and measure physical properties, ensuring quality and safety while preserving the part for its intended service.
@@ -1325,7 +1321,7 @@ Common NDT methods include: Ultrasonic Testing (UT), Radiographic Testing (RT), 
 
 ---
 
-**(c) Why is surface finish very important in engineering applications? Describe two methods of testing flatness of a surface mentioning the advantages and limitations. [7]**
+**(c) Why is surface finish very important in engineering applications? Describe two methods of testing flatness of a surface mentioning the advantages and limitations. \[7]**
 
 **Importance of Surface Finish:**
 Surface finish (or surface roughness) is critical in engineering for several reasons:
@@ -1353,7 +1349,7 @@ Surface finish (or surface roughness) is critical in engineering for several rea
 
 ### **13.**
 
-**(a) Draw the P-V and T-S diagrams of an air standard diesel cycle and explain. Also discuss the deviations of actual cycle compared with air standard cycle. [8]**
+**(a) Draw the P-V and T-S diagrams of an air standard diesel cycle and explain. Also discuss the deviations of actual cycle compared with air standard cycle. \[8]**
 
 **P-V and T-S Diagrams of Air-Standard Diesel Cycle:**
 
@@ -1389,7 +1385,7 @@ The actual diesel engine cycle differs from the ideal air-standard cycle in seve
 
 ---
 
-**(b) A diesel engine has a compression ratio of 20 and cut-off takes place at 5% of the stroke. Find the air-standard efficiency. [6]**
+**(b) A diesel engine has a compression ratio of 20 and cut-off takes place at 5% of the stroke. Find the air-standard efficiency. \[6]**
 
 **Given Data:**
 *   Compression ratio, `r = V1 / V2 = 20`
@@ -1415,20 +1411,20 @@ Now find `ρ`:
 
 **Step 2: Calculate the Air-Standard Efficiency (η)**
 The formula for Diesel cycle efficiency is:
-`η_diesel = 1 - [1 / (r^(γ-1))] * [(ρ^γ - 1) / (γ(ρ - 1))]`
+`η_diesel = 1 - \[1 / (r^(γ-1))] * \[(ρ^γ - 1) / (γ(ρ - 1))]`
 
 Substitute the values:
-`η_diesel = 1 - [1 / (20^(1.4-1))] * [(1.95^1.4 - 1) / (1.4 * (1.95 - 1))]`
-`η_diesel = 1 - [1 / (20^0.4)] * [(2.553 - 1) / (1.4 * 0.95)]`
-`η_diesel = 1 - [1 / 3.314] * [1.553 / 1.33]`
-`η_diesel = 1 - [0.3017] * [1.1677]`
+`η_diesel = 1 - \[1 / (20^(1.4-1))] * \[(1.95^1.4 - 1) / (1.4 * (1.95 - 1))]`
+`η_diesel = 1 - \[1 / (20^0.4)] * \[(2.553 - 1) / (1.4 * 0.95)]`
+`η_diesel = 1 - \[1 / 3.314] * \[1.553 / 1.33]`
+`η_diesel = 1 - \[0.3017] * \[1.1677]`
 `η_diesel = 1 - 0.3523 = 0.6477`
 
 **The air-standard efficiency of the engine is 64.77%.**
 
 ---
 
-**(c) What is compression ratio in IC engine? Calculate the clearance volume in percent of displacement for an air-standard Otto cycle having an efficiency of 50%. [6]**
+**(c) What is compression ratio in IC engine? Calculate the clearance volume in percent of displacement for an air-standard Otto cycle having an efficiency of 50%. \[6]**
 
 **Compression Ratio (r):**
 The compression ratio in an internal combustion (IC) engine is the ratio of the total volume of the cylinder (when the piston is at the bottom dead center) to the clearance volume (when the piston is at the top dead center).
@@ -1465,7 +1461,7 @@ To express this as a percentage:
 
 ### **14.**
 
-**(a) With necessary diagrams deduce the working principle of a regenerative gas turbine and explain the effectiveness of a regenerator for an ideal regenerative Bryton cycle. [6]**
+**(a) With necessary diagrams deduce the working principle of a regenerative gas turbine and explain the effectiveness of a regenerator for an ideal regenerative Bryton cycle. \[6]**
 
 **Working Principle and Diagrams:**
 
@@ -1519,7 +1515,7 @@ A higher effectiveness (closer to 1 or 100%) means more waste heat is recovered,
 
 ---
 
-**(b) What is staging in steam turbine and why is it done? Explain different types of staging with necessary diagrams. [4]**
+**(b) What is staging in steam turbine and why is it done? Explain different types of staging with necessary diagrams. \[4]**
 
 **Staging:**
 Staging in a steam turbine is the process of expanding the high-pressure steam in a series of smaller steps or stages, rather than in a single large expansion. Each stage consists of a set of nozzles and blades.
@@ -1553,7 +1549,7 @@ It is done to control and reduce the velocity of the steam and the rotational sp
 
 ---
 
-**(c) Briefly explain an ideal reheat Rankine cycle with block diagram and corresponding T-S plane. [4]**
+**(c) Briefly explain an ideal reheat Rankine cycle with block diagram and corresponding T-S plane. \[4]**
 
 The ideal reheat Rankine cycle involves expanding the steam in two stages and reheating it in between. The primary purpose is to increase the quality (dryness) of the steam at the turbine outlet, which prevents erosion of the turbine blades and can improve thermal efficiency.
 
@@ -1592,7 +1588,7 @@ The ideal reheat Rankine cycle involves expanding the steam in two stages and re
 
 ---
 
-**(d) A synchronous generator is to supply power at 50Hz. If a turbine rotating at a speed of 300rpm is to rotate a generator at 750rpm through a gearbox, determine the gear ratio and number of poles of the generator. [6]**
+**(d) A synchronous generator is to supply power at 50Hz. If a turbine rotating at a speed of 300rpm is to rotate a generator at 750rpm through a gearbox, determine the gear ratio and number of poles of the generator. \[6]**
 
 **Given Data:**
 *   Generator Frequency, `f` = 50 Hz

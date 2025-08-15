@@ -17,7 +17,7 @@ source ~/.zshrc
 Then creating the instance
 
 ```zsh
-multipass launch --name uu --cpus 3 --memory 14G --disk 10G
+multipass launch --name uu --cpus 3 --memory 14G --disk 15G
 ```
 
 

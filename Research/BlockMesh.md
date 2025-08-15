@@ -158,3 +158,9 @@ boundary
     *   **`type wall;`**: Specifically for wall boundaries.
     *   **`type empty;`**: This is a crucial type for 2D simulations in OpenFOAM. Since the mesh is only 1 cell thick in the z-direction, the `empty` type on the front and back faces tells the solver to ignore that dimension, effectively running the simulation in 2D.
     *   **`faces (...)`**: Each face is defined by listing its vertex numbers in order (either clockwise or counter-clockwise when viewed from inside the block).
+
+# Toposet
+
+To refine or edit mesh after snappyHexMesh -overwrite I needed to use refineMesh -overwrite. But it needs topoSet to work well. Without topoSet it divides cells into all direction equally.
+
+So I had to run toposet and then refineMesh -overwrite
