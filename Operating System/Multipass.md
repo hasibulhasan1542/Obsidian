@@ -25,8 +25,8 @@ multipass launch --name uu --cpus 3 --memory 14G --disk 15G
 Inside VM
 
 ```bash
-sudo apt update
-sudo apt install samba -y
+sudo apt update -y
+sudo apt install eza curl wget samba -y
 ```
 
 ```bash
@@ -42,13 +42,12 @@ paste this into that
 
 ```
 [share]
-
-   comment = share from Multipass VM
-   path = /home/ubuntu/share
-   browseable = yes
-   guest ok = yes
-   read only = no
-   valid users = ubuntu
+   comment = share from Multipass VM
+   path = /home/ubuntu/share
+   browseable = yes
+   guest ok = yes
+   read only = no
+   valid users = ubuntu
 ```
 
 setup password
