@@ -30,7 +30,7 @@ sudo apt install eza curl wget samba -y
 ```
 
 ```bash
-mkdir ~/share
+mkdir ~/share/Ubuntu
 ```
 
 Configure smba

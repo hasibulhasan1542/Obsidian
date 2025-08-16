@@ -7,49 +7,49 @@ wget https://sourceforge.net/projects/openfoam/files/v2506/OpenFOAM-v2506.tgz/do
 wget https://sourceforge.net/projects/openfoam/files/v2506/ThirdParty-v2506.tgz/download -O ThirdParty-v2506.tgz
 ```
 
-then
-
-```bash
-mkdir ~/openfoam
-```
-
-after putting the downloaded .tgz file inside ~/openfoam
-
-```bash
-cd ~/openfoam
-```
-
-```bash
-tar -xvzf OpenFOAM-v2506.tgz
-```
-
-```bash
-source ~/openfoam/OpenFOAM-v2506/etc/bashrc
-```
-
-To start build with all available CPU core
-
-```bash
-./Allwmake -j $(nproc) -s -q
-```
-
 ***
 ***
 <center><h1>Bash Script to do all</h1></center>
 
 ```bash
 #!/usr/bin/bash
+#sudo apt-get update -y
+sudo apt install build-essential -y
+#sudo apt-get install openmpi-bin openmpi-doc libopenmpi-dev -y
+
+sudo apt install -y \
+	python3 \
+    build-essential \
+    autoconf \
+    autotools-dev \
+    cmake \
+    git \
+    flex \
+    bison \
+    zlib1g-dev \
+    libgmp-dev \
+    libmpfr-dev \
+    libboost-system-dev \
+    libboost-thread-dev \
+    openmpi-bin \
+    libopenmpi-dev \
+    libptscotch-dev \
+    libcgal-dev
+
+mkdir /home/ubuntu/openfoam
+sudo chmod -R a+rwx /home/ubuntu/openfoam
+cd /home/ubuntu/openfoam
 wget https://sourceforge.net/projects/openfoam/files/v2506/OpenFOAM-v2506.tgz/download -O OpenFOAM-v2506.tgz
+sudo chmod -R a+rwx /home/ubuntu/openfoam/OpenFOAM-v2506.tgz
 tar -xvzf OpenFOAM-v2506.tgz
-cd OpenFOAM-v2506
-source ~/OpenFOAM-v2506/etc/bashrc
+sudo chmod -R a+rwx /home/ubuntu/openfoam/OpenFOAM-v2506
+cd
+source /home/ubuntu/openfoam/OpenFOAM-v2506/etc/bashrc
+cd /home/ubuntu/openfoam/OpenFOAM-v2506
 ./Allwmake -j$(nproc) -s -q
 #./Allwmake-plugins -j3 vtkOutput cfMesh
-echo "source \$HOME/openfoam/OpenFOAM-v2506/etc/bashrc" >> ~/.bashrc
+echo "source /home/ubuntu/openfoam/OpenFOAM-v2506/etc/bashrc" >> ~/.bashrc
 ```
-
- ![[openfoam.sh | Shell]]
- ***
 
 ___
 
